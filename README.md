@@ -12,6 +12,7 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 - **Servidor Coreano do P5X:** [p5x.perfectworld.com](https://p5x.perfectworld.com)
 - **Discord do Piestudios (Para baixar a tradução original):** [P5XWorldWide](https://discord.com/invite/P5XWorldWide)
 - **Tutorial de instalação do jogo (caso necessário):** [YouTube](https://youtu.be/7nVxXs_68DQ)
+> **Nota:** O tutorial em vídeo sobre a instalação do jogo também trata da correção de um bug para o idioma PT. No entanto, ele menciona incorretamente que é necessário alterar a região do windows. Na verdade, a solução correta é simplesmente ajustar o Formato Regional. Se houver alguma dúvida, consulte o tutorial detalhado mais abaixo.
 
 ## Como Instalar
 1. **Baixe a tradução original do Piestudios** no Discord deles.
