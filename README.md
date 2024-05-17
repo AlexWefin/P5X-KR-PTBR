@@ -32,7 +32,7 @@ Se você estiver enfrentando problemas de renderização durante as batalhas no 
 ![Formato Regional](https://i.imgur.com/Q0z6LXW.png)
 **Nota:** Caso o idioma “Inglês (Estados Unidos)” não esteja aparecendo, não se preocupe. Siga o tutorial abaixo para adicioná-lo.
 
-2. **Adicionando o Teclado Americano:**
+**Adicionando o Teclado Americano:**
    - Abra o Painel de Controle.
    - Vá para "Idioma".
    - Em "Idiomas de entrada e saída", clique em "Alterar métodos de entrada".
