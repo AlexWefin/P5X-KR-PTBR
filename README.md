@@ -28,7 +28,7 @@ Um bug comum ao nosso idioma (não relacionado à tradução) é um problema na 
 > **Nota:** O vídeo tutorial de instalação do jogo também aborda a correção desse bug, mas menciona erroneamente que é preciso mudar a região do jogo. A correção correta é apenas alterar o Formato Regional conforme descrito acima.
 
 ## Como Alterar o Formato Regional e Adicionar o Teclado Americano
-Se você estiver enfrentando problemas com a renderização do jogo ou o idioma inglês não estiver aparecendo, siga os passos abaixo:
+Se você estiver enfrentando problemas com a renderização do jogo, siga os passos abaixo:
 
 1. **Abra o Painel de Controle.** Você pode fazer isso pesquisando "Painel de Controle" na barra de pesquisa do Windows.
 2. **Vá para "Relógio e Região".**
@@ -38,7 +38,7 @@ Se você estiver enfrentando problemas com a renderização do jogo ou o idioma 
 
 > **Nota:** Caso o idioma *“Inglês (Estados Unidos)”* não esteja aparecendo, não se preocupe. Basta seguir o tutorial abaixo que aí ele aparecerá.
 
-Para adicionar o teclado americano:
+Como adicionar o teclado americano:
 
 1. **Abra o Painel de Controle.**
 2. **Vá para "Idioma".**
