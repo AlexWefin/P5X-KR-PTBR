@@ -1,6 +1,6 @@
 # Tradução PTBR - P5X (KR)
 
-![Logo do P5X KR](https://i.imgur.com/qwPkdUf.png)
+!Logo do P5X KR
 
 Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5X)**, exclusivamente para o servidor coreano (KR). Este patch foi desenvolvido com base na tradução original do Piestudios e utiliza inteligência artificial para traduzir todas as linhas do jogo. Embora não seja uma tradução perfeita ou profissional, ela é compreensível e funcional.
 
@@ -9,9 +9,9 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 - **A tradução PTBR só funciona no servidor coreano do P5X.**
 
 ### Links Úteis
-- **Servidor Coreano do P5X:** [p5x.perfectworld.com](https://p5x.perfectworld.com)
-- **Discord do Piestudios (Para baixar a tradução original):** [P5XWorldWide](https://discord.com/invite/P5XWorldWide)
-- **Tutorial de instalação do jogo (caso necessário):** [YouTube](https://youtu.be/7nVxXs_68DQ)
+- **Servidor Coreano do P5X:** p5x.perfectworld.com
+- **Discord do Piestudios (Para baixar a tradução original):** P5XWorldWide
+- **Tutorial de instalação do jogo (caso necessário):** YouTube
 
 ## Como Instalar
 1. **Baixe a tradução original do Piestudios** no Discord deles.
@@ -23,32 +23,52 @@ Um bug comum ao nosso idioma (não relacionado à tradução) é um problema na 
 1. Mude o Formato regional para "Inglês (Estados Unidos)".
 2. Reabra o Launcher e o jogo.
 
-![Formato Regional](https://i.imgur.com/Q0z6LXW.png)
+!Formato Regional
 
 > **Nota:** O vídeo tutorial de instalação do jogo também aborda a correção desse bug, mas menciona erroneamente que é preciso mudar a região do jogo. A correção correta é apenas alterar o Formato Regional conforme descrito acima.
+
+## Como Alterar o Formato Regional e Adicionar o Teclado Americano
+Se você estiver enfrentando problemas com a renderização do jogo ou o idioma inglês não estiver aparecendo, siga os passos abaixo:
+
+1. **Abra o Painel de Controle.** Você pode fazer isso pesquisando "Painel de Controle" na barra de pesquisa do Windows.
+2. **Vá para "Relógio e Região".**
+3. **Clique em "Alterar formatos de data, hora ou número".**
+4. **No menu suspenso "Formato:", selecione "Inglês (Estados Unidos)".**
+5. **Clique em "Aplicar" e depois em "OK".**
+
+Para adicionar o teclado americano:
+
+1. **Abra o Painel de Controle.**
+2. **Vá para "Idioma".**
+3. **Em "Idiomas de entrada e saída", clique em "Alterar métodos de entrada".**
+4. **Clique em "Adicionar um idioma".**
+5. **Procure e selecione "Inglês (Estados Unidos)".**
+6. **Clique em "Adicionar" e depois em "OK".**
+
+Agora você deve ser capaz de alternar entre os idiomas de entrada usando a barra de idiomas na barra de tarefas do Windows.
 
 ## Imagens da Tradução em Funcionamento
 
 ### Banner do Gacha
-![Banner do Gacha](https://i.imgur.com/EXTOlyC.png)
+!Banner do Gacha
 
 ### Recompensa de Login
-![Recompensa de Login](https://i.imgur.com/CYv9D2a.png)
+!Recompensa de Login
 
 ### Livro de Desafios
-![Livro de Desafios](https://i.imgur.com/3Rdcqwk.png)
+!Livro de Desafios
 
 ### Missões
-![Missões](https://i.imgur.com/qL5CzK8.png)
+!Missões
 
 ### Diálogo
-![Diálogo](https://i.imgur.com/NAGap8s.png)
+!Diálogo
 
 ### Habilidades em Batalha
-![Habilidades em Batalha](https://i.imgur.com/OwUzO3B.png)
+!Habilidades em Batalha
 
 ### Tutoriais
-![Tutoriais](https://i.imgur.com/O8lWAvr.png)
+!Tutoriais
 
 ## Informações Adicionais
 - **Retornar para a versão em inglês:** Para voltar para o inglês, reinstale o patch original em inglês. Alternativamente, edite o arquivo `AutoTranslatorConfig.ini` em `P5X\client\pc\BepInEx\config\` e altere a linha do idioma para o desejado. 
