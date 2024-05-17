@@ -1,6 +1,6 @@
 # Tradução PTBR - P5X (KR)
 
-!Logo do P5X KR
+![Logo do P5X KR](https://i.imgur.com/qwPkdUf.png)
 
 Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5X)**, exclusivamente para o servidor coreano (KR). Este patch foi desenvolvido com base na tradução original do Piestudios e utiliza inteligência artificial para traduzir todas as linhas do jogo. Embora não seja uma tradução perfeita ou profissional, ela é compreensível e funcional.
 
@@ -9,9 +9,9 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 - **A tradução PTBR só funciona no servidor coreano do P5X.**
 
 ### Links Úteis
-- **Servidor Coreano do P5X:** p5x.perfectworld.com
-- **Discord do Piestudios (Para baixar a tradução original):** P5XWorldWide
-- **Tutorial de instalação do jogo (caso necessário):** YouTube
+- **Servidor Coreano do P5X:** [p5x.perfectworld.com](https://p5x.perfectworld.com)
+- **Discord do Piestudios (Para baixar a tradução original):** [P5XWorldWide](https://discord.com/invite/P5XWorldWide)
+- **Tutorial de instalação do jogo (caso necessário):** [YouTube](https://youtu.be/7nVxXs_68DQ)
 
 ## Como Instalar
 1. **Baixe a tradução original do Piestudios** no Discord deles.
@@ -23,7 +23,7 @@ Um bug comum ao nosso idioma (não relacionado à tradução) é um problema na 
 1. Mude o Formato regional para "Inglês (Estados Unidos)".
 2. Reabra o Launcher e o jogo.
 
-!Formato Regional
+![Formato Regional](https://i.imgur.com/Q0z6LXW.png)
 
 > **Nota:** O vídeo tutorial de instalação do jogo também aborda a correção desse bug, mas menciona erroneamente que é preciso mudar a região do jogo. A correção correta é apenas alterar o Formato Regional conforme descrito acima.
 
@@ -50,25 +50,25 @@ Agora você deve ser capaz de alternar entre os idiomas de entrada usando a barr
 ## Imagens da Tradução em Funcionamento
 
 ### Banner do Gacha
-!Banner do Gacha
+![Banner do Gacha](https://i.imgur.com/EXTOlyC.png)
 
 ### Recompensa de Login
-!Recompensa de Login
+![Recompensa de Login](https://i.imgur.com/CYv9D2a.png)
 
 ### Livro de Desafios
-!Livro de Desafios
+![Livro de Desafios](https://i.imgur.com/3Rdcqwk.png)
 
 ### Missões
-!Missões
+![Missões](https://i.imgur.com/qL5CzK8.png)
 
 ### Diálogo
-!Diálogo
+![Diálogo](https://i.imgur.com/NAGap8s.png)
 
 ### Habilidades em Batalha
-!Habilidades em Batalha
+![Habilidades em Batalha](https://i.imgur.com/OwUzO3B.png)
 
 ### Tutoriais
-!Tutoriais
+![Tutoriais](https://i.imgur.com/O8lWAvr.png)
 
 ## Informações Adicionais
 - **Retornar para a versão em inglês:** Para voltar para o inglês, reinstale o patch original em inglês. Alternativamente, edite o arquivo `AutoTranslatorConfig.ini` em `P5X\client\pc\BepInEx\config\` e altere a linha do idioma para o desejado. 
