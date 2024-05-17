@@ -22,6 +22,7 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 Um bug comum ao nosso idioma (não relacionado à tradução) é um problema na renderização durante batalhas. Para resolver:
 1. Mude o Formato regional para "Inglês (Estados Unidos)".
 2. Reabra o Launcher e o jogo.
+> **Nota:** O vídeo tutorial de instalação do jogo também aborda a correção desse bug, mas menciona erroneamente que é preciso mudar a região do jogo. A correção correta é apenas alterar o Formato Regional conforme descrito acima.
 
 ## Como Alterar o Formato Regional
 Se você estiver enfrentando problemas com a renderização do jogo, siga os passos abaixo:
@@ -43,8 +44,6 @@ Adicionando o teclado americano:
 4. **Clique em "Adicionar um idioma".**
 5. **Procure e selecione "Inglês (Estados Unidos)".**
 6. **Clique em "Adicionar" e depois em "OK".**
-
-> **Nota:** O vídeo tutorial de instalação do jogo também aborda a correção desse bug, mas menciona erroneamente que é preciso mudar a região do jogo. A correção correta é apenas alterar o Formato Regional conforme descrito acima.
 
 ## Imagens da Tradução em Funcionamento
 
