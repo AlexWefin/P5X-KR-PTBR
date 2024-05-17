@@ -85,7 +85,7 @@ Se você estiver enfrentando problemas de renderização durante as batalhas no 
 ## Demonstração da Tradução
 
 ### Banner do Gacha
-Os banners de gacha estão com algumas coisas em português.
+Os banners estão com algumas coisas em português.
 
 ![Banner do Gacha](https://i.imgur.com/EXTOlyC.png)
 
