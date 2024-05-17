@@ -8,7 +8,7 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 
 ## Índice
 
-- [Avisos Importantes e Links Úteis](#avisos-importantes-e-links-úteis)
+- [Informações Essenciais](#informações-essenciais)
 
 - [Como Instalar](#como-instalar)
 
@@ -22,7 +22,7 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 
 ---
 
-## Avisos Importantes e Links Úteis
+## Informações Essenciais
 
 - **Esta tradução é um patch que requer a tradução original do [Piestudios](https://www.youtube.com/@PieStudios).**
   - **Discord do Piestudios (Para baixar a tradução original):** [P5XWorldWide](https://discord.com/invite/P5XWorldWide)
@@ -32,6 +32,8 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 
 - **Tutorial de instalação do jogo (caso necessário):** [YouTube](https://youtu.be/7nVxXs_68DQ)
   > **Nota:** O vídeo acima também aborda a correção de um bug que você pode encontrar no jogo. No entanto, ele não apresenta a solução mais prática. Se possível, siga o tutorial detalhado mais abaixo.
+
+---
 
 ## Como Instalar
 
@@ -43,6 +45,8 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 3. **Aplique o patch PTBR** copiando a pasta `BepInEx` do patch para a mesma pasta onde você instalou a tradução do **Piestudios**. Atualmente o caminho é `P5X\client\pc`.
    > **Nota:** Substitua os arquivos conforme solicitado, caso contrário, o patch não funcionará corretamente.
 
+---
+
 ## Tradução Automática do Mod
 
 Este mod possui uma funcionalidade de tradução automática. Ela pode levar alguns segundos para traduzir o texto, mas consegue realizar a tradução. O idioma resultante é uma mistura dos dois tipos de português.
@@ -51,6 +55,8 @@ Todas as traduções geradas automaticamente são arquivadas em um arquivo chama
 
 ![Tradutor auto](https://i.imgur.com/G0ACAym.gif)
   > **Créditos:** Este mod foi desenvolvido pela equipe do Piestudios. Agradeço a eles por seu excelente trabalho!
+
+---
 
 ## Correção de Problemas de Renderização
 
@@ -74,6 +80,8 @@ Se você estiver enfrentando problemas de renderização durante as batalhas no 
    - Procure e selecione "Inglês (Estados Unidos)".
    - Clique em "Adicionar" e depois em "OK".
 
+---
+
 ## Imagens da Tradução em Funcionamento
 
 ### Banner do Gacha
@@ -96,6 +104,8 @@ Se você estiver enfrentando problemas de renderização durante as batalhas no 
 
 ### Tutoriais
 ![Tutoriais](https://i.imgur.com/O8lWAvr.png)
+
+---
 
 ## Informações Adicionais
 
