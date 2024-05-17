@@ -20,16 +20,18 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 
 ### Correção de Problemas de Renderização
 Se você estiver enfrentando problemas de renderização durante as batalhas no jogo, siga estes passos para corrigir:
-Mude o Formato Regional para "Inglês (Estados Unidos)":
+
+**Mude o Formato Regional para "Inglês (Estados Unidos)":**
    - Abra o Painel de Controle. Você pode fazer isso pesquisando "Painel de Controle" na barra de pesquisa do Windows.
    - Vá para "Relógio e Região".
    - Clique em "Alterar formatos de data, hora ou número".
    - No menu suspenso "Formato:", selecione "Inglês (Estados Unidos)".
    - Clique em "Aplicar" e depois em "OK".
+
 ![Formato Regional](https://i.imgur.com/Q0z6LXW.png)
 > **Nota:** Caso o idioma *“Inglês (Estados Unidos)”*  não esteja aparecendo, não se preocupe. Siga o tutorial abaixo para adicioná-lo.
 
-Adicionando o Teclado Americano:
+**Adicionando o Teclado Americano:**
    - Abra o Painel de Controle.
    - Vá para "Idioma".
    - Em "Idiomas de entrada e saída", clique em "Alterar métodos de entrada".
