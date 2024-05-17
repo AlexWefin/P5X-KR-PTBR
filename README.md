@@ -1,4 +1,4 @@
-# Persona 5: The Phantom X (P5X) PTBR - KR Server
+# Tradução PTBR - P5X (KR)
 
 ![Logo do P5X KR](https://i.imgur.com/qwPkdUf.png)
 
