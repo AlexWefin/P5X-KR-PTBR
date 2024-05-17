@@ -70,7 +70,7 @@ Se você estiver enfrentando problemas de renderização durante as batalhas no 
    - Clique em "Aplicar" e depois em "OK".
 
 ![Formato Regional](https://i.imgur.com/Q0z6LXW.png)
-**Nota:** Caso o idioma “Inglês (Estados Unidos)” não esteja aparecendo, não se preocupe. Siga o tutorial abaixo para adicioná-lo.
+> **Nota:** Caso o idioma “Inglês (Estados Unidos)” não esteja aparecendo, não se preocupe. Siga o tutorial abaixo para adicioná-lo.
 
 **Adicionando o Teclado Americano:**
    - Abra o Painel de Controle.
