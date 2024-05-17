@@ -18,32 +18,24 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 2. **Instale a tradução do Piestudios** seguindo o tutorial disponível no Discord.
 3. **Aplique o patch PTBR** copiando os arquivos do patch para a mesma pasta onde você instalou a tradução do Piestudios. No momento, o caminho é `P5X\client\pc`.
 
-### Nota sobre bugs comuns
-Um bug comum ao nosso idioma (não relacionado à tradução) é um problema na renderização durante batalhas. Para resolver:
-1. Mude o Formato regional para "Inglês (Estados Unidos)".
-2. Reabra o Launcher e o jogo.
-> **Nota:** O vídeo tutorial de instalação do jogo também aborda a correção desse bug, mas menciona erroneamente que é preciso mudar a região do jogo. A correção correta é apenas alterar o Formato Regional conforme descrito acima.
-
-## Como Alterar o Formato Regional
-Se você estiver enfrentando problemas com a renderização do jogo, siga os passos abaixo:
-
-1. **Abra o Painel de Controle.** Você pode fazer isso pesquisando "Painel de Controle" na barra de pesquisa do Windows.
-2. **Vá para "Relógio e Região".**
-3. **Clique em "Alterar formatos de data, hora ou número".**
-4. **No menu suspenso "Formato:", selecione "Inglês (Estados Unidos)".**
-5. **Clique em "Aplicar" e depois em "OK".**
-
+### Correção de Problemas de Renderização
+Se você estiver enfrentando problemas de renderização durante as batalhas no jogo, siga estes passos para corrigir:
+- Mude o Formato Regional para "Inglês (Estados Unidos)":
+   1. Abra o Painel de Controle. Você pode fazer isso pesquisando "Painel de Controle" na barra de pesquisa do Windows.
+   2. Vá para "Relógio e Região".
+   3. Clique em "Alterar formatos de data, hora ou número".
+   4. No menu suspenso "Formato:", selecione "Inglês (Estados Unidos)".
+   5. Clique em "Aplicar" e depois em "OK".
 ![Formato Regional](https://i.imgur.com/Q0z6LXW.png)
-> **Nota:** Caso o idioma *“Inglês (Estados Unidos)”* não esteja aparecendo, não se preocupe. Basta seguir o tutorial abaixo que aí ele aparecerá.
+> **Nota:** Caso o idioma *“Inglês (Estados Unidos)”*  não esteja aparecendo, não se preocupe. Siga o tutorial abaixo para adicioná-lo.
 
-Adicionando o teclado americano:
-
-1. **Abra o Painel de Controle.**
-2. **Vá para "Idioma".**
-3. **Em "Idiomas de entrada e saída", clique em "Alterar métodos de entrada".**
-4. **Clique em "Adicionar um idioma".**
-5. **Procure e selecione "Inglês (Estados Unidos)".**
-6. **Clique em "Adicionar" e depois em "OK".**
+- Adicionando o Teclado Americano:
+   1. Abra o Painel de Controle.
+   2. Vá para "Idioma".
+   3. Em "Idiomas de entrada e saída", clique em "Alterar métodos de entrada".
+   4. Clique em "Adicionar um idioma".
+   5. Procure e selecione "Inglês (Estados Unidos)".
+   6. Clique em "Adicionar" e depois em "OK".
 
 ## Imagens da Tradução em Funcionamento
 
