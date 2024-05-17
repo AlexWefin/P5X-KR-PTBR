@@ -84,16 +84,6 @@ Se você estiver enfrentando problemas de renderização durante as batalhas no 
 
 ## Demonstração da Tradução
 
-### Banner do Gacha
-Os banners estão com algumas coisas em português.
-
-![Banner do Gacha](https://i.imgur.com/EXTOlyC.png)
-
-### Recompensa de Login
-As recompensas de login agora estão em português.
-
-![Recompensa de Login](https://i.imgur.com/CYv9D2a.png)
-
 ### Livro de Desafios
 Os desafios foram traduzidos para facilitar a compreensão.
 
