@@ -82,27 +82,41 @@ Se você estiver enfrentando problemas de renderização durante as batalhas no 
 
 ---
 
-## Imagens da Tradução em Funcionamento
+## Demonstração da Tradução
 
 ### Banner do Gacha
+Os banners de gacha estão com algumas coisas em português.
+
 ![Banner do Gacha](https://i.imgur.com/EXTOlyC.png)
 
 ### Recompensa de Login
+As recompensas de login agora estão em português.
+
 ![Recompensa de Login](https://i.imgur.com/CYv9D2a.png)
 
 ### Livro de Desafios
+Os desafios foram traduzidos para facilitar a compreensão.
+
 ![Livro de Desafios](https://i.imgur.com/3Rdcqwk.png)
 
 ### Missões
+As missões agora estão acessíveis em português.
+
 ![Missões](https://i.imgur.com/qL5CzK8.png)
 
 ### Diálogo
+A maioria dos diálogos está traduzida para uma melhor imersão.
+
 ![Diálogo](https://i.imgur.com/NAGap8s.png)
 
 ### Habilidades em Batalha
+Agora você pode entender as habilidades durante as batalhas.
+
 ![Habilidades em Batalha](https://i.imgur.com/OwUzO3B.png)
 
 ### Tutoriais
+Os tutoriais foram adaptados para o português.
+
 ![Tutoriais](https://i.imgur.com/O8lWAvr.png)
 
 ---
