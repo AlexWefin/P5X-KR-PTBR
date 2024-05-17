@@ -38,7 +38,7 @@ Se você estiver enfrentando problemas com a renderização do jogo, siga os pas
 
 > **Nota:** Caso o idioma *“Inglês (Estados Unidos)”* não esteja aparecendo, não se preocupe. Basta seguir o tutorial abaixo que aí ele aparecerá.
 
-Como adicionar o teclado americano:
+Adicionando o teclado americano:
 
 1. **Abra o Painel de Controle.**
 2. **Vá para "Idioma".**
