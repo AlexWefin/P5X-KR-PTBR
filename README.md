@@ -18,10 +18,11 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 2. **Instale a tradução do Piestudios** seguindo o tutorial disponível no Discord.
 3. **Aplique o patch PTBR** copiando os arquivos do patch para a mesma pasta onde você instalou a tradução do Piestudios. No momento, o caminho é `P5X\client\pc`.
 
-### Correção de Problemas de Renderização
+## Correção de Problemas de Renderização
+
 Se você estiver enfrentando problemas de renderização durante as batalhas no jogo, siga estes passos para corrigir:
 
-1. Mude o Formato Regional para "Inglês (Estados Unidos)":
+1. **Mude o Formato Regional para "Inglês (Estados Unidos)":**
    - Abra o Painel de Controle. Você pode fazer isso pesquisando "Painel de Controle" na barra de pesquisa do Windows.
    - Vá para "Relógio e Região".
    - Clique em "Alterar formatos de data, hora ou número".
@@ -29,9 +30,9 @@ Se você estiver enfrentando problemas de renderização durante as batalhas no 
    - Clique em "Aplicar" e depois em "OK".
 
 ![Formato Regional](https://i.imgur.com/Q0z6LXW.png)
-> **Nota:** Caso o idioma *“Inglês (Estados Unidos)”*  não esteja aparecendo, não se preocupe. Siga o tutorial abaixo para adicioná-lo.
+**Nota:** Caso o idioma “Inglês (Estados Unidos)” não esteja aparecendo, não se preocupe. Siga o tutorial abaixo para adicioná-lo.
 
-2. Adicionando o Teclado Americano:
+2. **Adicionando o Teclado Americano:**
    - Abra o Painel de Controle.
    - Vá para "Idioma".
    - Em "Idiomas de entrada e saída", clique em "Alterar métodos de entrada".
