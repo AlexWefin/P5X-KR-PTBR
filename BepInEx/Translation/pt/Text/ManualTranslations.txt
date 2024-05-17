@@ -1,0 +1,153 @@
+r:"^(.)$"=$1
+!!!!!!!!!! CONTENT THAT IS IN HERE WILL BE REMOVED OVER TIME, PLEASE DO NOT ADD ANYTHING INTO HERE EVER, PLEASE. I BEG YOU. !!!!!!!!!!
+
+말 그대로다. 우리는 자네를 『손님』으로\n맞이하고 있다만…=De fato. Estamos te recebendo como um "hóspede", mas...
+
+[이계 엠버] 1500개를 사용해\n[정해진 운명] 10장을 구매하려고?=Trocar 1500 Metaverse Amber por 10 Destinos?
+
+카드 지갑인 것 같다… 야구공과\n글러브 모양 스트랩도 달려 있다…=Parece uma carteira... com um chaveiro em forma de luva de baseball...
+거짓말, 카드 지갑을 떨어뜨렸나…?=Caramba, será que deixei cair minha carteira...?
+
+마음의 괴도단=Phantom Thieves of Hearts
+
+앞에 뭐하는거야?=Tem algo te bloqueando?
+떨어뜨렸어=Você deixou isso cair
+이거…=aqui...
+
+코카츠=Kokatsu
+
+당연한 반응이긴 하지.=Essa é uma reação natural.
+
+마음의 바다=Sea of Mind
+향상된 잠재력=Potencial Aprimorado
+임무 완료 시 『마음의 바다 시련』 콘텐츠 해제=Desbloquear o Conteúdo 『Desafios do Mar da Mente』 ao Completar a Missão.
+잠재력이 또 향상되어 새로운 도전을 받아들일 수 있을 것 같다.=Sinto que meu potencial melhorou e posso enfrentar novos desafios.
+
+아주 좋아, 좋아!=Bom, muito bom!
+엄~청 완벽한 시작이었어!=Foi um começo perfeito!
+헤헤, 엄청 기대돼. 그럼, 가자!=Hehe, estou realmente ansioso por isso. Vamos lá!
+
+후~ 드디어 한숨 돌릴 수 있겠다...=Ufa~ Finalmente posso respirar...
+드디어 좀 쉴 수 있겠어.=Finalmente posso descansar um pouco.
+
+잘 자!=Boa noite!
+처리했다! 다들 고생했어!=Feito! Todos trabalharam duro!
+
+이 느낌 맞지?=Que sensação, não é?
+역시 원더야, 신난다!=Como esperado, Wonder! Que emocionante!
+준비 완료, 언제든 나설 수 있어!=Preparação completa, prontos para sair a qualquer momento!
+어머~? 꼬마야, 이렇게 일찍 자려고~?=Oh my~? Vai dormir tão cedo assim~?
+잠깐 좀 쉴까?=Vamos dar uma pausa?
+
+비밀의 장소를 통해 교환=<size\=29>Troque na Loja de Veludo</size>
+「<color\=#ff3b37>메멘토스</color>」를 탐색하세요.=Explore 「<color\=#ff3b37>Mementos</color>」
+「<color\=#ff3b37>이세계 내비게이션</color>」을 켜세요.=Ative o 「<color\=#ff3b37>Navegador Metaverso</color>」.
+섀도를 소멸시켜라=Derrote as Sombras
+
+미지의 길 시작=Inicie em um Caminho Desconhecido
+
+팰리스 입장=Entrar no Palácio
+
+팰리스를 조사해라=Investigue o Palácio
+해보자=Vamos tentar
+
+도시 일정=Agenda da Cidade
+아르바이트=Trabalho de Meio Período
+
+주인공 레벨=Nível do Protagonista
+
+광역피해=Dano em Múltiplos Alvos
+단일피해=Dano em Alvo Único
+
+완벽한 처형=Execução Perfeita
+즉시 획득=Obtenha instantaneamente
+여명의 거품=Bolha do Amanhecer
+
+속박=Restrição
+무영의 찌르기=Picada do Nada
+
+열광=Êxtase
+침울=Desânimo
+초점=Foco
+자유♪를 향해=Em Direção à Liberdade
+항쟁=Insurreição
+에너지 변환=Conversão de Energia
+탐구=Exploração
+핵열의 환상=Ilusão Nuclear
+유기 개량사=Fortalecimento da Força Vital
+의문 추적=Rastreando Pistas
+왕성한 동심=Concentração Espiritual
+보물 찾기! 출발!=Prontos! Vamos caçar tesouros!
+탐식=Voracidade
+복수=Pluralidade
+액운의 추격=Perseguição da Fortuna
+두려움 없는 억압=Opressão Destemida
+서막=Prólogo
+의리=Lealdade
+
+넣어둬!=Não me importo se eu fizer!
+레벨 구매=Comprar Níveis
+[이계 엠버] 150개를 사용해\n[정해진 운명] 1장을 구매하려고?=Quer gastar 150 Cristais do Metaverso para comprar 1 Manifestação do Destino?
+
+나무의 울부짖음=Uivo das Árvores
+모두 준비됐어?\n가자.=Todos prontos?\nVamos lá.
+귀중품인 것 같아.=Isso parece valioso!
+수집물=Coleções
+여기는...?=O que é isso...?
+
+온화한 향기 Ⅱ=Fragrância Suave Ⅱ
+뛰어난 사격술=Proficiência em Tiro Superior
+억압의 공간=Espaço de Opressão
+잠재력을 깨우는 장소=Um lugar para desbloquear seu potencial
+화염의 침식=Erosão da Chama
+매화술=Florescimento da Chama
+만발한 꽃=Flor em Flor
+한발로 승부를 결정하자!=Um passo de cada vez!
+
+초보운전=Começando
+우편을 삭제했습니다.=Você deletou um e-mail.
+받을 수 있는 우편의 첨부물이 없습니다.=Não há anexos neste e-mail que você possa receber.
+[이계 엠버] 1500개를 사용해\n[정해진 운명] 10장을 구매하려고?=Quer gastar 1500 Cristais do Metaverso para comprar 10 Manifestações do Destino?
+꾸물대지 말고 빨리 와서 도와!=Pare de ficar aí sentado! Venha ajudar!
+적을 발견했어. 신중히 움직이자.=Inimigo avistado. Movimente-se com cuidado.
+우아한 풍파=Vento Gracioso
+바람의 속삭임=Sussurros do Vento
+화염의 정화=Purificação da Chama
+촛불의 빛=Luz de Vela
+폭염=Onda de Calor
+색욕 파편=Fragmento de Luxúria
+수중 부스터=Impulsionadores Subaquáticos
+
+출천 페르소나 속성은 모두 주인공에게 부여=Atributos Inerentes de Persona são todos concedidos ao protagonista
+
+화상=Causar Queimadura
+
+작열의 영역=Área de Efeito de Queimadura
+팰리스 탐색도=Mapa de Navegação do Palácio
+<color\=#FF0000>Wonder、아라이 모토하、타카마키 안</color>이(가) 동결 상태에 진입했습니다...=<color\=#FF0000>Wonder、Motoha Arai、Ann Takamak A</color> entraram em estado de congelamento...
+
+<color\=#FF0000>노게 토모코</color>이(가) 동결 이상 상태에서 회복되었습니다.=<color\=#FF0000>Tomoko Noge</color> se recuperou do estado de congelamento.
+<color\=#FF0000>아라이 모토하</color>이(가) 현기증 상태에 진입했습니다...=<color\=#FF0000>Motoha Arai</color> ficou tonta...
+아마도 세이프 룸 같군. 활용하자.=Isso parece uma sala segura. Vamos aproveitar!
+
+지금까지 물어볼 기회가 없었는데\n캐틀의 목적은 뭐야?=Eu não tive a chance de perguntar antes, mas qual é o seu desejo, Cattle?
+
+공격력, 속도 증가=Aumento de Ataque e Velocidade
+허황된 희극=Comédia Absurda
+애통한 비극=Tragédia Lamentável
+낭만적인 정극=Oposição Romântica
+운명의 십사행시=Os Catorze Atos do Destino
+
+타오르는 불길=Chama Ardente
+엔젤의 연민=Compaixão Angelical
+
+누구냐!=Quem está aí!?
+
+토모코와 함께하기=Trabalhar com Tomoko
+모토하와 놀러 가기=Brincar com Motoha
+
+sr:"(.*?) 전용"=Exclusivo para $1
+
+괴도를 길게 눌러 육성 가능=<size\=28>Pressione e segure em um Ladrão Fantasma\npara abrir o menu de Atualização deles</size>
+
+sr:"^([\S\s]+) 파라미터가 ([0-9]{1,2})레벨에 도달하면 해제됩니다.$"=Desbloqueia no nível $2 do $1.

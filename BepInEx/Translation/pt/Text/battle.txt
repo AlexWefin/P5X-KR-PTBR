@@ -1,0 +1,517 @@
++++++ ----- Skills ----- +++++
+
+++++ ----- Phantom Thief Combat Skills ----- ++++
+sr:"(.*?) Lv.(\d+)"=$1 Lv.$2
+sr:"(.*?) <color\=#0F69CB>Lv.(\d+)</color>"=$1 <color\=#0F69CB>Lv.$2</color>
+전투 기술=Artes de Combate
+멍청한 조수=Companheiro Bobo
+똑똑한 탐험가=Explorador Inteligente
+왕성한 동심=Inocência Vigorosa
+의문 추적=Rastreando Dúvidas
+복수=Vingança
+액운의 추격=Perseguindo Infortúnio
+불길한 징조=Sinais Sombrios
+자신=Autoconfiança
+미라클 펀치=Soco Milagroso
+치유술=Arte de Cura
+질풍 강습=Ataque Tempestuoso
+예민한 후각=Sentido Aguçado de Olfato
+정열=Paixão
+활력=Vitalidade
+화끈한 변주곡=Variações Flamejantes
+화려한 흔들림=Abalo Esplêndido
+즐거운 파티=Festa Alegre
+속성 증가=Aumento de Atributo
+건방진♪댄스=Dança Atrevida♪
+특공=Ataque Especial
+차지 일격=Golpe Carregado
+전격의 징계=Punição Relâmpago
+폭발 충돌=Colisão Explosiva
+위로=Consolação
+화염의 침식=Erosão de Chamas
+매화술=Técnica da Flor de Ameixeira
+만발한 꽃=Florescimento Completo
+매력 육성=Desenvolvimento do Charme
+희망=Esperança
+광명=Claridade
+엔젤의 연민=Compaixão dos Anjos
+타오르는 불길=Chamas Ardentes
+소리 없는 기습=Ambush Silencioso
+수호=Proteção
+힘=Força
+전기 상어=Tubarão Elétrico
+초고속 전격=Relâmpago de Alta Velocidade
+천둥의 격노=Fúria do Trovão
+진격의 나팔=Trombeta do Avanço
+무경=Descuidado
+무아=Sem-Ser
+차가운 칼날=Lâmina Fria
+공중의 나선=Espiral Aérea
+동경=Desejo
+얽매임=Envolvimento
+교차의 춤=Dança Cruzada
+태평의 노래=Canção do Sol
+여명의 거품=Espuma da Aurora
+묶인 자=O Amarrado
+추적=Rastreamento
+환상=Fantasia
+굿나잇 송=Canção de Boa Noite
+풀피리 찬가=Hino da Flauta de Cana
+염의 선율=Melodia do Pensamento
+풀빛의 호흡=Respiro da Grama
+주언=Incantação
+조종=Manipulação
+낭만적인 정극=Drama Romântico
+허황된 희극=Comédia Absurda
+애통한 비극=Tragédia Dolorosa
+동행=Acompanhamento
+항쟁=Luta
+에너지 변환=Conversão de Energia
+생명 추출=Extração de Vida
+핵열의 환상=Ilusão de Calor Nuclear
+도시 감시자=Vigia da Cidade
+가드 수비=Defesa de Guarda
+모략=Conspiração
+야만=Barbárie
+흔들리는 빙산=Iceberg Tremeluzente
+신적=Divino
+은혜=Graça
+폭염=Calor Intenso
+헌제의 결심=Determinação do Ofertante
+혁지=Correção
+동정심=Compaixão
+절대 심판=Julgamento Absoluto
+올바른 명령=Comando Justo
+법의 관례=Precedente Legal
+만발=Plenitude
+웃음소리=Risadas
+사자놀이=Brincadeira de Leão
+피안의 덤불=Matagal do Submundo
+나룻배 사공=Barqueiro do Ferry
+유유한 망천수=Oblívio Lânguido
+
+
+++++ ----- Generic Combat Skills ----- ++++
+부흐=Bufu
+부후라=Bufula
+부흐라=Bufula
+부후다인=Bufudyne
+부흐다인=Bufudyne
+마하부후=Mabufu
+마하부흐=Mabufu
+마하부후라=Mabufula
+마하부흐라=Mabufula
+마하부후다인=Mabufudyne
+마하부흐다인=Mabufudyne
+다이아몬드 더스트=Diamond Dust
+아기=Agi
+아기라오=Agilao
+아기다인=Agidyne
+마하라기=Maragi
+마하라기온=Maragion
+마하라기다인=Maragidyne
+인페르노=Inferno
+티타노마키아=Titanomachia
+지오=Zio
+지온가=Zionga
+지오다인=Ziodyne
+마하지오=Mazio
+마하지온가=Mazionga
+마하지오다인=Maziodyne
+갈=Garu
+갈라=Garula
+갈다인=Garudyne
+마하갈=Magaru
+마하갈라=Magarula
+마하갈다인=Magarudyne
+진공파=Vacuum Wave
+사이=Psi
+사이오=Psio
+사이다인=Psiodyne
+마하사이=Mapsi
+마하사이오=Mapsio
+마하사이다인=Mapsiodyne
+사이코 포스=Psycho Force
+프레이=Frei
+프레이라=Freila
+프레이다인=Freidyne
+아토믹 플레어=Atomic Flare
+마하프레이=Mafrei
+마하프레이라=Mafreila
+마하프레이다인=Mafreidyne
+코즈믹 플레어=Cosmic Flare
+타루카쟈=Tarukaja
+라쿠카가=Rakukaja
+스쿠카가=Sukukaja
+마하타루카쟈=Matarukaja
+마하라쿠카쟈=Marakukaja
+마하스쿠카쟈=Masukukaja
+마하라쿠카 오토=Auto-Maraku
+하마=Hama
+하마온=Hamaon
+마한마=Mahama
+마한마온=Mahamaon
+코우하=Kouha
+코우가=Kouga
+코우가온=Kougaon
+마하코우하=Makouha
+마하코우가=Makouga
+마하코우가온=Makougaon
+에이하=Eiha
+에이가=Eiga
+에이가온=Eigaon
+마하에이하=Maeiha
+마하에이가=Maeiga
+마하에이가온=Maeigaon
+무드=Mudo
+마하무드=Mamudo
+무드온=Mudoon
+마하무드온=Mamudoon
+죽어 줄래? =Die For Me!
+메기도=Megido
+메기도라=Megidola
+메기도라온=Megidolaon
+메기도라다인=Megidoladyne
+흡혈=Life Drain
+흡마=Spirit Drain
+디아=Dia
+디아라마=Diarama
+디아라한=Diarahan
+메디아=Media
+메디라마=Mediarama
+메디아라한=Mediarahan
+오라토리오=Oratorio
+메시아라이저=Salvation
+카덴차=Cadenza
+리캄=Recarm
+사마리캄=Samarecarm
+리캄드라=Recarmdra
+파트라=Patra
+바이스디=Baisudi
+방전의 벽=Elec Wall
+화염 내성 제거=Fire Break
+전격 내성 제거=Elec Break
+이연아=Giant Slice
+지탄=Snap
+열풍파=Heat Wave
+어설트 다이브=Assault Dive
+난동 부리기=Rampage
+폴 다운=Skull Cracker
+히스테리 싸대기=Hysterical Slap
+망살 러시=Memory Blow
+박치기=Headbutt
+트리플 다운=Triple Down
+브레인 버스터=Brainbuster
+브레인 셰이크=Brain Shake
+원 샷 킬=One-shot Kills
+몽향침=Dream Needle
+도르민 러시=Dormin Rush
+현기증 침=Dizzy Needle
+타룬다=Tarunda
+라쿤다=Rakunda
+마하타룬다=Matarunda
+데쿤다=Dekunda
+분노의 가세=Taunt
+선전 포고=Wage War
+현기증=Dazzler
+도르민=Dormina
+슬립 송=Lullaby
+컨센트레이트=Concentrate
+
+기원의 힘=Power of Origin
+염동 파괴=Telekinetic Destruction
+전류의 흐름=Current Flow
+벽사=Execution
+왕생의 심판=Royal Judgement
+
+
+++++ ----- Common Combat Phrases ----- ++++
+전투 설정=Configurações de Batalha
+방어=Defesa
+근접 공격=Ataques Corpo a Corpo
+페르소나 전환=Troca de Personas
+페르소나=Personas
+총기=Armas de Fogo
+총공격=Ataque Total
+서포트=Suporte
+자동 전투=Batalha Automática
+가속=Acelerar
+감전=Eletrochoque
+스킬 효과=Efeitos de Habilidade
+상태 정보=Informações de Status
+공격력 감소=Redução de Ataque
+총격 단일=Tiro de Alvo Único
+특공=Ataques Especiais
+크리티컬 확률=Chance de Crítico
+크리티컬 효과=Efeito Crítico
+SP 회복=Recuperação de SP
+효과 명중=Bônus de Acerto de Efeito
+효과 저항=Bônus de Resistência a Efeito
+치료 효과=Bônus de Cura Emitida
+받는 치료 효과=Bônus de Cura Recebida
+실드 효과=Bônus de Escudo Emitido
+받는 실드 효과=Bônus de Escudo Recebido
+물리 대미지=Dano Físico
+총격 대미지=Dano de Arma de Fogo
+화염 대미지=Dano de Fogo
+빙결 대미지=Dano de Gelo
+전격 대미지=Dano Elétrico
+질풍 대미지=Dano de Vento
+염동 대미지=Dano de Psicocinese
+핵열 대미지=Dano Nuclear
+축복 대미지=Dano de Benção
+주원 대미지=Dano de Maldição
+만능 대미지=Dano Onipotente
+총알 수: =Contagem de Balas: 
+기본 크리티컬 확률: =Chance Crítica Base: 
+공격력=ATQ
+생명=HP
+방어력=DEF
+속도=VEL
+페르소나 레벨=Níveis de Persona
+
+++++ ----- Stat Descriptions ----- ++++
+SP 회복은 괴도의 턴별 기본 SP 회복치를 높입니다.=A Recuperação de SP aumenta a quantidade de SP que o Ladrão Fantasma recupera por turno, além da quantidade base.
+속도는 전투 돌입 시 행동 순서에 영향을 미칩니다. 또한 스킬 명중률은 공격자와 피격자 사이의 속도 차이로 결정됩니다.=A Velocidade afeta a ordem de turno ao entrar em combate. Além disso, a taxa de acerto de habilidades é determinada pela diferença de Velocidade entre o atacante e o alvo.
+
+++++ ----- Persona Passive Skills ----- ++++
+명중 강화Ⅰ=Aumento de Precisão I
+효과 명중이 7% 증가한다.=A taxa de acerto do efeito aumenta em 7%.
+민첩의 마음가짐Ⅰ=Mentalidade Ágil I
+속도가 6포인트 증가한다.=VEL aumentada em 6 pontos.
+공격 강화Ⅰ=Aumento de Ataque I
+공격력이 5.8% 증가한다.=ATQ aumentado em 5.8%.
+승리의 숨결Ⅰ=Sopro da Vitória I
+전투 승리 후 최대 생명과 SP를 2.5% 회복한다.=2.5% da HP máxima e SP são restaurados após vencer uma batalha.
+방어 강화Ⅰ=Aumento de Defesa I
+방어력이 8.8% 증가한다.=DEF aumentada em 8.8%.
+전격 강화Ⅰ=Aumento de Eletricidade I
+전격 속성 대미지가 4.7% 증가한다.=Dano elétrico aumentado em 4.7%.
+화염 강화Ⅰ=Aumento de Fogo I
+화염 속성 대미지가 4.7% 증가한다.=Dano de fogo aumentado em 4.7%.
+굳건한 산Ⅰ=Montanha Firme I
+속도가 6포인트 감소하고, 생명이 15% 증가한다.=VEL reduzida em 6 pontos e HP aumentada em 15%.
+우중충한 하늘Ⅰ=Céu Sombrio I
+비가 내릴 때 이상 효과 부여 시 효과 명중이 9.1% 증가한다.=A taxa de acerto do efeito aumenta em 9.1% quando está chovendo.
+정밀한 사격Ⅰ=Tiro Preciso I
+총기 대미지가 4.7% 증가한다.=Dano de arma de fogo aumentado em 4.7%.
+치료 강화Ⅰ=Aumento de Cura I
+주는 치료 효과가 4.2% 증가한다.=Cura aumentada em 4.2%.
+빙결 강화Ⅰ=Aumento de Gelo I
+빙결 속성 대미지가 4.7% 증가한다.=Dano de gelo aumentado em 4.7%.
+생명 강화Ⅰ=Aumento de Vida I
+생명이 5.1% 증가한다.=HP aumentada em 5.1%.
+마도의 재능Ⅰ=Talento Mágico I
+주는 대미지가 4.7% 증가한다.=Dano aumentado em 4.7%.
+마술의 소양Ⅰ=Conhecimento Mágico I
+스킬 사용 시 소모하는 SP가 2.4% 감소한다.=Custo de SP da habilidade reduzido em 2.4%.
+무도의 마음가짐Ⅰ=Mentalidade em Artes Marciais I
+스킬 사용 시 소모하는 HP가 3.2% 감소한다.=Custo de HP da habilidade reduzido em 3.2%.
+핵열 강화Ⅰ=Aumento de Núcleo I
+핵열 속성 대미지가 4.7% 증가한다.=Dano nuclear aumentado em 4.7%.
+기공Ⅰ=Poro I
+SP 회복 효율이 3.1% 증가한다.=Aumento de Recuperação de SP em 3.1%.
+정교한 타격Ⅰ=Golpe Preciso I
+Efeito crítico aumentado em 7%.
+건언Ⅰ=Proclamação I
+Chance de crítico aumentada em 3.5%.
+비의 노래Ⅰ=Canto da Chuva I
+비가 올 시 받는 대미지가 6.1% 감소한다.=Redução de 6.1% no dano recebido quando está chovendo.
+치료 촉진Ⅰ=Regeneração I
+No início do turno, recupera 1.9% da HP máxima.=1.9% da HP máxima restaurada no início de cada turno.
+축복 간파Ⅰ=Resistência a Benção I
+Recebe 4.7% menos dano de ataques de Benção.
+전격 간파Ⅰ=Resistência a Eletricidade I
+Recebe 4.7% menos dano de ataques elétricos.
+핵열 간파Ⅰ=Resistência a Nuclear I
+Recebe 4.7% menos dano de ataques nucleares.
+질풍 간파Ⅰ=Resistência a Vento I
+Recebe 4.7% menos dano de ataques de vento.
+질풍 강화Ⅰ=Aumento de Vento I
+Dano de vento aumentado em 4.7%.
+
++++ ----- Unsorted Skills ----- +++
+불렛 타임=Tempo de Bala
+흑백무계=Monocromático
+궁지 반격=Contra-ataque
+피어나는 얼음=Gelo Florescente
+차가운 칼날=Lâmina Fria
+매서운 겨울=Inverno Amargo
+초고속 전격=Blitz Relâmpago
+천둥의 격노=Fúria do Trovão
+희망의 빔=Raio de Esperança
+금강발파=Explosão de Diamante
+빅 슬라이스=Fatia Gigante
+여명의 거품 Lv.2=Bolha do Amanhecer Lv.2
+동정심 Lv.1=Compaixão Lv.1
+절대 심판 Lv.1=Julgamento Absoluto Lv.1
+올바른 명령 Lv.1=Comandos Diretos Lv.1
+대의자의 판결 Lv.1=Julgamento do Grande Lv.1
+우아한 풍파 Lv.1=Ondas de Vento Elegantes Lv.1
+바람의 속삭임 Lv.1=Sussurro do Vento Lv.1
+치유술 Lv.1=Artes de Cura Lv.1
+질풍 강습 Lv.1=Assalto Tempestuoso Lv.1
+질풍 강습=Ataque de Rajada
+0도 치유=Círculo de Cura
+선봉 돌격=Assalto de Ponta de Lança
+흔들리는 빙산=Iceberg quebrando
+용감한 자의 게임=Jogo do Corajoso
+즐거운 파티=Hora da Festa
+차지 일격=Golpe de Carga
+전격의 징계=Punição Elétrica
+폭발 충돌=Colisão Explosiva
+오장폭발권=Explosão dos Cinco Dedos
+r:"준비 시간: 행동 8회\n모든 동료가 <color\=#FFFC40>(\d+)</color>의 SP를 회복한다. <link\=\"s|141\"><u>『리듬』</u></link>을 3개 획득한다.\n<b><size\=28><color\=#850101>스포트라이트 아래서 리듬을 타지 않을 사람은 아무도 없다. 멜로디에 몸을 맡기고 박자에 맞춰 음악의 매력을 마음껏 느껴보자!</color></size></b>"=Tempo de Preparo: Ação 8\nTodos os membros do grupo recuperam <color\=#FFFC40>$1</color> de SP, e Okyann obtém 3 pilhas de <link\=s|141><u>Ritmo</u></link>.\n<b><size\=28><color\=#850101>Não há ninguém que não entre no ritmo sob um holofote. Entregue-se à melodia e sinta o ritmo da música!</color></size></b>
+
+++ ----- Wonder(Janosik) ----- ++
+r:"적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.\d+%)의 총격 속성 대미지를 주고, 75%의 고정 확률로 적이 『조준』을 획득한다."=Causa dano de $1 de Gun a <color\=#FFFF00>1</color> Inimigo, com 75% de chance fixa de Alvo receber "Mirar".
+r:"<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)의 축복 속성 대미지를 주고, 생명이 가장 낮은 동료가 공격 (\d+\.\d+%)의 생명을 회복한다."=Causa dano de $1 de ATK de Bênção a <color\=#FFFF00>todos</color> os inimigos, e o aliado com a menor HP é curado por $2 de ATK.
+r:"<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)의 3단 총격 속성 대미지를 준다. 필드에 조준당한 적이 있을 시 해당 스킬의 공격력이 (\d+\.\d+%) 증가하고, 크리티컬 효과가 (\d+\.\d+%) 증가한다."=Causa 3x $1 de ATK de Gun a <color\=#FFFF00>todos</color> os inimigos. Se houver inimigos Mirados no campo, o poder de ataque deste ataque aumenta em $2, e o efeito crítico aumenta em $3.
+
+++ ----- Joker ----- ++
+r:"<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)의 주원 속성 대미지를 준다. (\d+%)의 기본 확률로 적이 주원 효과를 1중첩 획득하고, 『살기』를 (\d)개 획득한다."=Causa $1 de dano ATK de Maldição a <color\=#FFFF00>todos</color> os inimigos com uma chance base de $2 de conceder ao inimigo uma pilha de Maldição e ganhar $3 de Fúria.
+r:"적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.\d+%)의 주원 속성 대미지를 준다. 필드에 적이 <color\=#FFFF00>1명</color>만 있을 시 『살기』를 (\d)개 획득한다."=Causa $1 de dano ATK Elemental a <color\=#FFFF00>1</color> inimigo. Se houver <color\=#FFFF00>1</color> inimigo no campo, ganhe $2 de Fúria.
+r:"<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)의 주원 속성 대미지를 주며, 추가 턴에서는 주는 대미지가 (\d+%) 증가한다. 목표에게 임의의 디버프 효과가 있을 시 해당 스킬이 주는 대미지가 추가로 (\d+%) 증가한다."=Causa $1 de dano ATK de Maldição a <color\=#FFFF00>todos</color> os inimigos. O dano causado aumenta em $2 em Turnos Extras. Se o alvo tiver quaisquer debuffs, este habilidade causa $3 de dano adicional.
+
+++ ----- Mona ----- ++
+r:"적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.\d+%)의 질풍 대미지를 주고, (\d+%)의 기본 확률로 적을 풍습 상태로 만든다."=Causa $1 de dano ATK de Vento a <color\=#FFFF00>1</color> inimigo com uma chance base de 100% de infligir Ventoso.
+r:"<color\=#FFFF00>모든</color> 동료의 공격력 (\d+\.\d+%)\+(\d+)의 생명을 회복하고, 모든 동료의 원소 이상 상태 1개를 제거한다."=Cura todos os aliados por uma quantidade de HP igual a $1 ATK + $2 e remove 1 Ailment Elemental de todos os aliados.
+r:"적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.\d+%)의 물리 대미지를 주고, 크리티컬 확률이 (\d+%) 증가하며 명중률이 (\d+%) 감소한다."=Causa $1 de dano ATK Físico a <color\=#FFFF00>1</color> inimigo. A taxa de crítico aumenta em $2, mas a taxa de acerto diminui em $3.
+
+++ ----- Closer ----- ++
+r:"<color\=#FFFF00>임의</color>의 적에게 공격력 (\d+\.\d+%)의 4단 전격 속성 대미지를 주고, (\d+%)의 기본 확률로 메인 목표를 감전 상태에 빠뜨린다."=Causa 4x $1 de dano ATK Elec a inimigos <color\=#FFFF00>aleatórios</color> com uma chance base de $2 de Atordoar o alvo principal.
+r:"<color\=#FFFF00>1명</color>의 적에게 공격력 (\d+\.\d+%)의 전격 속성 대미지를 주고, (\d+)턴 동안 모든 동료가 주는 전격 속성 대미지를 (\d+\.\d+%) 증가시킨다."=Causa $1 de dano ATK Elec a <color\=#FFFF00>1</color> inimigo, e aumenta em $3 o dano Elec de saída de todos os membros da equipe por $2 turnos.
+r:"<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)의 전격 속성 대미지를 준다. 임의의 적이 감전 상태인 경우 <color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)에 해당하는 추가 대미지를 준다."=Causa $1 de dano ATK Elec a <color\=#FFFF00>todos</color> os inimigos. Se algum inimigo estiver Atordoado, causa um dano adicional de $2 ATK a <color\=#FFFF00>todos</color> os inimigos.
+
+++ ----- Moko ----- ++
+r:"<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)의 염동 속성 대미지를 주고, 『푸른 잎』 2개를 획득한다."=Causa $1 de dano ATK Psy a <color\=#FFFF00>todos</color> os inimigos e concede 2 Folhas Verdes.
+r:"<color\=#FFFF00>『푸른 잎』 2개를 소모한다.</color> 동료 <color\=#FFFF00>1명</color>이 공격력 (\d+%)\+토모코의 공격력의 (\d+%)\(최대 (\d+)\)만큼 공격력이 추가로 증가하며 2턴 동안 지속된다."=<color\=#FFFF00>Consome 2 Folhas Verdes.</color>\nAumenta o ATK de <color\=#FFFF00>1</color> aliado em $1 do próprio ATK + $2 do ATK da Tomoko (até $3) por 2 turnos.
+r:"<color\=#FFFF00>『푸른 잎』 2개를 소모한다. </color>1턴 동안 <color\=#FFFF00>1명</color>의 적이 (\d+\.\d+%)의 기본 확률로 수면 상태에 빠진다. 명중하면 다음에 받는 대미지가 (\d+\.\d+%) 증가하고, 명중하지 못하면 (\d+\.\d+%) 증가한다."=<color\=#FFFF00>Consome 2 Folhas Verdes.</color>\nTem uma chance base de $1 de infligir Sono em <color\=#FFFF00>1</color> inimigo por 1 turno. O dano recebido aumenta em $2 se este Ataque acertar e em $3 se errar.
+
+++ ----- Cattle ----- ++
+r:"적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.\d+%)의 화염 속성 대미지를 주고, (\d+%)의 기본 확률로 적을 화상 상태로 만든다."=Causa dano ATK de $1 de Fogo a <color\=#FFFF00>1</color> inimigo com uma chance de $2 de causar Queimadura.
+r:"동료 <color\=#FFFF00>1명</color>의 공격력 (\d+\.\d+%)\+생명 (\d+)를 회복시킨다. 동료의 생명이 (\d+%) 미만이면 치료 효과가 (\d+%) 증가한다."=Cura <color\=#FFFF00>1</color> aliado por HP igual a $1 de ATK + $2. Se o HP do aliado for inferior a $3, a cura aumenta em $4.
+r:"<color\=#FFFF00>모든</color> 동료의 공격력 %\+(\d+\.\d+%)의 생명을 회복하고, 메인 목표 동료에게 주는 치료 효과가 (\d+) 증가한다."=Cura todos os aliados por HP igual a $1 de ATK e aumenta a cura no aliado principal em $2.
+
+++ ----- Skull ----- ++
+r:"적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.\d+%)의 물리 속성 대미지를 (\d+)회 주고, 자신의 생명이 (\d+%) 초과 시 해당 스킬은 생명 (\d+%)를 추가 소모하고 대미지가 (\d+%) 증가한다."=Causa dano físico de $1 ATK a <color\=#FFFF00>1</color> inimigo $2 vezes. Se seu HP estiver acima de $3, esta habilidade consome mais $4 HP e aumenta o dano em $5.
+r:"<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)의 전격 대미지를 주고, (\d+\.\d+%)의 기본 확률로 적을 감전 상태에 빠뜨린다. 『리바운드』가 있을 경우 확률이 (\d+\.\d+%)까지 증가한다."=Causa dano elétrico de $1 ATK a <color\=#FFFF00>todos</color> os inimigos com uma chance base de $2 para causar Choque. Se Rebound estiver ativado, essa chance aumenta para $3.
+r:"적 <color\=#FFFF00>1명</color>을 선택해 차지한 후 다음 턴에서 공격 시 공격력 (\d+\.\d+%)의 물리 속성 대미지를 준다. 대미지를 입힐 시 자신이 『리바운드』 효과가 있으면 해당 스킬은 무조건 크리티컬이 발동한다."=Seleciona um inimigo <color\=#FFFF00>1</color> e prepara um ataque que causa dano físico de $1 ATK no próximo turno. Se estiver sob o efeito de Rebound ao causar dano, o ataque sempre será um golpe crítico.
+
+++ ----- Key ----- ++
+r:"<color\=#FFFF00>1명</color>의 적에게 최대 생명 (\d+\.\d+%)의 화염 속성 대미지를 주고, 100%의 기본 확률로 적을 화상 상태에 빠뜨린다. 목표가 화상 상태일 시 『헌제자』를 1중첩 획득하고, 해당 스킬은 모든 적에게 시전으로 변경된다."=Causa dano de fogo equivalente a 19.3% da vida máxima a <color\=#FFFF00>1</color> inimigo, com 100% de chance base de causar Queimadura. Se o alvo estiver Queimando, esta habilidade alveja todos os inimigos e concede 1 pilha de Consagrador.
+r:"<color\=#FFFF00>모든</color> 적에게 최대 생명 (\d+\.\d+%)의 화염 속성 대미지를 준다. 화상 상태인 적이 있을 시 『헌제자』를 2중첩 획득하고, 화상 상태인 적은 『성화』를 획득한다."=Causa dano de fogo equivalente a $1 da vida máxima a <color\=#FFFF00>todos</color> os inimigos. Concede 2 pilhas de Consagrador se um inimigo estiver Queimando e inflige Santificado em inimigos Queimando.
+r:"적 <color\=#FFFF00>1명</color>에게 최대 생명 (\d+\.\d+%)의 화염 속성 대미지를 준다. 목표가 『성화』 상태인 경우 대미지가 (\d+%) 증가한다."=Causa dano de fogo equivalente a $1 da vida máxima a <color\=#FFFF00>1</color> inimigo. Aumenta o dano em $2 se o alvo estiver Santificado.
+
+++ ----- Mont ----- ++
+r:"적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.\d+%)의 빙결 대미지를 주고, 적의 생명이 낮을수록 받는 대미지가 커진다. 적의 생명이 (\d+%) 미만일 시 최고 보너스를 획득하고, 최대 (\d+%) 증가한다."=Causa dano de gelo de $1 ATK a <color\=#FFFF00>1</color> inimigo, causando mais dano quanto menor for a vida do inimigo. Aumenta até um máximo de $3 quando o inimigo estiver com menos de $2 de vida.
+r:"적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.\d+%)의 빙결 속성 대미지를 준다. 『얼음 결정』 10중첩 시 적이 잃은 생명을 기반으로 최대 (\d+\.\d+%) 대미지가 증가한다."=Causa dano de gelo de $1 ATK a <color\=#FFFF00>1</color> inimigo. Se o Cristal de Gelo atingir 10 pilhas, o dano aumenta até $2 com base na vida perdida do inimigo.
+r:"<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)의 빙결 속성 대미지를 주고, (\d+\.\d+%)의 기본 확률로 적을 동결 상태로 만든다."=Causa dano de gelo de $1 ATK a <color\=#FFFF00>todos</color> os inimigos e tem uma chance base de $2 de congelar os inimigos.
+r:"적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.\d+%)의 빙결 속성 대미지를 주고, 『얼음 결정』 4개를 획득한다."=Causa dano de gelo de $1 ATK a <color\=#FFFF00>1</color> inimigo e concede 4 Cristais de Gelo.
+
+++ ----- Seiji ----- ++
+r:"적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.\d+%)의 질풍 속성 대미지를 4회 입힌다. 공격 시마다 (\d+\.\d+%)의 기본 확률로 적을 풍습 상태로 만든다."=Causa 4x dano de vento de $1 ATK a <color\=#FFFF00>1</color> inimigo, com uma chance base de $2 a cada ataque de causar Vento.
+r:"<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)의 질풍 속성 대미지를 3회 입힌다. 공격 시 적에게 명중할 때마다 (\d+\.\d+%)의 기본 확률로 『격려』를 획득한다."=Causa 3x dano de vento de $1 ATK a <color\=#FFFF00>todos</color> os inimigos, com uma chance base de $2 de ganhar Incentivo a cada acerto.
+r:"적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.\d+%)의 질풍 속성 대미지를 3회 입힌다. 『격려』가 3중첩 이상일 시 대미지를 1회 추가로 주고, 크리티컬 확률이 (\d+%) 증가한다."=Causa 3x dano de vento de 34.9% ATK a <color\=#FFFF00>1</color> inimigo, causando um ataque adicional e aumentando a chance de Crítico em $2 se possuir 3 ou mais pilhas de Incentivo.
+
+++ ----- Reo ----- ++
+r:"<color\=#FFFF00>1명</color>의 적에게 공격력 (\d+\.\d+%)의 핵열 속성 대미지를 주고, 모든 동료가 『활성』 1중첩이 있을 때마다 대미지가 (\d+%) 증가한다."=Causa dano de Ataque Nuclear de $1 a <color\=#FFFF00>1</color> inimigo, aumentando o dano em $2 para cada 1 pilha de Reforço nos aliados.
+r:"동료 <color\=#FFFF00>1명</color>의 현재 생명 (\d+%)를 실드로 전환하고 공격력 (\d+\.\d+%)\+(\d+)의 실드를 추가 획득한다. 그리고 『활성』을 1중첩 획득한다."=Converte $1 da vida atual de <color\=#FFFF00>1</color> aliado em Escudo, ganhando $2 + $3 de Dano de Ataque e 1 pilha de Reforço.
+r:"동료 <color\=#FFFF00>1명</color>의 공격력이 2턴 동안 (\d+\.\d+%) 증가한다. 효과 지속 기간 동안 자신의 『활성』 1중첩마다 카미야마 레오 공격력의 (\d+%)만큼 공격력이 증가한다\(상한 1118.9포인트\)."=Aumenta o ATK de <color\=#FFFF00>1</color> aliado em $1 por 2 turnos. Durante o efeito, cada pilha de Reforço aumenta o ATK em $2 do ATK de Leo Kamiyama (máximo de 1118.9).
+r:"동료 <color\=#FFFF00>1명</color>이 『활성』을 최고 횟수 획득하고, 생명이 (\d+%) 미만일 시 생명을 (\d+%)까지 회복시킨다. 또한 자신의 공격력 (\d+%)를 기반으로 공격력이 2턴 동안 증가한다. 최대 (\d+\.+\d) 증가한다."=Concede a <color\=#FFFF00>1</color> aliado o máximo de pilhas de Reforço, restaura a vida para $2 se estiver abaixo de $1, e aumenta o ATK com base em $3 do ATK por 2 turnos, até um máximo de $4.
+
+++ ----- Ann ----- ++
+r:"<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)의 화염 속성 대미지를 주고, 자신의 공격력이 (\d+%) 증가한다. 효과는 2턴 동안 지속된다. 『몰두』 상태에는 적의 공격력 (\d+%)를 탈취한다."=Causa dano de Ataque de Fogo de $1 a <color\=#FFFF00>todos</color> os inimigos e aumenta o próprio ATK em $2 por 2 turnos. Se um inimigo estiver Cativado, reduz seu ATK em $3.
+r:"<color\=#FFFF00>1명</color>의 적에게 공격력 (\d+\.\d+%)의 화염 속성 대미지를 준다. 『몰두』 상태에는 생명이 (\d+%) 미만인 적에게 주는 대미지가 (\d+%) 증가하고, (\d+%)의 기본 확률로 적을 화상 상태에 빠뜨린다."=Causa dano de Ataque de Fogo de $1 a <color\=#FFFF00>1</color> inimigo, aumentando o dano em $2 a inimigos com menos de $3 de vida. Tem uma chance base de $4 de infligir Queimadura a inimigos Cativados.
+r:"<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.\d+%)의 화염 속성 대미지를 준다. 몰두 상태에는 주는 대미지가 (\d+%) 증가하고, (\d+%)의 기본 확률로 적을 화상 상태에 빠뜨린다."=Causa dano de Ataque de Fogo de $1 a <color\=#FFFF00>todos</color> os inimigos, aumentando o dano em $2 a inimigos Cativados. Tem uma chance base de $3 de infligir Queimadura.
+
+++ ----- Yaoling Li ----- ++
+r:"^<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.?\d*)\%의 주원 속성 대미지를 주고, 자신의 속도에 따라 적의 방어력을 최대 (\d+\.?\d*)\% 감소시킨다. 해당 스킬로 적을 명중시킬 때마다 『추억』 4포인트를 획득한다.$"=Causa dano de Ataque de Maldição de $1% a <color\=#FFFF00>todos</color> os inimigos. Por 2 turnos, reduz a DEF de todos os inimigos com base na SPD do usuário, até um máximo de $2%. Ganha 4 pontos de 『Memórias』 para cada inimigo atingido por esta habilidade.
+r:"^적 <color\=#FFFF00>1명</color>에게 공격력 (\d+\.?\d*)\%의 주원 속성 대미지를 주고, 이상 상태인 적에게 주는 대미지가 20% 증가한다. 『맹파탕』을 보유할 시 100%의 기본 확률로 스킬 메인 목표를 망각 상태에 빠뜨린다.$"=Causa dano de Ataque de Maldição de $1% a <color\=#FFFF00>1</color> inimigo, e 20% de dano aumentado a inimigos debilitados. Consumir 『Maeun-tang』 adiciona uma chance base de 100% de infligir Esquecimento por 2 turnos.
+r:"^<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.?\d*)\%의 주원 속성 대미지를 주고 『피안화』를 획득하게 한다. 자신의 속도에 따라 적이 받는 대미지가 최대 (\d+\.?\d*)\% 증가하며, 해당 효과는 대미지를 2회 받거나 2턴이 지나면 제거된다. 『맹파탕』 보유 시 『피안화』의 효과가 2배가 된다.$"=Causa dano de Ataque de Maldição de $1% a <color\=#FFFF00>todos</color> os inimigos e inflige 『Flor Sangrenta』, aumentando o dano recebido pelos inimigos com base na SPD do usuário, até um máximo de $2%. Este efeito é removido após 2 instâncias de dano ou após 2 turnos. Consumir 『Maeun-tang』 dobra o efeito de aumento de dano de 『Flor Sangrenta』.
+r:"^<color\=#FFFF00>모든</color> 적에게 공격력 (\d+\.?\d*)\%의 주원 속성 대미지를 준다. 다음에 받는 대미지가 (\d+\.?\d*)\% 증가하며, 30%의 기본 확률로 망각 상태에 빠뜨린다. 효과는 2턴 동안 증가한다.$"=Causa dano de Ataque de Maldição de $1% a <color\=#FFFF00>todos</color> os inimigos e aumenta o dano recebido por eles em $2%. Chance base de 30% de infligir Esquecimento por 2 turnos.
+총기로 1명의 적을 사격한다. 매번 임의 적에게 3발을 사격하여 총격 속성 대미지를 준다. 총알 개수에 따라 여러 번 사격할 수 있다.=Atira em 1 inimigo com uma arma de fogo. A cada vez, dispara 3 tiros em um inimigo aleatório, causando dano de Arma de Fogo. Você pode atirar várias vezes dependendo do número de balas.
+<color\=#FF0000>리 야오링</color>이(가) 맹파탕을 획득했습니다...=<color\=#FF0000>Yaoling Li</color> obteve Maeun-tang...
+추억 40 도달 시 맹파탕을 획득한다.=Obtém Maeun-tang quando você alcança 40 memórias.
+
+++ ----- Soy ----- ++
+r:"<color\=#FFFF00>1명</color>의 적에게 최대 생명 (\d+\.\d+%)의 빙결 속성 대미지를 주고, (\d+%)의 기본 확률로 적을 동결 상태로 만든다."=Causa dano de Gelo igual a $1 da Vida máxima para <color\=#FFFF00>1</color> inimigo, com uma chance base de $2 de congelamento.
+r:"<color\=#FFFF00>1명</color>의 적에게 최대 생명 (\d+\.\d+%)의 물리 속성 대미지를 주고, 2턴 동안 목표 적의 방어력을 (\d+\.\d+%) 감소시킨다. 『황야의 구세주』 상태일 시 해당 효과는 (\d+\.\d+%)까지 증가한다."=Causa dano Físico igual a $1 da Vida máxima para <color\=#FFFF00>1</color> inimigo e reduz sua DEF em $2 por 2 turnos. Esse efeito aumenta para $3 enquanto o Salvador do Deserto está ativo.
+r:"<color\=#FFFF00>모든</color> 동료의 최대 생명이 카노 슌 최대 생명의 (\d+%)\(최대 (\d+)포인트\)만큼 증가하고, 자신이 공격받을 확률이 대폭 증가한다. 효과는 2턴 지속된다. 카노 슌 최대 생명의 (\d+\.\d+%)에 해당하는 수치만큼 모든 동료의 생명이 회복된다."=Aumenta a Vida máxima de <color\=#FFFF00>todos</color> os aliados em $1 da Vida máxima de Kano Shun (até $2 pontos) e aumenta drasticamente as chances de ser alvo de ataques inimigos por 2 turnos. Todos os aliados são curados em $3 da Vida máxima de Kano Shun.
+
+
+++++ ----- Battle Quotes ----- ++++
+좋은~ 기회야! 다들 놈을 해치워~!=Esta é a sua chance! Todo mundo, derrubem eles!
+멋지게 적을 다운시켰어!=Ótimo trabalho derrubando o inimigo!
+제대로 봤어.=Você viu certo.
+우리한테 맞선 업보다!=É o karma contra nós!
+이 일격으로 전투를 끝낸다!=Este golpe encerra a batalha!
+다운되다니! ? ...젠장!=Estou fora?! ...Droga!
+지금부터 나를 잘 보고 있어!=A partir de agora, fiquem de olho em mim!
+이야~! 신~난~다!=Yay! Isso é tão emocionante!
+총알이 부족합니다.=Você está sem balas.
+오! 정말 강력한 일격이었어!=Oh! Que golpe poderoso!
+역시 오빠야~!=Isso mesmo, onii-sama~!
+내가 있잖아. 이건 당연한 결과야~!=Comigo aqui, a vitória é garantida~!
+오빠, 나 준비됐어!=Onii-sama, estou pronta!
+오빠, 엄청 강하다~!=Onii-sama, você é tão forte~!
+힘을 내! 너 괜찮아? ?=Vamos lá! Você está bem?
+후... 괜찮다니 다행이다.=Ufa... que bom que você está bem.
+만세! 적이 쓰러졌어!=Viva! Os inimigos estão derrotados!
+공연의 하이라이트다!=E aqui vem o destaque!
+큰일이야! 괜찮지? ?=Isso parece sério! Você está bem?
+와... 순식간에 쓰러졌어...=Uau... caiu rapidamente...
+전력을 다하자!=Vamos com tudo!
+대단해~!=Isso foi incrível!
+오, 좋은데. 엄청 귀한 걸 얻었어!=Wow, isso é ótimo. Conseguimos algo muito valioso!
+정신 차리고 탐색을 시작하자...=Vamos recuperar o fôlego e começar a explorar...
+클로저는 이제 괜찮아=Closer parece bem agora.
+하지만, 예고하기 전에\n너희들에게 확인하고 싶은 것이 있다.=No entanto, antes de prosseguirmos, quero confirmar algo com vocês.
+화려하게 가자=Vamos sair com estilo!
+…헉?! 내가?=...Huh?! Eu?
+좋은 HIGHLIGHT 기회야~! 날려버려~!=É uma ótima oportunidade de DESTAQUE~! Derrube-os~!
+괴도단이 순조롭게 승리했어.\n축하해야지~=Uma vitória gloriosa para os Ladrões Fantasmas! Vamos celebrar!
+이런, 허를 찔렸어! ? 다들 조심해!=Oh não, fomos apunhalados nas costas!\n Todo mundo, cuidado!
+
+++++ ----- Field/Mementos Quotes ----- ++++
+근처에 좋은 게 있는 것 같아.\n찾아보자!=Acho que há algo bom por perto. Vamos procurar!
+그래. 맞지 않도록 조심하며\n앞으로 나아가자.=Sim. Vamos avançar com cuidado para não sermos atingidos.
+아, 세이프 룸이야.\n쉴까?=Ah, é uma sala segura.\nDevemos descansar?
+가져갈까?=Deveríamos pegá-la?
+오빠, 난 언제든 나설 수 있어!=Onii-sama, estou sempre pronta para ir!
+상자야. 어서 열어보자!=É um baú. Vamos abri-lo logo!
+여기에 마침 세이프 룸이 있어!=Há uma sala segura aqui!
+근처에 상자가 있어~\n근처에 상자가 있어~♪=Há um baú por perto~\nHá um baú por perto~♪
+보아하니 근처에서 제일 강력한 적인 것 같아.=Parece que é o inimigo mais forte por aqui.
+
++++++ ----- Combat Information ----- +++++
+1턴=1 Turno
+r:"^(\d+)턴$"=$1 Turnos
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 야노식에게 조준되어 방어력이 감소합니다..."=<color\=#FF0000>$1</color> foi mirado por Janosik, reduzindo sua defesa...
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 다운 상태에서 회복되었습니다."=<color\=#FF0000>$1</color> se recuperou de estar Caído.
+기본 수치=Estatísticas Básicas
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 기절 이상 상태에서 회복되었습니다."=<color\=#FF0000>$1</color> não está mais Tonto.
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 기절 상태에 진입했습니다..."=<color\=#FF0000>$1</color> está Tonto...
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 광노 상태에 진입했습니다..."=<color\=#FF0000>$1</color> está cheio de Raiva...
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 광노 이상 상태에서 회복되었습니다."=<color\=#FF0000>$1</color> se acalmou da Raiva.
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 감전 상태에 진입했습니다..."=<color\=#FF0000>$1</color> foi Eletrocutado...
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 감전 이상 상태에서 회복되었습니다."=<color\=#FF0000>$1</color> não está mais Eletrocutado.
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 화상 상태에 진입했습니다..."=<color\=#FF0000>$1</color> foi Queimado...
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 혼란 상태에 진입했습니다..."=<color\=#FF0000>$1</color> está Confuso...
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 혼란 이상 상태에서 회복되었습니다."=<color\=#FF0000>$1</color> não está mais Confuso.
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 풍습 상태에 진입했습니다..."=<color\=#FF0000>$1</color> está Sem Fôlego...
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 풍습 이상 상태에서 회복되었습니다."=<color\=#FF0000>$1</color> não está mais Sem Fôlego.
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 동결 상태에 진입했습니다..."=<color\=#FF0000>$1</color> foi Congelado...
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 화상 이상 상태에서 회복되었습니다."=<color\=#FF0000>$1</color> não está mais Queimado.
+sr:"<color\=#FF0000>(.*?)</color>이\(가\) 차지 상태에 진입했습니다..."=<color\=#FF0000>$1</color> está esperando...
+sr:"<color\=#FF0000>(.*?\s*)</color>이(가) 망각 상태에 진입했습니다..."=<color\=#FF0000>$1</color> entrou em um estado Esquecido...
+sr:"<color\=#FF0000>(.*?\s*)</color>이(가) 망각 이상 상태에서 회복되었습니다."=<color\=#FF0000>$1</color> se recuperou de seu estado Esquecido.
+
++++ ----- Popup Text ----- +++
+다<color\=#000000>운</color>=De<color\=#000000>r</color>rubado
+연<color\=#000000>소</color>=Qu<color\=#000000>e</color>imando
+망<color\=#000000>각</color>=Co<color\=#000000>n</color>fuso
+살<color\=#000000>기</color>=Fu<color\=#000000>r</color>ioso
+맹<color\=#000000>파</color>탕=M<color\=#000000>ae</color>un-tang
+방<color\=#000000>어</color> 감소=Re<color\=#000000>d</color>ução de Defesa
+받<color\=#000000>는</color> 대미지 증가=Au<color\=#000000>m</color>ento de Dano Recebido

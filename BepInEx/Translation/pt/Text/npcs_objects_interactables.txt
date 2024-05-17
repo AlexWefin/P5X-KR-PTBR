@@ -1,0 +1,873 @@
++++++ ----- NPC's Objects and Interactables ----- +++++
+
+++++ ----- Proof of the Hidden World Quest ----- ++++
+
++++ ----- Kokatsu High School Roof ----- +++
+신문부 남학생=Garoto no <color\=#ff0000ff>Clube do Jornal</color>
+신문부 여학생=Garota no <color\=#ff0000ff>Clube do Jornal</color>
+@
+무슨 일이야?\n난 새로운 팬텀의 정보를 수집하느라 바쁜데...=O que está acontecendo? Estou ocupado coletando informações sobre um novo fantasma...
+@Wonder
+설마 마가츠신의...?=De Magatsushin...?
+새로운 팬텀...? =Novo Fantasma...? 
+궁금한 거 없어=Sem perguntas
+사람들의 생각은 어때?=O que as pessoas acham?
+경찰한테 안 잡혀?=<size\=27>Os policiais não podem pegá-lo?
+그런데, 팬텀이 뭐야?=<size\=24>A propósito, o que é um fantasma?
+상황이 달라졌다고? =As coisas mudaram?
+그렇게 말한다면,\n한번 물어볼까...=Se você diz isso,\nDeixe-me perguntar...
+그럴 시간이 없는 건가?=Não tem tempo para isso?
+진짜 번거롭긴 하네=Que incômodo.
+이해할 수가 없어=Não consigo entender
+이상한 생각이네=<size\=25>Isso é um pensamento estranho.
+@
+팬텀에 대해서는 뭐든 물어봐.\n아는 대로 다 말해줄게.=Me pergunte qualquer coisa sobre Phantom e vou te contar tudo o que sei.
+명확한 정의는 없지만... 간단하게 말하면\n「다른 사람을 귀찮게 하는 사람」이야.=Não há uma definição clara, mas para simplificar, é 「uma pessoa que irrita outras pessoas」.
+처음에는 마가츠신이\n법에 저촉되지 않는 조그만 나쁜 짓을 밝혀냈어...=Inicialmente, Magatsushin revelou um mal pequeno que não estava contra a lei...
+그리고 범인에게 「팬텀」이라는 이름을 붙였어.=Nós chamamos o culpado de 「Phantom」.
+하지만...\n최근에는 상황이 좀 달라진 것 같아.=Mas... parece que as coisas mudaram recentemente.
+마가츠신의 지명도가 올라가면서 마가츠신에\n기록되길 바라는 사람들이 나타났어...=Conforme a fama de Magatsushin cresceu, também cresceu o número de pessoas que queriam ser registradas no Magatsushin...
+심지어 팬텀으로 인정받기 위해서,\n일부러 과격한 행동을 하는 사건도 있어.=Houve até casos em que as pessoas foram intencionalmente a extremos para serem reconhecidas como Fantasmas.
+최근에는 법의 억제선을 넘어서,\n명확한 위법 행위를 하는 사람도 있어...=Recentemente, algumas pessoas ultrapassaram os limites da lei e cometeram violações claras...
+이렇게, 다 팬텀이라고 통칭하고 있기는 하지만\n온갖 녀석들이 다 있어... 그런 거지.=Então, todos são chamados de fantasmas, mas são todos diferentes... É assim.
+궁금한 게 더 있으면 언제든 물어봐.\n아는 대로 다 말해줄게.=Se você tiver mais alguma pergunta, sinta-se à vontade para perguntar, e eu te contarei tudo o que sei.
+그렇지? 보통은 그렇게 생각하겠지!\n하지만 경찰도 어느정도 소홀했던 건 사실이야.=Certo? Normalmente, você pensaria assim!\nMas é verdade que a polícia também foi um pouco negligente.
+수사할 필요가 있을지 토론하자니,\n에너지가 부족해...=Não tenho energia suficiente para discutir se uma investigação é necessária...
+게다가 하는 짓도 다양해.\n장난에서 범죄까지, 수준도 각양각색이야.=Além disso, eles fazem coisas diferentes. De brincadeiras a crimes, há vários níveis.
+이걸 일일히 다 조사하고, 수사할 필요가 있을지 토론하자니, 에너지가 부족해...=<size\=27>Não tenho energia suficiente para investigar todas essas coisas e discutir se uma investigação é necessária...
+뭐, 대강 이런 상태야.=Bem, é mais ou menos assim.
+어느 팬텀의 사건을 조사하면,\n다른 팬텀은 조사하지 않으면 불공평하잖아...=Se você investigar o caso de um fantasma,\nnão seria justo não investigar outro fantasma...
+그래서, 살인 사건만 안 일어나면\n경찰은 가만히 있을 수밖에 없을 거야.=Então, a menos que ocorra um assassinato\na polícia não terá escolha a não ser ficar em silêncio.
+이른바 강 건너 불구경이지?\n진짜 열받아.=É como a paisagem budista do outro lado do rio, certo?\nEstou realmente irritado.
+팬텀한테 말이야?\n난 대부분의 사람이 싫어할 거라고 생각해.=Para o Fantasma?\nAcho que a maioria das pessoas vai odiar.
+하지만 와중에도……\n팬이라고 말해야 할까? 신도? 그런 사람도 있어.=Mas mesmo assim… … \nDevo dizer que sou fã? Crentes? Há pessoas assim.
+그렇지?\n그게 정상이지.=Certo?\nIsso é normal.
+전에는 불량하면 인기가 많다는 말이 있었잖아? 그런 느낌이랑 비슷하지.=Costumava haver um ditado de que ser mau fazia você ser popular, não é? É parecido com essa sensação.
+하지만 내 생각엔 팬텀을 싫어하는 사람들이라고 해도 일부러 그들을 막으려고 하지는 않는 것 같아.=Mas eu não acho que as pessoas que não gostam de fantasmas estão tentando impedi-los intencionalmente.
+자신이 피해자가 되지만 않으면,\n그 일은 자신이랑 상관없는 거지.=Desde que você não seja a vítima,\nnão é da sua conta.
+기껏해야 인터넷에서 몇 마디 하는 거지. 하지만 욕도 팬텀들의 지명도 상승을 돕는 아이템이 돼.=<size\=27>No máximo, posso dizer algumas palavras na Internet. No entanto, xingar também se torna um item que ajuda a aumentar a popularidade dos fantasmas.
+검붉은 색도 붉은색이니까, 아무도 관심 갖지 않는 것보다는 나은 거지. 그리고 놀랍게도 그런 관념은 세상에서 인정받았어...=O vermelho escuro também é vermelho, então é melhor do que ninguém prestar atenção. E surpreendentemente, essa ideia foi reconhecida pelo mundo...
+참나, 그냥 세상이 미쳤다고밖에 할 말이 없네.=Bem, tudo o que posso dizer é que o mundo está louco.
+
++++ ----- Kokatsu High School 3nd Floor ----- +++
+
+++ ----- Room Transition Prompts ----- ++
+옥<color\=#ff0000ff>상</color>으로 이동=Ir para o <color\=#ff0000ff>telhado</color>
+도<color\=#ff0000ff>서</color>실=<color\=#ff0000ff>Biblioteca</color>
+
+++ ----- Objects ----- ++
+다<color\=#ff0000ff>투</color>고 있는 학생=Estudantes <color\=#ff0000ff>Discutindo</color>
+
+@
+이 자식, 지난번에 날 속인 것도 아직 못 갚아줬어! 야키소바 빵에는 숨겨진 맛 따위 없어!=Você ainda não me pagou pela última vez que me enganou! Não há sabores escondidos no pão de yakisoba!
+@
+그래서, 어쩌자고?=Então, o que devo fazer?
+@
+네가 한 잘못 인정해!\n한 번에 열 개나 먹으면 얼마나 배부른지 알아? !=Admita que você estava errado! Você sabe o quão cheio fica quando come dez deles de uma vez? !
+@
+내가 그랬잖아. 거짓말이라고.\n근데 그렇게 믿겠다는데 내가 어쩌겠어?=Eu te disse, é mentira. Mas se você quiser acreditar, o que posso fazer?
+
+@
+졸업도 하기 전에 헤어지자니,\n도대체 나를 뭐로 보는 거야?=O que diabos você pensa de mim, terminando comigo antes mesmo de eu me formar?
+@
+집에서는 날 유학 보내기로 했거든.\n미리 헤어지는게 그렇게 이상해?=Minha família vai me enviar para estudar no exterior. É tão estranho terminar antes?
+@
+자신을 못 믿는구나.\n나도 못 믿겠어? !=Você não confia em si mesmo. Você também não confia em mim!?
+@
+그럼 나한테 무슨 방법이 있겠어? !=Então o que eu posso fazer!?
+
+작<color\=#ff0000ff>은</color> 목소리의 학생=Estudantes <color\=#ff0000ff>Sussurrando</color>
+
+@
+오오, 대박...=Ohhhhhhh...
+@
+뭔데? 나도 보여줘.=O que é isso? Mostre-me também.
+@
+오, 이거 진짜 대박이다.=Oh, isso é incrível.
+@
+쉿, 그러다 선생님한테 걸리겠다.=Shhh, você vai ser pego pelo professor.
+
+번<color\=#ff0000ff>뇌</color>하는 여학생=<color\=#ff0000ff>Estressada</color> Estudante
+진<color\=#ff0000ff>열</color>대=<color\=#ff0000ff>Estantes</color> de <color\=#ff0000ff>Exibição</color>
+
++++ ----- Kokatsu High School Library ----- +++
+
+++ ----- Objects ----- ++
+
+프<color\=#ff0000ff>린</color>터=Impressora
+<color\=#ff0000ff>독</color>서=<color\=#ff0000ff>Ler</color>
+<color\=#ff0000ff>공</color>부=<color\=#ff0000ff>Estudar</color>
+<color\=#ff0000ff>책</color>장=Estantes de Livros
+
+
++++ ----- Kokatsu High School Classroom 2-C ----- +++
+
+++ ----- Room Transition Prompts ----- ++
+복<color\=#ff0000ff>도</color>로 이동=Ir para o <color\=#ff0000ff>Corredor</color>
+
+++ ----- Objects ----- ++
+<color\=#ff0000ff>칠</color>판=Quadro Negro
+뭔가 쓰고 싶다는 충동이 들었다...=Eu tive a vontade de escrever algo...
+
+++ ----- Students with Low Energy ----- ++
+
+활<color\=#ff0000ff>력</color>이 없는 학생=Estudantes com <color\=#ff0000ff>baixa energia</color>
+@A Lonely Student
+미래 계획 지원 말이야, 넌 어디 지망했어?=Falando em apoio ao planejamento de carreira, para onde você está mirando?
+@Student without a bow
+뭘 선택해야 할지 몰라서 지원 없음을 선택했어.=Eu não sabia o que escolher, então escolhi não ter apoio.
+@A Lonely Student
+나도 그래. 뭘 선택하든 똑같은 것 같아.=Eu também. Parece que é a mesma coisa não importa o que você escolha.
+
+++ ----- Grouchy Student ----- ++
+
+기<color\=#ff0000ff>운</color> 없는 학생=<color\=#ff0000ff>Grouchy</color> Student
+
+@Unaccompanied Student
+r:"(.*?)... 요즘 아무것에도\n관심이 가지 않는다는 생각이 들지 않아...?"=$1... não acha que ultimamente nada te interessa...?
+
+++ ----- Lazy Students ----- ++
+
+게<color\=#ff0000ff>으</color>른 학생=<color\=#ff0000ff>Estudantes Preguiçosos</color>
+
+@Lazy Student
+우리 집은 학교에서 너무 멀어. 진짜 오기 싫어.=Minha casa é tão longe da escola. Eu realmente odeio viajar até lá.
+@A Bored Student
+맞아, 매일 뛰어다니는 거 너무 힘들어...=Sim, é tão difícil viajar tanto todos os dias...
+
+
+소<color\=#ff0000ff>곤</color>대는 학생=<color\=#ff0000ff>Estudantes Quietos</color>
+
+@Estudantes Quietos
+노게는 요즘 어떻게 지내는지 모르겠네...\n별 일 없겠지.=Não sei como Noge está passando esses dias... Espero que esteja tudo bem com ela.
+@
+왜 그렇게 신경을 써?\n설마 너...=Por que você se importa tanto?\nNão me diga que você...
+@
+아... 이상한 말 하지 마...=Ah... não fale coisas estranhas...
+
+졸<color\=#ff0000ff>려</color>보이는 학생=<color\=#ff0000ff>Estudante Sonolento</color>
+
+@Estudante Sonolento
+어제 너무 늦게 잤나...\n너무 졸려...=Será que fiquei acordado até tarde demais ontem... Estou muito sonolento...
+
+조<color\=#ff0000ff>금</color> 피곤한 학생=<color\=#ff0000ff>Estudante Levemente Cansado</color>
+
+@Estudante Levemente Cansado
+너무 피곤해서...\n정신 좀 차리고 다시 얘기하자...=Estou tão cansado... vamos conversar de novo quando eu estiver mais acordado...
+
+미<color\=#ff0000ff>식</color>을 좋아하는 학생=<color\=#ff0000ff>Estudantes Comendo</color>
+소<color\=#ff0000ff>문</color>을 떠드는 학생=<color\=#ff0000ff>Estudantes Fofocando</color>
+괴<color\=#ff0000ff>팍</color>해 보이는 학생=<color\=#ff0000ff>Estudante Malicioso</color>
+왁<color\=#ff0000ff>자</color>지껄한 학생=<color\=#ff0000ff>Estudantes Tagarelas</color>
+의<color\=#ff0000ff>논</color>하는 학생=<color\=#ff0000ff>Estudantes Discutindo</color>
+생<color\=#ff0000ff>각</color>하는 학생=<color\=#ff0000ff>Estudante Pensativo</color>
+야<color\=#ff0000ff>구</color>를 좋아하는 학생=<color\=#ff0000ff>Estudante que ama Beisebol</color>
+아<color\=#ff0000ff>라</color>이 모토하=<color\=#ff0000ff>Motoha Arai</color>
+
+
++++ ----- Kokatsu High School 2nd Floor ----- +++
+
+++ ----- Room Transition Prompts ----- ++
+교<color\=#ff0000ff>실</color> 입장=Entrar na <color\=#ff0000ff>Sala de Aula</color>
+3<color\=#ff0000ff>층</color>으로 이동=Ir para o <color\=#ff0000ff>3º Andar</color>
+1<color\=#ff0000ff>층</color>으로 이동=Ir para o <color\=#ff0000ff>1º Andar</color>
+음<color\=#ff0000ff>악</color>부=<color\=#ff0000ff>Departamento de Música</color>
+
+++ ----- Objects ----- ++
+
+알<color\=#ff0000ff>림</color>창=Aviso
+「학생 여러분은 교통안전에 주의해 주십시오」라는 내용의 안내문이 붙어있다.="Estudantes, por favor, prestem atenção à segurança no trânsito."
+
+통<color\=#ff0000ff>유</color>리창=Janela
+전망이 엄청 좋네. 학교 밖 풍경이 다 보여.="A vista é incrível. Consigo ver tudo do lado de fora da escola."
+
+대<color\=#ff0000ff>화</color>하는 학생=Estudantes em <color\=#ff0000ff>Conversa</color>
+
+@
+너희 학교 화단에 대한 괴담 들어봤어?=Vocês ouviram a história de fantasma sobre o jardim de flores da nossa escola?
+@
+아! 그런 얘기 하지 마!=Ah! Não fale coisas assim!
+@
+그거 맞지, 그거!=Isso mesmo, isso mesmo!
+
+@
+저기... 난, 네가... 좋, 좋아...=Eu... Eu, gos, gosto... de, de...
+@
+뭐라고?\n잘 못 들었어.=O que você disse?\nNão ouvi claramente.
+괜찮아?\n얼굴이 너무 빨간데 혹시 어디 아파?=Está tudo bem?\nSeu rosto está muito vermelho, está se sentindo mal em algum lugar?
+@
+아... 아무것도 아냐...=Ah... Não é nada...
+
+대<color\=#ff0000ff>화</color> 중인 남자=Rapazes em <color\=#ff0000ff>Conversa</color>
+
+@
+저 사람, 왠지 좀 접근하기 어려워 보여.=Aquele cara parece um pouco difícil de se aproximar de alguma forma.
+@
+사실 꽤 괜찮은 사람이야.\n그리고 요리도 잘하는 것 같고.=Na verdade, ele é uma pessoa legal.\nE ele parece ser bom na cozinha também.
+
+@
+카노 되게 괜찮은 애야. 게다가 엄청 자상해.=Kano é um cara legal. Além disso, ele é muito gentil.
+@
+어... 그... 그래?=Uh... isso... realmente?
+@
+응, 전에 요리에 관해 물은 적 있었는데,\n굉장히 상세하게 답해줬어.=Sim, eu perguntei sobre culinária antes,\ne ele me deu uma resposta muito detalhada.
+@
+그렇구나... 다행이다... 괜히 걱정했네...=Entendi... que bom... eu estava preocupado à toa...
+
+
+++ ----- Sullen Schoolboys ----- ++
+
+의<color\=#ff0000ff>기</color>소침한 남학생=<color\=#ff0000ff>Rapazes Escolares Abatidos</color>
+
+@Depressed Male Student
+오늘 동아리 활동 갈거야...?\n별로 의욕이 안 나네.=Você vai para os clubes hoje...? Eu não estou muito motivado.
+@Forgetful Student
+응, 나도 가기 싫어...\n오늘도 땡땡이 치자.=Sim, eu também não quero ir... vamos pular hoje.
+
+@
+역시 노게는 귀엽다니까.\n노게가 동아리 매니저를 하면 좋을 텐데.=Noge é fofo, e eu gostaria que ele fosse um gerente de clube.
+@
+맞아! 그러면 나도 의욕이 넘칠 텐데!=Sim, então eu também estaria motivado!
+
+@
+노게가 다쳤대.\n우리 병문안 가자.=Eles disseram que Noge se machucou.\nVamos visitar o hospital.
+@
+좋은 생각이긴 한데...\n우리랑 안 친한데, 가면 실례이지 않을까...=É uma boa ideia, mas... se não somos amigos, não seria rude ir...
+
+++ ----- Panicking Schoolgirls ----- ++
+
+만<color\=#ff0000ff>사</color>태평한 여학생=<color\=#ff0000ff>Garotas Escolares em Pânico</color>
+
+@Balanced Female Student
+다 물어봤는데\n어차피 다들 「지원 없음」이라고 썼다던데~=Perguntei a todos, mas todos escreveram "sem apoio" de qualquer maneira~.
+@Female Student preparing to leave
+그러니까 말이야,\n미래 같은 건 생각하기 귀찮아.=Quero dizer, não quero pensar no futuro.
+@Balanced Female Student
+가자.\n오늘도 시부야에서 시간이나 때워야겠다~=Vamos. Hoje vou passar o tempo em Shibuya de novo~.
+
+@
+옥상에 있던 그 남자...\n좀 험상궂어 보이지만 멋있지 않았어?=Aquele cara no telhado... ele parecia um pouco rude, mas não estava legal?
+@
+맞아, 뭔가 특이하긴 하더라.=Sim, havia algo de especial nele.
+
+@
+정말 어이가 없어서! 여자를 치고 가다니!\n놈을 만나면 따귀를 때려줄 테다!=Estou realmente indignada! Ele atropelou uma mulher e fugiu!\nSe eu encontrá-lo, vou dar um tapa nele!
+@
+그래! 만나면 바로 달려들어!\n내가 응원할게!=Sim! Vou correr até ele quando nos encontrarmos!\nEstarei torcendo por você!
+@
+뭐야... 나 안 도와주게?=O que... você não vai me ajudar?
+@
+난... 경찰에 신고해야지...=Eu... preciso reportar à polícia...
+
+++ ----- Tired Student ----- ++
+피<color\=#ff0000ff>곤</color>한 학생=<color\=#ff0000ff>Estudante Cansado</color>
+난 늘 뭔가 하고 싶으면서도... 또 아무런\n의욕이 없어... 마치 욕망이 갑자기 사라진 것\n같은 느낌처럼 말이야. 정말 이상하지.=<size\=28>Eu sempre sinto que quero fazer algo... e então não tenho nenhuma motivação... é como se o desejo simplesmente desaparecesse. É realmente estranho.
+
+++ ----- Student Who Enjoy Rumors ----- ++
+
+소<color\=#ff0000ff>문</color>을 즐기는 학생= <color\=#ff0000ff>Estudante que Gosta de Rumores</color>
+그거 알아? 어제 누가 전철에 치였대.=Sabia disso? Alguém foi atingido pelo trem ontem.
+아... 그렇구나...=Ah... entendi...
+
+혼<color\=#ff0000ff>잣</color>말하는 학생=<color\=#ff0000ff>Estudante Falando Consigo Mesma</color>
+이케나미 너무 멋있어~\n어떻게 해야 말을 걸어볼 수 있을까...=Ikenami é tão legal - como posso começar a falar com ele...
+
+++ ----- A Curious Student ----- ++
+
+호<color\=#ff0000ff>기</color>심이 많은 학생=<color\=#ff0000ff>Estudante Curioso</color>
+방금 창밖에 쪽지를 입에 문 부엉이가\n한 마리 있었던 것 같아~=Acho que acabei de ver uma coruja-do-mato fora da minha janela com um bilhete na boca~.
+에~ 진짜?\n잡아야 하나~=Eh~ Sério?\nDevo pegá-la?
+
+++ ----- Enthusiastic Schoolgirls ----- ++
+
+열<color\=#ff0000ff>광</color>적인 여학생=<color\=#ff0000ff>Enthusiastic</color> Schoolgirls
+
+지난번에 타네무라 선배가 아라이와 얘기하는 걸\n봤는데, 선배 정말 상냥하더라~=Eu vi Tanemura-senpai falando com Arai da última vez, e ela foi realmente gentil~
+나도 선배랑 대화할 수 있는 날이 오면 좋겠다...=Espero que chegue o dia em que eu possa conversar com meu Senpai...
+
+@Enthusiastic Student
+점심에 식당에서 타네무라 선배랑 마주쳤어!\n선배도 내게 인사를 해 주셨다고!=Encontrei a Sra. Tanemura no refeitório no almoço! Ela até me cumprimentou!
+@Complaining Female Student
+아, 너무 부럽다!\n점심시간에 같이 갈 걸 그랬어!=Ah, estou tão com inveja! Eu deveria ter ido com você para o almoço!
+@Enthusiastic Student
+헤헤,\n선배 목소리는 여전히 듣기 좋더라~=Hehe, a voz dela ainda é linda~.
+
+@
+타네무라 선배 걱정이네... 설마 선배도\n어디에 치여서 다치신 건 아니겠지...?=Estou preocupada com a Sra. Tanemura... Espero que ela não tenha se machucado em algum lugar...?
+@
+걱정하지 마. 선배는 그 누구도\n범접하기 어려운 아우라를 갖고 있으니까.=Não se preocupe. Senpai tem uma aura que é difícil para qualquer um se aproximar.
+
+++ ----- Schoolgirls Looking Into The Distance ----- ++
+
+먼<color\=#ff0000ff> </color>곳을 보는 여학생=Estudantes <color\=#ff0000ff>Olhando Para</color> Longe
+
+@Schoolgirl looking into the Distance
+오늘도 거기 가서 커피 마시고 집에 갈까?=Devo ir lá novamente hoje, tomar um café e ir para casa?
+@Worried Schoolgirl
+안 될 거야 없지만...\n너 너무 중독된 거 아니야?=Por que não... mas você não está muito viciada nisso?
+
+@Schoolgirl looking into the Distance
+여성향 게임 속 주인공처럼 인기가 많았으면 좋겠다...=Eu gostaria de ser tão popular quanto a protagonista de um jogo voltado para mulheres...
+@Worried Schoolgirl
+그럼 좀 꾸미고 다녀...\n괜히 게임에서 남자 찾지 말고...=Então se arrume um pouco... e pare de procurar um homem nos jogos...
+
+@
+우리 방과 후에 커피 마시러 가자.=Vamos tomar café depois da escola.
+@
+그냥 잘생긴 종업원을 보러 가고 싶은 거잖아...=Você só quer ir ver o funcionário bonito...
+@
+아... 티 났어?=Ah... você percebeu?
+@
+말이라고.\n가면 거의 그 종업원이랑 얘기만 하잖아...=Eu digo, você entra lá e basicamente só conversa com o cara...
+
+
+++ ----- Students in Conversation ----- ++
+
+대<color\=#ff0000ff>화</color> 중인 학생=학생들이 <color\=#ff0000ff>대화</color> 중
+
+@The Impatient Boy
+이제 너도 답을 줄 때가 된 것 같아.=Acho que é hora de você dar uma resposta agora.
+@Nervous Girl
+음... 미안, 좀 더 생각해 볼게.=Hmm... Desculpe, deixe-me pensar um pouco mais.
+
+@The Impatient Boy
+시간도 꽤 지났잖아. 이젠 답을 줘야 하는 거 아냐?=Já faz um tempo, não deveria você ter uma resposta agora?
+@Nervous Girl
+너... 자꾸 재촉하지 마. 나한테도 생각할 시간을 달라고.=Você... não fique pressionando. Me dê tempo para pensar.
+
+@
+너... 요즘 나 찾지도 않고...=Você... nem mesmo me procura esses dias...
+@
+미안해. 요즘 좀 바빠서.\n설마 나 찾았어...?=Desculpe, tenho estado um pouco ocupada ultimamente. Você me encontrou...?
+
+++ ----- Students by the Window ----- ++
+
+창<color\=#ff0000ff>가</color>의 학생=Estudantes junto à <color\=#ff0000ff>Janela</color>
+
+@Doubtful Girl
+뭐 보고 있어?=O que você está olhando?
+@Middle School Boy
+쉿, 조용히 해. 들키지 않게!=Shhh, fique quieto. Não seja pego!
+@Doubtful Girl
+또 무슨 외계인 추적 게임이야?=Que tipo de jogo de esconde-esconde é esse?
+
+@
+야, 내 말은...=Ei, o que estou dizendo é...
+@
+쉿, 조용히.=Shhh, fique quieto.
+@
+너 또 뭐 하는...=O que diabos você está fazendo...
+@
+소리 낮춰.\n들키면 내 위치랑 상관없이 발각되잖아.=Abaixe sua voz.\nSe você for pego, será descoberto independentemente da sua localização.
+@
+이번에는 또 이런 설정인 거냐...=O quê? De novo...?
+
+
+++ ----- Boys at the end of the Hallway ----- ++
+
+복<color\=#ff0000ff>도</color> 끝에 있는 남자=Rapazes <color\=#ff0000ff>no final</color> do Corredor
+
+@Wonder
+대화에 끼지 않는 게 좋겠어...=Eu prefiro não me juntar à conversa...
+
+@Wonder
+저 사람들 왜 맨날 이곳에 있는 거지...?=Por que essas pessoas estão sempre aqui...?
+
+++ ----- Dapper Boy ----- ++
+
+멋<color\=#ff0000ff> </color>부린 남자=Rapaz <color\=#ff0000ff>chique</color>
+
+@Dapper Boy
+여기 서 있으면 무조건 눈에 띄겠지.\n작업 거는 여자애가 있을 거야...=Se eu ficar aqui, com certeza serei notado. Haverá uma garota dando em cima de mim...
+@Dapper Boy
+왜...\n어째서 작업 거는 여자가 없지...?=Por que... por que não há garotas dando em cima de mim...?
+
+++ ----- Tomoko Noge ----- ++
+노<color\=#ff0000ff>게</color> 토모코=<color\=#ff0000ff>Tomoko Noge</color>
+
+
++++ ----- Kokatsu High School 1st Floor ----- +++
+
+++ ----- Room Transition Prompts ----- ++
+2<color\=#ff0000ff>층</color>으로 이동=Ir para o <color\=#ff0000ff>2º Andar</color>
+학<color\=#ff0000ff>교</color> 떠나기=Deixar a <color\=#ff0000ff>Escola</color>
+다<color\=#ff0000ff>목</color>적동으로 이동=Ir para o <color\=#ff0000ff>Prédio Multiuso</color>
+강<color\=#ff0000ff>의</color>동으로 이동=Ir para o <color\=#ff0000ff>Prédio de Palestras</color>
+
+++ ----- Shops ----- ++
+매점=<size\=26>Balcão de Concessões</size>
+<color\=#ff0000ff>매</color>점=<color\=#ff0000ff>Balcão</color> de Concessões
+
+
+++ ----- Objects ----- ++
+큰<color\=#ff0000ff> </color>목소리의 학생=<color\=#ff0000ff>Estudantes Voz</color>
+
+@
+오늘 일이 전철 운행에 영향을 주진 않겠지?\n그럼 엄청 불편할 거야.=Espero que o que aconteceu hoje não afete o serviço de trem, porque isso seria realmente inconveniente.
+@
+목소리 좀 낮춰...\n아라이는 노게랑 엄청 친하단 말이야.=Abaixe sua voz... Arai é muito próxima de Noge.
+@
+깜빡했어...=Eu esqueci...
+
+계<color\=#ff0000ff>단</color> 옆 남자=Rapazes ao lado da <color\=#ff0000ff>Escada</color>
+계<color\=#ff0000ff>단</color> 옆 여자=Garotas ao lado da <color\=#ff0000ff>Escada</color>
+
+@
+나는 선배파야. 근육질 타입이 좋거든.\n옥상에서 자주 라면 먹는 선배가 꽤 마음에 들어.=Eu sou sênior e gosto do tipo musculoso.\nEu realmente gosto do sênior que frequentemente come ramen no telhado.
+예상 못 했는데, 나는 같은 학년이 좋아...=Eu não esperava, mas eu gosto do mesmo ano...
+그럼 난 후배파~\n아!=Então eu gosto de calouro~!\nAh!
+
+음<color\=#ff0000ff>료</color> 자판기=<color\=#ff0000ff>Máquina de Venda de Bebidas</color>
+@Wonder
+새로운 맛이 나오려나?=Será que vão lançar novos sabores?
+
+남<color\=#ff0000ff>자</color> 화장실=<color\=#ff0000ff>Banheiro Masculino</color>
+이제 뭘 해야 하지...=O que eu devo fazer agora...
+
+여<color\=#ff0000ff>자</color> 화장실=<color\=#ff0000ff>Banheiro Feminino</color>
+여긴 여자 화장실인데...=Isso é o banheiro feminino...
+
+동<color\=#ff0000ff>아</color>리 모집 게시판=<color\=#ff0000ff>Quadro de Recrutamento do Clube</color>
+귀찮아... 귀가부는 없는 건가...=Estou cansado... Não tem um recolhimento em casa...
+
+우<color\=#ff0000ff>산</color>꽂이=<color\=#ff0000ff>Porta-guarda-chuva</color>
+@Forgetful Boy
+우산 돌려주는 걸 깜빡한 것 같아!=Acho que esqueci de devolver o guarda-chuva!
+
+빈<color\=#ff0000ff> </color>찬장=<color\=#ff0000ff>Armário Vazio</color>
+원래는 안에 뭐가 들어있었지?=O que estava originalmente dentro?
+어쩐지 들어갈 수 있을 것 같은데...=Parece que posso entrar lá dentro de alguma forma...
+
+지<color\=#ff0000ff>저</color>분한 책걸상=<color\=#ff0000ff>Mesas Desorganizadas</color>
+@Sullen Boy
+왜 내가 정리를 해야 하는 건데...=Por que eu tenho que fazer a organização...
+@Bored Girl
+너무 귀찮다... 집 가고 싶어...=Estou cansada disso... Quero ir para casa...
+
+게<color\=#ff0000ff>시</color>판=<color\=#ff0000ff>Quadro de Avisos</color>
+전에 뭐 붙여본 적이 있던가?=Você já colocou alguma coisa lá antes?
+몇 페이지가 없어진 것 같은데...\n누가 치웠나?=Algumas páginas parecem estar faltando... quem as limpou?
+
+신<color\=#ff0000ff>발</color>장 위 상자=<color\=#ff0000ff>Caixa</color> nos Armários de Sapatos
+떨어질까 봐 조금 걱정되네.=Estou um pouco preocupado que possa cair.
+
+
+++ ----- Students in the Corner ----- ++
+
+구<color\=#ff0000ff>석</color>의 학생=Estudantes no <color\=#ff0000ff>Canto</color>
+@Standing Girl
+에? 뭐야, 뭐야? 게임 하는 거야?=Eh? O que é, o que é? Você está jogando um jogo?
+@Sitting Girl
+「엑소시스트 헌터」라는 게임인데,\n이미 한참 유행이 지난 것 같아...=É chamado de "Exorcist Hunter," mas acho que a moda já passou há algum tempo...
+@Girl on the Window
+게임 화면도 엄청 옛날 것 같네!=Até a tela do jogo parece muito antiga!
+
+++ ----- Students by the Window ----- ++
+@Dejected Boy
+오늘도 대화에 끼지 못했네...=Hoje não consegui me juntar à conversa novamente...
+
+구<color\=#ff0000ff>석</color>의 학생=Estudantes no <color\=#ff0000ff>Canto</color>
+@Standing Girl
+에? 뭐야, 뭐야? 게임 하는 거야?=Eh? O que é, o que é? Você está jogando um jogo?
+@Sitting Girl
+「엑소시스트 헌터」라는 게임인데,\n이미 한참 유행이 지난 것 같아...=É chamado de "Exorcist Hunter," mas acho que a moda já passou há algum tempo...
+@Girl on the Window
+게임 화면도 엄청 옛날 것 같네!=Até a tela do jogo parece muito antiga!
+
++++ ----- Kokatsu High School Main Entrance ----- +++
+학<color\=#ff0000ff>교</color> 건물=<color\=#ff0000ff>Prédio da Escola</color>
+동<color\=#ff0000ff>아</color>리 게시판=<color\=#ff0000ff>Painéis de Clubes</color>
+쓰<color\=#ff0000ff>레</color>기 코너=<color\=#ff0000ff>Canto do Lixo</color>
+소<color\=#ff0000ff>화</color>전=<color\=#ff0000ff>Hidrante</color>
+학<color\=#ff0000ff>교</color> 정문=<color\=#ff0000ff>Portão Principal da Escola</color>
+벽<color\=#ff0000ff> </color>옆 학생=<color\=#ff0000ff>Estudantes ao Lado da Parede</color>
+화<color\=#ff0000ff>단</color> 옆 학생=<color\=#ff0000ff>Estudantes ao Lado do Canteiro de Flores</color>
+벤<color\=#ff0000ff>치</color> 옆 여성=<color\=#ff0000ff>Garotas ao Lado do Banco</color>
+화<color\=#ff0000ff>단</color> 옆 남성=<color\=#ff0000ff>Rapazes ao Lado do Canteiro de Flores</color>
+화<color\=#ff0000ff>단</color>가 학생=<color\=#ff0000ff>Estudantes Jardineiros</color>
+이<color\=#ff0000ff>야</color>기하는 학생=<color\=#ff0000ff>Estudantes Conversando</color>
+<color\=#ff0000ff>도</color>로=<color\=#ff0000ff>Rua</color>
+채<color\=#ff0000ff>팅</color>하는 여자=<color\=#ff0000ff>Garota Conversando</color>
+@
+아라이 선배, 역시 너무 멋있어!=Arai-senpai, você é tão legal como eu esperava!
+@
+맞아! 난 지금 선배를 위한 응원 포스터를 만들고 있어!=Isso mesmo! Estou fazendo um cartaz de apoio para ela agora!
+어디 보자, 여기 스티커 하나 더 붙여야겠다!=Vamos ver, preciso colocar mais um adesivo aqui!
+게<color\=#ff0000ff>시</color>판 옆 학생=<color\=#ff0000ff>Estudante ao lado do quadro de avisos</color>
+@
+혹, 혹시 이 편지 좀...=P-poderia aceitar esta carta...
+@
+오오!\n혹시 나에게...=Ohhh!\nÉ para mim...
+@
+...나 대신 네 친구에게 좀 전해줘...=...Por favor, passe isso para seu amigo por mim...
+@
+에? !=Eh!?
+
+
+++++ ----- Shibuya ----- ++++
+
+복<color\=#ff0000ff>권</color> 가게 단골=<color\=#ff0000ff>Cliente Fiel de Casa Lotérica</color>
+@
+젠장, 이번에도 꽝이네...=Caramba, estou azarado de novo...
+@
+저도 지난번 당첨 이후,\n언제 또 될까만 생각 중이에요...=Desde que ganhei da última vez, tenho pensado quando será a próxima...
+출근할 필요 없는 삶을 살고 싶어요...=Quero viver uma vida sem precisar ir trabalhar...
+
+@
+저 아이는 잠재력이 많아요.\n수줍음을 극복하려고 노력하는 모습이\n너무 사랑스럽답니다!=Essa criança tem muito potencial. É adorável ver ela tentando superar sua timidez!
+@
+됐어요.\n그녀가 공연할 때마다 그렇게 말하네요.=Já chega, você fala isso toda vez que ela se apresenta.
+@
+아... 너무 고민돼요.\n지금 가서 사인이라도 받을까요?=Ah... Estou tão preocupado. Devo ir agora e pegar um autógrafo?
+@
+전혀 듣고 있지를 않네...=Você não está ouvindo nada...
+
+@
+노래 정말 잘하네요.\n그런데 왜 부르지 않아요?=Ela canta muito bem. Mas por que ela não canta?
+@
+아마도 그냥 연주만 하는 것 같다...=Parece que ela está apenas tocando...
+@
+아쉽네요.\n아이돌로 데뷔했으면 좋겠어요!=É uma pena. Eu gostaria que ela estreasse como uma ídolo!
+
+@
+왜 사장님이 안 계시지...=Por que o chefe não está aqui...
+
+++++ ----- Shibuya Shopping Street ----- ++++
+자<color\=#ff0000ff>판</color>기=<color\=#ff0000ff>Máquina</color> de <color\=#ff0000ff>Venda</color>
+패<color\=#ff0000ff>밀</color>리 레스토랑=<color\=#ff0000ff>Restaurante</color> Padaria
+크<color\=#ff0000ff>레</color>이프 가게=<color\=#ff0000ff>Loja</color> de <color\=#ff0000ff>Crepes</color>
+밀<color\=#ff0000ff>리</color>터리 숍=<color\=#ff0000ff>Literário</color> Shop
+게<color\=#ff0000ff>임</color> 센터=<color\=#ff0000ff>Centro</color> de <color\=#ff0000ff>Jogos</color>
+편<color\=#ff0000ff>의</color>점=<color\=#ff0000ff>Loja</color> de <color\=#ff0000ff>Conveniência</color>
+할<color\=#ff0000ff>인</color> 상점=<color\=#ff0000ff>Loja</color> de <color\=#ff0000ff>Desconto</color>
+영<color\=#ff0000ff>화</color>관=<color\=#ff0000ff>Cinema</color>
+드<color\=#ff0000ff>러</color>그 스토어=<color\=#ff0000ff>Farmácia</color>
+버<color\=#ff0000ff>거</color> 가게=<color\=#ff0000ff>Lanchonete</color>
+헬<color\=#ff0000ff>스</color>장=<color\=#ff0000ff>Academia</color>
+규<color\=#ff0000ff>동</color> 가게=<color\=#ff0000ff>Loja</color> de <color\=#ff0000ff>Bowl de Carne</color>
+체<color\=#ff0000ff>인</color> 커피숍=<color\=#ff0000ff>Cafeteria</color> de <color\=#ff0000ff>Rede</color>
+캡<color\=#ff0000ff>슐</color> 자판기=<color\=#ff0000ff>Máquina</color> de <color\=#ff0000ff>Cápsulas</color>
+@Ruferu
+하... 이곳의 캡슐 자판기는\n지역 한정 시리즈인 것 같아.=Ah... Parece que as máquinas de cápsulas aqui são de uma série limitada regional.
+이건 신제품이야.\n너 오늘 운이 엄청 좋네.=Isso é um produto novo. Você está com muita sorte hoje.
+@Tutorial
+자판기를 선택해 해당하는 시리즈의 캡슐 뽑기=Selecione uma máquina de venda e retire uma cápsula da série correspondente
+<size\=56>¬</size>「<color\=#ff3b37>캡슐 자판기</color>」 1대를 선택합니다.=<size\=56>¬</size>Selecione 1「<color\=#ff3b37>Máquina de Cápsulas</color>」.
+「<color\=#ff3b37>돌리세요</color>」!=「<color\=#ff3b37>Gire</color>」!
+<지혜의 샘·캡슐 편>를 읽은 후 히든과 한정 모델 캡슐을 획득할 확률이 증가합니다!\n트로피에서 해당 책을 획득할 수 있습니다.=Após ler <Fountain of Wisdom·Capsule>, a probabilidade de obter cápsulas ocultas e modelos limitados aumenta!\nVocê pode obter o livro nas troféus.
+임의의 위치를 눌러 캡슐을 여세요.=Toque em qualquer lugar para abrir a cápsula.
+화면을 드래그해 캡슐 모형을 돌려서 볼 수 있습니다.=Você pode girar o modelo da cápsula arrastando a tela para visualizá-la.
+
+앤<color\=#ff0000ff>더</color>슨=<color\=#ff0000ff>Anderson</color>
+메<color\=#ff0000ff>로</color>페=<color\=#ff0000ff>Merope</color>
+<color\=#ff0000ff>서</color>점=<color\=#ff0000ff>Livraria</color>
+<color\=#ff0000ff>약</color>국=<color\=#ff0000ff>Farmácia</color>
+몬<color\=#ff0000ff>자</color>야키=<color\=#ff0000ff>Restaurante</color> de <color\=#ff0000ff>Monjayaki & Okonomiyaki</color>
+길<color\=#ff0000ff> </color>건너기=<color\=#ff0000ff>Atravessar</color> a Rua
+건<color\=#ff0000ff>널</color>목 드러그 스토어=<color\=#ff0000ff>Loja</color> de <color\=#ff0000ff>Farmácia</color> dos <color\=#ff0000ff>Cruzamentos</color>
+
+햄<color\=#ff0000ff>버</color>거 가게 단골=<color\=#ff0000ff>Cliente Fiel da Lanchonete</color>
+@
+이 집 더블 패티 소고기 버거 맛은 일품이에요!=O hambúrguer de duplo bife desta casa é excelente!
+양이 많은 건 물론이고\n식감도 굉장히 독특하죠!=Além de ser grande, a textura é muito única!
+입에서 육즙이 터지는 느낌은\n정말 중독적이라니까요!=A sensação de suculência na boca é viciante!
+@
+맛있다는 건 인정하지만\n매일 먹는 건 과한 것 같은데...=Eu admito que é gostoso, mas comer todo dia parece excessivo...
+
+행<color\=#ff0000ff>인</color>의 대화 듣기=<color\=#ff0000ff>Ouvir</color> Conversas de <color\=#ff0000ff>Passantes</color>
+@
+너도 그거 하는구나? 바로 그거 말이야!\n그럼 이러고 놀자!=Você também gosta disso? É isso mesmo! Então vamos brincar assim!
+@
+음...\n아무거나 상관없어.=Hmm... Qualquer coisa está bom para mim.
+@
+먼저 이렇게 한 다음 이렇게 해야 해.\n그다음에는 이렇게, 또 마지막에는 요렇게!=Primeiro você faz assim, depois assim, então assim, e por último assim!
+@
+음...\n그런데 이게 무슨 의미가 있어?=Hmm... Mas qual é o significado disso?
+
++++ ----- Shibuya Airsoft Shop ----- +++
+이<color\=#ff0000ff>와</color>이 무네히사=<color\=#ff0000ff>Munehisa Iwai</color>
+나<color\=#ff0000ff>가</color>기=<color\=#ff0000ff>Saída</color>
+
++++ ----- Shibuya Arcade ----- +++
+게<color\=#ff0000ff>임</color>하기=Jogar um <color\=#ff0000ff>Jogo</color>
+
++++ ----- Shibuya Central Square ----- +++
+공<color\=#ff0000ff>중</color>전화 부스=<color\=#ff0000ff>Telefones</color> Públicos
+기<color\=#ff0000ff>타</color>를 든 소녀=<color\=#ff0000ff>Garota com um Violão</color>
+기<color\=#ff0000ff>타</color> 케이스=<color\=#ff0000ff>Case do Violão</color>
+관<color\=#ff0000ff>중</color>의 이야기 듣기=Ouvir a <color\=#ff0000ff>Plateia</color>
+오<color\=#ff0000ff>시</color>치=<color\=#ff0000ff>Archie</color>
+충<color\=#ff0000ff>견</color> 동상=<color\=#ff0000ff>Estátua de Buchiko</color>
+루<color\=#ff0000ff>페</color>르=<color\=#ff0000ff>Ruferu</color>
+흡<color\=#ff0000ff>연</color> 구역=<color\=#ff0000ff>Área de Fumantes</color>
+보<color\=#ff0000ff>관</color>함=<color\=#ff0000ff>Armários</color>
+복<color\=#ff0000ff>권</color> 가게=<color\=#ff0000ff>Banca de Loteria</color>
+가<color\=#ff0000ff>판</color>대 단골=<color\=#ff0000ff>Balcão de Imprensa</color> Regular
+코<color\=#ff0000ff>이</color>데 히요리=<color\=#ff0000ff>Hiyori Koide</color>
+
+++ ----- Hiyori Koide ----- ++
+@Hiyori Koide
+유기 동물을 돕기 위해 모금 중입니다...\n여러분께서 모금 좀 해주세요...=Estamos arrecadando dinheiro para ajudar animais sem lar... e precisamos de você para nos ajudar a arrecadar dinheiro...
+모두 더 많이...\n주변 동물들에 관심을 가져줬으면 좋겠어요.=Gostaria que todos...se interessassem mais pelos animais ao seu redor.
+@Wonder
+모금 행사 중이야?=<size\=25>Está tendo um evento de arrecadação?
+음? 작은 동물들을 구하고 싶나요?=Hmm? Você quer salvar animais pequenos?
+사랑과 도움에 진심으로 감사드립니다!=Agradecemos sinceramente pelo amor e ajuda!
+
+++ ----- Girl with the Guitar ----- ++
+아...=Ah...
+기타를 들고 있으면서도 노래를 안 하다니, 이상하지 않나...?\n다른 사람들은 어떻게 생각할지...=Is it weird to play the guitar, but not sing...? I wonder what everyone else thinks...
+
+조용히 듣는다=Escuta quieto
+
+저기...\n그, 그러니까... 무슨 일이시죠?=Oi... bem... você precisa de algo?
+
+왜 노래는 안 해요?=<size\=27>Por que não toca e canta?
+왜 연주만 하고 노래는 안 하는 거죠?=Por que só toca e não canta?
+아니에요. 그럼 안녕히=Não. Adeus.
+
+실은 노래를 부르고 싶어요...=Na verdade, eu quero cantar...
+하지만...\n사람이 많은 곳에서는 도저히 입이 떨어지질 않아서...=Mas... em frente a uma multidão, eu não consigo abrir a boca...
+그래서, 열심히 연습하고 있어요.=Então, estou praticando muito.
+
+노래를 기대하고 있을게요=Estou ansioso para ouvir um dia
+노래할 수 있을 날을 기대할게요=Estou ansioso para ouvir um dia
+힘내요=Anime-se
+
+고마워요...\n열심히 할게요.=Obrigado...\nVou continuar me esforçando.
+
+++ ----- Archie ----- ++
+@Archie
+멍멍!\n시부야에 오신 것을 환영합니다!=Au-au!\nBem-vindo(a) a Shibuya!
+저는 시부야의 오시치입니다!\n오늘도 이곳은 활기로 가득하군요.=Eu sou Archie de Shibuya, e este lugar está cheio de vida hoje novamente.
+시부야는 「잠들지 않는 거리」로 불립니다.\n특히 젊은 사람에게 인기가 많죠.=Shibuya é conhecida como a 「cidade que nunca dorme」 e é especialmente popular entre os jovens.
+@Wonder
+떠난다=Partir
+특기가 있나요?=<size\=25>Tem alguma especialidade?
+@Archie
+오시치는 춤을 잘 춰요!\n휴대폰으로 멋진 영상을 찍을 준비하세요.=Archie dança muito bem, então esteja pronto(a) para capturar algumas imagens incríveis com o seu celular.
+멍멍! 공연이 곧 시작됩니다!\n끄응... 넘어지지만 않으면 좋을 텐데...=Au-au! O espetáculo está prestes a começar!\nOk... seria melhor se eu não caísse...
+
++++ ----- Shibuya Underground Shopping Mall ----- +++
+뷰<color\=#ff0000ff>티</color> 살롱=<color\=#ff0000ff>Salão de Beleza</color>
+가<color\=#ff0000ff>죽</color> 제품 가게=<color\=#ff0000ff>Loja de Artigos de Couro</color>
+시<color\=#ff0000ff>계</color> 가게=<color\=#ff0000ff>Loja de Relógios</color>
+액<color\=#ff0000ff>세</color>서리 상점=<color\=#ff0000ff>Loja de Acessórios</color>
+가<color\=#ff0000ff>방</color> 가게=<color\=#ff0000ff>Loja de Bolsas</color>
+옷<color\=#ff0000ff> </color>가게=<color\=#ff0000ff>Loja de Roupas</color>
+신<color\=#ff0000ff>발</color> 가게=<color\=#ff0000ff>Loja de Sapatos</color>
+패<color\=#ff0000ff>션</color> 부티크=<color\=#ff0000ff>Boutique de Moda</color>
+<color\=#ff0000ff>꽃</color>집=<color\=#ff0000ff>Floricultura</color>
+보<color\=#ff0000ff>석</color> 가게=<color\=#ff0000ff>Joalheria</color>
+신<color\=#ff0000ff>발</color> 수선 가게=<color\=#ff0000ff>Conserto de Sapatos</color>
+일<color\=#ff0000ff>본</color>풍 잡화점=<color\=#ff0000ff>Loja de Artigos Gerais Estilo Japonês</color>
+기<color\=#ff0000ff>념</color>품 가게=<color\=#ff0000ff>Loja de Lembranças</color>
+음<color\=#ff0000ff>향</color> 제품 가게=<color\=#ff0000ff>Loja de Equipamentos de Áudio</color>
+즉<color\=#ff0000ff>석</color> 사진기=<color\=#ff0000ff>Cabine de Fotos</color>
+우<color\=#ff0000ff>산</color> 가게=<color\=#ff0000ff>Loja de Guarda-Chuvas</color>
+프<color\=#ff0000ff>리</color>미엄 마켓=<color\=#ff0000ff>Mercado Premium</color>
+
++++ ----- Shibuya Teikyu Building Accessway ----- +++
+연<color\=#ff0000ff>락</color>교=<color\=#ff0000ff>Acesso ao Prédio Teikyu</color>
+
+++++ ----- Zoshigaya ----- ++++
+플<color\=#ff0000ff>랫</color>폼=<color\=#ff0000ff>Plataforma</color>
+디<color\=#ff0000ff>저</color>트 가게=<color\=#ff0000ff>Loja de Sobremesas</color>
+오랜 역사의 전통식 디저트 가게인데, 주력 메뉴는 타이야키다.=É uma loja de sobremesas tradicional com uma longa história, e seu principal menu é o taiyaki.
+슈<color\=#ff0000ff>퍼</color>마켓=<color\=#ff0000ff>Supermercado</color>
+야<color\=#ff0000ff>키</color>토리 탄조=<color\=#ff0000ff>Yakitori Tanjo</color>
+@
+진정한 요리를 맛보고 싶나?=Quer experimentar uma comida autêntica?
+분명 제 요리에 깜짝 놀라게 될 거야.=Tenho certeza de que ficará agradavelmente surpreso com minha culinária.
+다음에 또 보자.=Até a próxima.
+양<color\=#ff0000ff>복</color>점=<color\=#ff0000ff>Alfaiataria</color>
+@Ruferu
+인간의 의복에 대한 생각이란...\n양복만 입으면 번듯한 어른이 될 수 있다고 생각하는 건가?=O que os humanos pensam sobre roupas...\nVocê acha que pode se tornar um adulto decente apenas usando um terno?
+베<color\=#ff0000ff>이</color>커리=<color\=#ff0000ff>Panificadora</color>
+@Wonder
+이 집 빵은 정말 맛있어...=O pão aqui é realmente delicioso...
+영<color\=#ff0000ff>업</color>중인 술집=Bar Aberto
+@Wonder
+위에...\n미성년자 출입 금지라고 쓰여 있다.=Acima está escrito... Não permitido para menores de idade.
+기<color\=#ff0000ff>대</color>하는 여자=<color\=#ff0000ff>Mulher Grávida</color>
+@
+흥미로운 장소가 너무 많네... 어느 곳을 선택해야 좋을까? 아니면 쇼핑 거리에 가볼까?=Há tantos lugares interessantes... Qual deles devo escolher? Ou devo ir para a rua das compras?
+레<color\=#ff0000ff>스</color>토랑=<color\=#ff0000ff>Restaurante</color>
+@Wonder
+집 근처에 레스토랑이 개업했네.=Um restaurante abriu perto da sua casa.
+가끔 와 보는 것도 괜찮겠다...=Seria bom vir visitar de vez em quando...
+신메뉴도 있던 것 같은데...=Acho que havia um novo menu também...
+@
+어서 오세요~\n아이고, 단골손님 오셨네!=Bem-vindo~ Oh meu, um cliente regular está aqui!
+무<color\=#ff0000ff>성</color>한 꽃=<color\=#ff0000ff>Flores Exuberantes</color>
+<color\=#ff0000ff>귀</color>가=Retorno <color\=#ff0000ff>ao Lar</color>
+수<color\=#ff0000ff>상</color>한 직장인=<color\=#ff0000ff>Trabalhador de Escritório Suspeito</color>
+사<color\=#ff0000ff>토</color> 유타=<color\=#ff0000ff>Yuta Sato</color>
+상<color\=#ff0000ff>냥</color>한 할아버지=<color\=#ff0000ff>Avô Gentil</color>
+챠<color\=#ff0000ff>타</color>의 보물=<color\=#ff0000ff>Tesouro de Chata</color>
+<color\=#ff0000ff>챠</color>타=<color\=#ff0000ff>Chata</color>
+r:"^챠타의 보물을 찾아라 ([0-9]{1})/([0-9]{1})$"=Encontre o Tesouro de Chata ($1/$2)
+토<color\=#ff0000ff>미</color>야마 카요=<color\=#ff0000ff>Kayo Tomiyama</color>
+
+++++ ----- Home ----- ++++
+쓰<color\=#ff0000ff>레</color>기통=<color\=#ff0000ff>Lixeira</color>
+@Wonder
+수요일은 태울 수 있는\n쓰레기를 버리는 날이다...=Quarta-feira é o dia de jogar fora o lixo que pode ser queimado...
+동<color\=#ff0000ff>물</color>병원=<color\=#ff0000ff>Clínica Veterinária</color>
+@Wonder
+부엉이 진료도 가능한지 모르겠네...=Não sei se é possível fornecer tratamento para corujas...
+아니면 다음번엔 루페르를 데려와서\n검진을 한 번 받아볼까?=Ou devemos trazer o Ruferu para um check-up na próxima vez?
+@Ruferu
+내 생각엔...\n별 의미 없는 일을 생각하고 있는 것 같은데.=Na minha opinião... você está pensando em algo sem sentido.
+좁<color\=#ff0000ff>은</color> 계단=<color\=#ff0000ff>Escadas Estreitas</color>
+2층은 주거 지역이니\n올라가지 않는 편이 좋겠지...=O 2º andar é uma área residencial, então é melhor não subir...
+침<color\=#ff0000ff>실</color>로 이동=Ir para o <color\=#ff0000ff>Quarto</color>
+조<color\=#ff0000ff>시</color>가야로 이동=Ir para <color\=#ff0000ff>Zoshigaya</color>
+<color\=#ff0000ff>청</color>소=<color\=#ff0000ff>Materiais de Limpeza</color>
+눕기=Deitar
+<color\=#ff0000ff>재</color>배=<color\=#ff0000ff>Cultivo</color>
+<color\=#ff0000ff>요</color>리=<color\=#ff0000ff>Cozinhar</color>
+자택  침실=Quarto
+재배=Jardim
+작업대=Bancada de Trabalho
+옷장=Guarda-roupa
+자택  거실=Sala de Estar
+앉기=Sentar
+거<color\=#ff0000ff>실</color>로 이동=Ir para a <color\=#ff0000ff>Sala de Estar</color>
+작<color\=#ff0000ff>업</color>대=<color\=#ff0000ff>Bancada de Trabalho</color>
+게<color\=#ff0000ff>임</color> 플레이=Jogar <color\=#ff0000ff>Video Games</color>
+<color\=#ff0000ff>옷</color>장=<color\=#ff0000ff>Guarda-roupa</color>
+진<color\=#ff0000ff>열</color>장=<color\=#ff0000ff>Estante de Exibição</color>
+
+++++ ----- Shinjuku ----- ++++
+<color\=#ff0000ff>수</color>면=<color\=#ff0000ff>Sleep</color>
+전<color\=#ff0000ff>당</color>포=<color\=#ff0000ff>Pawnshop</color>
+어<color\=#ff0000ff>른</color>의 가게=<color\=#ff0000ff>Adult</color> Store
+<color\=#ff0000ff>펫</color>숍=<color\=#ff0000ff>Pet</color> Shop
+침<color\=#ff0000ff>술</color> 클리닉=<color\=#ff0000ff>Acupuncture</color> Clinic
+<color\=#ff0000ff>술</color>집=<color\=#ff0000ff>Bar</color>
+파<color\=#ff0000ff>친</color>코=<color\=#ff0000ff>Pachinko</color>
+라<color\=#ff0000ff>멘</color> 가게=<color\=#ff0000ff>Ramen</color> Shop
+중<color\=#ff0000ff>화</color> 레스토랑=<color\=#ff0000ff>Chinese</color> Restaurant
+점<color\=#ff0000ff>술</color>가=<color\=#ff0000ff>Fortune Teller</color>
+미<color\=#ff0000ff>후</color>네 치하야=<color\=#ff0000ff>Chihaya Mifune</color>
+무<color\=#ff0000ff>료</color> 안내소=<color\=#ff0000ff>Toll-free Information</color> Center
+앗<color\=#ff0000ff>쇼</color>켄=<color\=#ff0000ff>Ashoken</color>
+보<color\=#ff0000ff>안</color> 회사=<color\=#ff0000ff>Security</color> Company
+입<color\=#ff0000ff>간</color>판=<color\=#ff0000ff>Signboard</color>
+빈<color\=#ff0000ff> </color>위치=<color\=#ff0000ff>Empty</color> Location
+고<color\=#ff0000ff>깃</color>집=<color\=#ff0000ff>Barbecue</color> Restaurant
+장<color\=#ff0000ff>어</color>덮밥 가게=<color\=#ff0000ff>Eel Donburi</color> Restaurant
+토<color\=#ff0000ff>사</color>바야시 후미오=<color\=#ff0000ff>Fumio Tosabayashi</color>
+시<color\=#ff0000ff>미</color>즈 리쿠토=<color\=#ff0000ff>Rikuto Shimizu</color>
+
+++++ ----- Yongen-Jaya ----- ++++
+중고 잡화점=<color\=#ff0000ff>Loja de Segunda Mão</color>
+이자카야=<color\=#ff0000ff>Izakaya</color>
+타케미 진료소=<color\=#ff0000ff>Clínica Takemi</color>
+골목 깊은 곳=<color\=#ff0000ff>No Fundo do Beco</color>
+영화관=<color\=#ff0000ff>Cinema</color>
+주민들의 대화 듣기=<color\=#ff0000ff>Ouvir Conversas dos Moradores</color>
+@
+그 진료소 의사는 의료 면허가 없다고 들었어요...\n사람들에게 처방하는 약도 대부분\n불법 반입품인 것 같고요.=Ouvi dizer que o médico daquela clínica não tem licença médica... e a maioria dos remédios que ele receita são ilegais.
+@
+어라... 난 그 의사가 약 처방을 기가 막히게 해서,\n많은 환자를 치료했단 소문을 들었는데...=Hmm... Eu ouvi dizer que o médico daquela clínica é incrível em receitar remédios e curou muitos pacientes...
+@
+말도 안 돼요. 경찰이 오는 걸 제 두 눈으로\n여러 번 봤는걸요! 문제가 있는 의사가 분명해요.=Isso não faz sentido. Eu vi a polícia chegando com meus próprios olhos várias vezes! Esse médico com certeza tem algum problema.
+@
+이 아파트는 수명이 거의 다했어요.\n아무리 봐도 너무 오래되어 보여요.=Este apartamento está quase no fim da vida útil. Parece muito antigo, não importa como você olhe.
+@
+아이고, 듣자 하니 이곳 주민들의 민원 신고율은\n굉장히 낮다던데요.=Ah, ouvi dizer que a taxa de denúncias dos moradores deste lugar é muito baixa.
+@
+딱 봐도 채광이 나쁘고 비좁은 환경인데,\n아무도 불평하지 않는다니...=À primeira vista, a iluminação é ruim e o ambiente é apertado, mas ninguém está reclamando...
+@
+그러게요.\n다들 현재 상태에 안주하는 거겠죠...=É verdade. Todo mundo deve estar satisfeito com a situação atual...
+우체통=<color\=#ff0000ff>Caixa de Correio</color>
+정형외과 병원=<color\=#ff0000ff>Hospital Ortopédico</color>
+@Wonder
+이 병원은 수준이 높긴 하지만...=Embora o hospital tenha um alto nível,...
+하지만 위치가 이래서\n오기엔 좀 부담이 된단 말이야.=Mas a localização torna um pouco difícil chegar aqui.
+주택가=<color\=#ff0000ff>Área Residencial</color>
+구축 아파트=<color\=#ff0000ff>Prédios de Apartamentos</color>
+@Ruferu
+흠, 옛날 구조인 데다가 채광도 별로네...=Hmm, é uma estrutura antiga e a iluminação não é muito boa...
+쌓인 식재료=<color\=#ff0000ff>Ingredientes Empilhados</color>
+슈퍼마켓=<color\=#ff0000ff>Supermercado</color>
+야구 연습장=<color\=#ff0000ff>Estádio de Baseball</color>
+야구 연습장 직원=<color\=#ff0000ff>Funcionário do Estádio de Baseball</color>
+담배 가게=<color\=#ff0000ff>Tabacaria</color>
+@Ruferu
+어이, 여긴 고등학생이 올 가게가 아닌 것 같아.=Ei, acho que esta não é uma loja para estudantes do ensino médio.
+카페=<color\=#ff0000ff>Café</color>
+레스토랑 술집=<color\=#ff0000ff>Bar e Restaurante</color>
+@Ruferu
+새벽 2시까지 영업하는 건가?\n인간은 야행성 동물이 아니지 않나.=Eles estão abertos até as 2 da manhã? Os humanos não são animais noturnos?
+세계 요리 가게=<color\=#ff0000ff>Restaurante de Cozinha Internacional</color>
+@Ruferu
+이 맛이... 말로만 듣던 그 「후추」인가?\n정말 복잡미묘한 맛이네...=Isso é... o "Pimenta" que eu ouvi falar? É um sabor realmente complexo...
+@Wonder
+향신료 냄새가 후각을 자극한다.=O cheiro de especiarias estimula o olfato.
+@Wonder
+한번 가볼까?=Vamos dar uma olhada.
+됐어=Feito
+가보자=Vamos lá
+@
+어서~ 오세요!\n세계 요리 가게입니다. 원하시는 음식은 다 있습니다!=Bem-vindo! Somos um restaurante de cozinha internacional. Temos todos os pratos que você deseja!
+셀프 빨래방=<color\=#ff0000ff>Lavanderia Self-service</color>
+@Ruferu
+유료 공용 시설이 필요해?\n뭐, 편해 보이긴 하네.=Precisa de instalações públicas pagas? Bem, parece conveniente.
+@Wonder
+들어가 보기=Vamos dar uma olhada.
+눅눅한 냄새... 인근 주민들이\n자주 이용하는 것 같다.=Cheiro de umidade... Parece que os moradores locais usam bastante.
+공중 목욕탕=<color\=#ff0000ff>Banho Público</color>
+지하철역=<color\=#ff0000ff>Estação de Metrô</color>
+자판기=<color\=#ff0000ff>Máquinas de Venda Automática</color>
+리 야오링=<color\=#ff0000ff>Li Yaoling</color>
+
++++ ----- Yongen-Jaya Takemi Clinic ----- +++
+타케미 타에=<color\=#ff0000ff>Tae Takemi</color>
+욘겐자야로 이동=Ir para <color\=#ff0000ff>Yongen-Jaya</color>
+
+++ ----- Languid Lady Doctor ----- ++
+
+나른한 여의사=Languid Lady <color\=#ff0000ff>Doctor</color>
+
+@Languid Lady Doctor
+그래서... 무슨 일이야?=... What is it?
+아이들은 밖에서 멋대로 돌아다니면 안 돼.=Kids like you shouldn't be wandering around.
+별일 없으면 얼른 가.=If you don't have any business here, then you should leave.
+
++++ ----- Yongen-Jaya Leblanc ----- +++
+모<color\=#ff0000ff>르</color>가나=<color\=#ff0000ff>Morgana</color>
+아<color\=#ff0000ff>마</color>미야 렌=<color\=#ff0000ff>Ren Amamiya</color>
+명<color\=#ff0000ff>랑</color>한 불량소년=Um <color\=#ff0000ff>Rapaz</color> Vulgar
+사<color\=#ff0000ff>카</color>모토 류지=<color\=#ff0000ff>Ryuji Sakamoto</color>
+출<color\=#ff0000ff>입</color> 금지=<color\=#ff0000ff>Proibida a Entrada</color>
+뭔가 익숙한 느낌...=Isso parece familiar...
+다음에 다시 와서 확인해 보자.=Vamos voltar e verificar outra vez mais tarde.
+
+++++ ----- Mementos ----- ++++
+세<color\=#ff0000ff>이</color>프 룸=<color\=#ff0000ff>Sala de Segurança</color>
+정<color\=#ff0000ff>산</color>기=<color\=#ff0000ff>Máquina de Liquidação</color>
+r:"^에어리어 ([0-9]{1})으로 이동$"=Ir para Área $1
+r:"^에어리어 ([0-9]{1})로 이동$"=Ir para Área $1
+최<color\=#ff0000ff>심</color>부로 이동=Ir para o <color\=#ff0000ff>Núcleo</color>
+조화를 잃은 길로 이동=Ir para Caminhos Fora da Harmonia
+r:"^에어리어 ([0-9]{1})로 돌아가기$"=Voltar para Área $1
+r:"^에<color\=#ff0000ff>어</color>리어 ([0-9]{1})으로 이동$"=Ir para <color\=#ff0000ff>Área $1</color>
+r:"^에<color\=#ff0000ff>어</color>리어 ([0-9]{1})로 이동"=Ir para <color\=#ff0000ff>Área $1</color>
+r:"^에<color\=#ff0000ff>어</color>리어 ([0-9]{1})으로 돌아가기$"=Voltar para <color\=#ff0000ff>Área $1</color>
+r:"^에<color\=#ff0000ff>어</color>리어 ([0-9]{1})으로 돌아가기$"=Voltar para <color\=#ff0000ff>Área $1</color>
+r:"^<color\=#FFDe00>사상을 잃은 길</color> 입장은 <color\=#FFDe00>([0-9]{1,2})레벨</color> 달성 시 활성화돼.\n승차권을 충분히 수집하고 정산기에 제출한 후\n다시 시도해 봐.$"=A entrada para <color\=#FFDe00>Caminhos Perdidos</color> é ativada no <color\=#FFDe00>Nível $1</color>. Colete ingressos suficientes e entregue-os ao medidor para tentar novamente.
+r:"^<color\=#FFDe00>조화를 잃은 길</color> 입장은 <color\=#FFDe00>([0-9]{1,2})레벨</color> 달성 시 활성화돼.\n승차권을 충분히 수집하고 정산기에 제출한 후\n다시 시도해 봐.$"=A entrada para <color\=#FFDe00>Caminhos Fora da Harmonia</color> é ativada no <color\=#FFDe00>Nível $1</color>. Colete ingressos suficientes e entregue-os ao medidor para tentar novamente.
+조<color\=#ff0000ff>화</color>를 잃은 길 에어리어 4로 돌아가기=Voltar para Caminhos Perdidos <color\=#ff0000ff>Área 4</color>
+사상을 잃은 길 에어리어 1로 이동해라=Ir para Caminhos Perdidos <color\=#ff0000ff>Área 1</color>
+조화를 잃은 길 에어리어 1로 이동해라=Ir para Caminhos Fora da Harmonia <color\=#ff0000ff>Área 1</color>
+조<color\=#ff0000ff>화</color>를 잃은 길로 이동=Ir para <color\=#ff0000ff>Caminhos Fora da Harmonia</color>
+사상을 잃은 길로 돌아가기=Voltar para <color\=#ff0000ff>Caminhos Perdidos</color>
+타<color\=#ff0000ff>락</color>한 폭도=<color\=#ff0000ff>Mob Corrompido</color>
+sr:"\『<color\=#ff3b37>(.*?)</color>\』 공간으로\\n단축 이동이 활성화되었습니다."=Viagem rápida para <color\=#ff3b37>$1</color> desbloqueada.
+광<color\=#ff0000ff>폭</color>한 악당=<color\=#ff0000ff>Vilão</color> Badass
+
+++++ ----- Kiuchi Takeyuki's Palace ----- ++++
+삐빅... 이 문을 통과하려면\n「<color\=#ff0000>C-Level 팬 카드</color>」가 필요합니다...=Beep... Para passar por esta porta, você precisa do 「<color\=#ff0000>C-Level Fan Card</color>」.

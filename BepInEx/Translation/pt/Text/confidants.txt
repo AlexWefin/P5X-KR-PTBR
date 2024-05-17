@@ -1,0 +1,242 @@
++++++ ----- Confidants ----- +++++
+
+++++ ----- General ----- ++++
+sr:"^(.*?\s*)·절친$"=$1 - Melhor Amigo
+sr:"^캐릭터 프로필.\\n(.*?\s*)(와|과) 절친 관계가 될 시 획득하는 프로필. 두 사람의 긴밀하게 이어진 우정을 의미한다.$"=Perfil do Personagem.\nPerfil obtido quando $1 se torna seu Melhor Amigo. Significa a amizade próxima entre vocês dois.
+sr:"^(.*?\s*)·소울메이트$"=$1 - Alma Gêmea
+sr:"^캐릭터 프로필.\\n(.*?\s*)(와|과) 소울메이트 관계가 될 시 획득하는 프로필. 두 사람의 돌이킬 수 없는 관계를 의미한다.$"=Perfil do Personagem.\nPerfil obtido quando $1 se torna sua Alma Gêmea. Significa uma relação irreversível entre vocês dois.
+sr:"^(.*?\s*) 전용 이모티콘팩.\\n(.*?\s*)(와|과)의 협력자 레벨업 보상.$"=Um pacote de emotes exclusivo para $1. Recompensa por subir de nível como um confidente com $2.
+sr:"^(.*?\s*) 전용 이모티콘팩.\\n(.*?\s*) 「절친」 관계 달성 보상.$"=Um pacote de emotes exclusivo para $1. Recompensa por alcançar a relação 『Melhor Amigo』 com $2.
+sr:"^(.*?\s*) 전용 이모티콘팩.\\n(.*?\s*) 「소울메이트」 관계 달성 보상.$"=Um pacote de emotes exclusivo para $1. Recompensa por alcançar a relação 『Alma Gêmea』 com $2.
+
+++++ ----- Ruferu ----- ++++
+<color\=#FF0000>Ruferu</color> possui uma variedade de técnicas de exploração do Metaverso e pode ensinar você a criar <color\=#FF0000>Ferramentas de Infiltração.</color>
+
++++ ----- Intimacy Rewards ----- +++
+「거래」 성립=Estabelecer uma 『Transação』
+비정기적으로 루페르의 「비즈니스」 목표를 발표합니다.=Os 『Objetivos de Negócios』 do Ruferu são anunciados ocasionalmente.
+잠입 아이템 제작=Fabricação de Ferramentas de Infiltração
+잠입 아이템을 제작할 수 있습니다(작업대 해제 필요).=Você pode fabricar ferramentas de infiltração (requer desbloqueio de uma bancada de trabalho).
+잠입 행동 요령=Dicas de Comportamento de Infiltração
+팰리스와 메멘토스에 있는 낮은 레벨의 섀도를 순식간에 제거합니다.=Remova instantaneamente sombras de baixo nível em Palácios e Mementos.
+중급 제작 레시피=Receitas de Fabricação Intermediária
+제작할 수 있는 「보물 탐지기·야구장」, 「보물 탐지기·세트장」 잠입 아이템 및 선물이 증가합니다.=Aumenta o número de 『Detector de Tesouros - Campo de Beisebol』 e 『Detector de Tesouros - Campo de Conjunto』 ferramentas de infiltração e presentes que podem ser fabricados.
+재료 절약 노하우=Como Economizar Materiais
+선물을 제작할 때 일정 확률로 일부 재료를 반환합니다.=Você tem uma chance de reembolsar alguns materiais ao fabricar presentes.
+신념의 날개=Asas da Convicção
+캐릭터 프레임. \n루페르의 협력자 보상. 신념이라는 하늘에는 항상 당신과 함께 날 수 있는 날개가 있다.=Quadro de Personagem.\nRecompensa do confidente do Ruferu. No céu da convicção, sempre há asas que podem voar com você.
+고급 제작 레시피=Receitas de Fabricação Avançada
+제작 가능한 선물의 종류가 증가합니다.=Aumenta o número de presentes que você pode criar.
+제작 기술=Técnicas de Autoria
+선물을 제작할 때 일정 확률로 1개를 추가 획득할 수 있습니다.=Ao fabricar um presente, você tem a chance de obter 1 extra.
+
++++ ----- Story ----- +++
+이세계의 방문자로, 현실 세계에서는 동글동글하고 귀여운 부엉이다. 진중한 성격에 어른스러운 말투지만, 단어와 문장 선택이 다소 묘한 것 같다...=Um visitante de outro mundo, ele é uma coruja fofa e adorável no mundo real. Apesar de sua personalidade séria e maneira madura de falar, sua escolha de palavras e frases parece um tanto peculiar...
+루페르는 이세계 탐험에 대한 지식이 풍부하며, 좋은 가이드이자 동료이다. 하지만 그는 기억 일부분을 잃은 탓인지, 현실 세계의 인간 상식에 대한 이해가 조금 부족한 부분이 있다. 어째서인지 루페르는 「욕망」이라는 현상에 대해 강하게 집착한다.=Ruferu é conhecedor da exploração do Metaverso e serve como um ótimo guia e companheiro. No entanto, devido à perda de algumas de suas memórias, ele tem um entendimento limitado do conhecimento humano comum no mundo real. Por algum motivo, Ruferu é obcecado pelo fenômeno do "desejo."
+루페르는 메멘토스에서 편지 배달차의 모습으로 변신해 괴도단 일행을 태우고 곳곳을 누빌 수 있는데, 차에는 이상한 소뿔도 한 쌍 달려 있다. 본인 말로는 변신을 할 수 있는 이유가 「이곳에는 귀여운 동물이 승용차로 변신할 수 있다는 인지가 있기 때문」이라고 하는데, 왜 그런 인지가 있는지는 아무도 모른다.=Em Mementos, Ruferu pode se transformar em um veículo de entrega de cartas e transportar os Phantom Thieves para vários locais. Estranhamente, este veículo também vem completo com um par de chifres peculiares. Segundo ele, ele pode se transformar porque "há uma percepção de que animais fofos podem se transformar em carros de passageiros neste lugar", mas ninguém sabe por quê.
+루페르는 인간이 가진 「욕망」에 무척 관심이 많다. 내가 스스로 욕망을 각성시키고 괴도가 되자, 루페르는 「정말 알 수 없는 녀석」이라며 감탄을 금치 못했고, 그런 의미에서 내게 「원더」라는 괴도 코드네임을 지어 주었다.=Ruferu tem muito interesse nos "desejos" humanos. Quando despertei meus próprios desejos e me tornei um Phantom Thief, Ruferu me admirou como uma "pessoa verdadeiramente imprevisível" e me deu o codinome de Phantom Thief de "Wonder".
+
++++ ----- Voice ----- +++
+노나카 아이=Nonaka Ai
+내 이름은 루페르, 코드네임은 캐틀이야. 잘 기억해 둬.=Meu nome é Ruferu, e meu codinome é Cattle. Lembre-se bem disso.
+미안하지만 내 이야기를 하는 건 별로 안 좋아해. ...뭐 하는 거야? 그, 그렇게 슬픈 표정 하지 마. 때가 되면 말해줄게.=Desculpe, mas eu realmente não gosto de contar minha história.\n...O que há de errado? Por favor, não fique tão triste. Eu vou te contar quando for a hora certa.
+「목적」에 대해=Sobre 『Propósito』
+내 기억은 아직 완전하지 않아. 하지만 기억을 되찾는 경로가 팰리스 주인의 뒤틀린 욕망, 즉 「보물」을 훔치는 거란 건 알아.=Minhas memórias ainda estão incompletas. Mas eu sei que o caminho para a recuperação envolve roubar os desejos distorcidos dos governantes do palácio: seus "tesouros".
+우리는 똑같이 괴도단의 멤버고, 함께 비즈니스를 하는 동료야. 후훗, 네 가방 안이 그렇게 편안할 줄은 몰랐어.=Nós somos ambos membros dos Phantom Thieves, e estamos juntos nos negócios. Hoo-hoo, eu não sabia que sua bolsa seria tão confortável.
+「키우치 타케유키」에 대해=Sobre 『Takeyuki Kiuchi』
+
+++++ ----- Merope ----- ++++
+<color\=#FF0000>메로페</color>는 더 많은 <color\=#FF0000>벨벳 룸의 서비스</color>를 제공해 당신이 더 강력한 페르소나를 육성할 수 있도록 도와줍니다.=<size\=28><color\=#FF0000>Merope</color> oferece mais <color\=#FF0000>Serviços do Sala de Veludo</color> para ajudá-lo a cultivar personas mais fortes.</size>
+
++++ ----- Intimacy Rewards ----- +++
+아이돌의 길=Caminho do Ídolo
+「계약」 기능을 사용해 더 많은 괴도 아이돌을 획득할 수 있습니다.=Você pode usar o recurso 『Contratos』 para ganhar mais Ídolos Fantasma.
+특별 초대=Convite Especial
+아크엔젤 합체를 해제합니다.=Desbloquear a fusão do Arcanjo.
+이상적인 이미지=A Imagem Ideal
+세탄타 합체를 해제합니다.=Desbloquear a fusão de Setanta.
+VIP 좌석=Assentos VIP
+아누비스 합체를 해제합니다.=Desbloquear a fusão de Anúbis.
+스포트라이트 아래=Sob os Holofotes
+오오쿠니누시 합체를 해제합니다.=Desbloquear a fusão de Okuninushi.
+내가 밀면 정의=Quando Eu Empurro, a Justiça Prevalece
+나르키소스 합체를 해제합니다.=Desbloquear a fusão de Narciso.
+응원 보답=Recompensando o Apoio
+랭크 4 이하의 2성, 3성 페르소나 합체 시 확률적으로 표식 1개를 추가 획득합니다.=Você tem a chance de ganhar 1 Marca adicional ao fundir Personas de 2 estrelas e 3 estrelas classificadas 4 ou menos.
+이모티콘·파이팅=Emoji - Lutando
+이모티콘·사랑을 느껴=Emoji - Sinta o Amor
+메로페 전용 이모티콘팩.\n메로페가 「개인 안내원」이 되면 획득한다.=Um pacote de emojis exclusivo para Merope. Obtido quando Merope se torna um 『Atendente Pessoal』.
+메로페·개인 안내원=Merope - Atendente Pessoal
+캐릭터 프로필.\n메로페가 개인 안내원이 될 시 획득하는 프로필. 두 사람의 깊고 진실한 신뢰를 의미한다.=Perfil de Personagem.\nPerfil obtido quando Merope se torna seu Atendente Pessoal. Significa uma confiança profunda e sincera entre vocês dois.
+전속 안내=Orientação Dedicada
+캐릭터 명함. \n메로페의 협력자 보상. 안내원이 갖고 있는 벨벳 전서는 마음속 깊이 간직하고 있는 욕구이다.=Cartão de Visita do Personagem.\nRecompensa do confidente de Merope. O tomo de veludo que o atendente possui é um desejo profundamente guardado.
+이모티콘·악수=Emoji - Aperto de Mão
+이모티콘·신나=Emoji - Animado
+그림자와의 독무=Dançando com as Sombras
+황룡 합체를 해제합니다.=Desbloquear a fusão de Kohryu.
+사랑의 응원=Apoio e Amor
+캐릭터 프레임.\n메로페의 협력자 보상. 전폭적인 지지로 분출되는 열정은 유일무이한 사랑을 의미한다.=Quadro de Personagem.\nRecompensa do confidente de Merope. O apoio apaixonado e total significa um amor único.
+
++++ ----- Story ----- +++
+벨벳 룸의 주인인 이고르의 조수로, 성실하고 이성적으로 주인인 이고르의 명령을 수행한다. 지금은 「전속 안내원」으로서 괴도단 활동을 지원한다.=Como assistente de Igor, o dono do Sala de Veludo, ela cumpre diligentemente e racionalmente as ordens de seu mestre. Agora ela é uma 『atendente exclusiva』 e auxilia nas atividades dos Ladrões Fantasma.
+메로페는 이고르의 명을 받아 인간 세상에서 주인공을 도울 방법을 찾았다. 「괴도 아이돌」이 바로 메로페가 찾아낸 답이다.=Merope, sob o comando de Igor, procurou maneiras de ajudar o protagonista no mundo humano. 『Ídolo Fantasma』 foi a resposta que ela encontrou.
+
++++ ----- Voice ----- +++
+타무라 유카리=Yukari Tamura
+저는 안내원인 메로페입니다. 앞으로 잘 부탁드려요.=Eu sou Merope, seu assistente, e espero vê-lo em breve.
+저는 꿈과 현실, 정신과 물질 사이의 좁은 틈새인 「벨벳 룸」에서 주인을 섬깁니다.=Eu sirvo meu mestre na "Sala de Veludo", o estreito abismo entre sonho e realidade, mente e matéria.
+「나시모토 나루미」에 대해=<size\=28>Sobre 『Narumi Nashimoto』</size>
+「이고르」에 대해=Sobre 『Igor』
+「팔 힘?」에 대해=Sobre 『Força do braço?』
+
+++++ ----- Yaoling Li ----- ++++
+<color\=#FF0000>리 야오링</color>은 당신에게 다양한 <color\=#FF0000>중국의 신비한 아이템</color>을 선물할 수 있습니다. 생각지 못한 용도가 있을지도 모릅니다.=<size\=28><color\=#FF0000>Yaoling Li</color> te presenteia com uma variedade de <color\=#FF0000>Itens Chineses Misteriosos</color>. Eles podem ter usos inesperados.</size>
+
++++ ----- Intimacy Rewards ----- +++
+뛰어난 손재주=Destreza
+간단한 전투 아이템 제작을 일부 개방합니다.=Desbloqueia a criação de alguns itens de combate simples.
+중화요리 레시피=Receitas Chinesas
+중식 요리를 일부 개방합니다.=Desbloqueia alguma culinária chinesa.
+노력의 보상=Recompensa pelo Trabalho Duro
+더 많은 전투 아이템 제작을 개방합니다.=Desbloqueia a criação de mais itens de combate.
+숙련된 기교=Destreza Habilidosa
+전투 아이템 제작 시 일정 확률로 일부 재료가 반환됩니다.=Você tem uma chance de reembolsar alguns materiais ao criar itens de combate.
+중화요리의 매력=O Encanto da Comida Chinesa
+더 많은 중식 요리를 개방합니다.=Desbloqueia mais culinária chinesa.
+이모티콘·밥에 진심=Emoji - Sinceridade no Arroz
+이모티콘·혼란=Emoji - Confusão
+!!!!! The following Character Profile Card is missing a description in game
+어흥 여의=Lazer e Recreação
+이모티콘·너에게 파묻힘=Emoji - Enterrado por Você
+이모티콘·당황=Emoji - Embaraço
+이모티콘·장난이야=Emoji - Brincadeira
+자유자재=Livre
+캐릭터 프레임.\n리 야오링의 협력자 보상. 근심 많은 속세에서 자유롭게 거닐자.=Quadro de Personagem.\nRecompensa do confidente de Li Yaoling. Caminhe livre dos cuidados do mundo.
+반반 샤부샤부=Shabu-Shabu Meio a Meio
+캐릭터 프레임.\\리 야오링의 협력자 보상. 사천 사람의 낭만은 당신과 공유하고 싶은 반반 샤부샤부다.=Quadro de Personagem.\nRecompensa do confidente de Li Yaoling. O romance de um Sichuanese é um shabu-shabu meio a meio que eu quero compartilhar com você.
+
++++ ----- Story ----- +++
+중국 사천에서 온 유학생, 욘겐자야의 아파트에 살고 있다. 일본어를 잘 못하는 것 같다... 말의 의미를 잘못 이해하곤 하는데, 가끔은 이상한 일본어를 쓴다.=Uma estudante internacional de Sichuan, China, que mora em um apartamento em Yongenjaya. Seu japonês não é muito bom... Ela frequentemente entende mal o significado das palavras e às vezes escreve japonês estranho.
+
++++ ----- Voice ----- +++
+루팅=Ru Thing
+저는 중국 사천에서 온 리 야오링이에요. 만나서 반가워요.=Eu sou Yaoling Li de Sichuan, China. Prazer em conhecer você.
+전 아직 일본어를 잘 못 해서... 좀 틀릴지도 몰라요. 화내지 말아줬으면 좋겠어요! 고마워요!=Ainda não sou bom em japonês, então... eu posso cometer alguns erros. Espero que você não fique bravo comigo! Obrigado!
+「고추」에 대해=Sobre 『Pimentas』
+「후지카와 유키미」에 대해=Sobre 『Yukimi Fujikawa』
+「차」에 대해=Sobre 『Chá』
+
+++++ ----- Motoha Arai ----- ++++
+<color\=#FF0000>아라이 모토하</color>는 각종 <color\=#FF0000>야구 기술</color>을 가르쳐 주어 야구 도전에서 더 활약할 수 있도록 도와줍니다.=<size\=28><color\=#FF0000>Motoha Arai</color> irá ensinar a você várias <color\=#FF0000>Habilidades de Beisebol</color> para ajudá-lo a se sair melhor nos desafios de beisebol.</size>
+
++++ ----- Intimacy Rewards ----- +++
+매의 눈=Olho de Falcão
+야구 연습 시 관찰 모드에 진입할 수 있습니다.=Você pode entrar no modo de observação durante a prática de beisebol.
+같이 힘내자=Vamos Apoiar Um ao Outro
+총공격으로 전투 종료 시 멤버 전원의 HP가 최대로 회복됩니다(팰리스 및 메멘토스 배회 섀도 한정 유효).=Todos os membros do grupo curam até o HP máximo ao terminar uma batalha com um Ataque Total.\nAplica-se apenas a Palácio e Sombras Errantes de Mementos.
+운동량 늘리기=Aumente Seus Treinos
+야구 연습에서 새로운 난이도에 도전할 수 있습니다. 야구 연습장 교환처에서 교환 가능한 상품 종류가 증가합니다.=Você pode desafiar um novo nível de dificuldade na prática de beisebol. Aumenta o número de itens disponíveis na troca da gaiola de rebatidas.
+준비됐어=Estou Pronto
+세이프 룸에서 재정비 후 HL 에너지가 30% 미만일 경우 30%로 회복됩니다(팰리스 및 메멘토스 배회 섀도 한정 유효).=Se a sua energia HIGHLIGHT estiver abaixo de 30% após reagrupar em uma sala segura, ela será restaurada para 30%\nAplica-se apenas a Palácio e Sombras Errantes de Mementos.
+얼마든지 해봐=Sinta-se à Vontade para Tentar
+야구 연습에서 더 높은 난이도에 도전할 수 있습니다. 야구 연습장 교환처에서 교환 가능한 상품 종류가 한층 더 증가합니다.=Você pode enfrentar o nível de dificuldade mais alto na prática de beisebol. Aumenta o número de itens disponíveis na troca da gaiola de rebatidas.
+이모티콘·네가 최고야=Emoji - Você é o Melhor
+이모티콘·잡았다=Emoji - Agarrado
+눈부신 섬광=Flash Cegante
+캐릭터 명함. \n아라이 모토하의 협력자 보상. 빛이 되는 번개는 새벽의 어둠을 뚫고 나간다.=Cartão de Perfil de Personagem.\nRecompensa de confidente de Motoha Arai. O relâmpago que se torna luz perfura a escuridão do amanhecer.
+이모티콘·승리!=Emoji - Vitória!
+이모티콘·쇠질=Emoji - Pancada
+이모티콘·반짝반짝=Emoji - Brilho
+열혈 홈런=Home Run Frenético
+캐릭터 프레임. \n아라이 모토하의 협력자 보상. 힘차게 날린 홈런은 운명의 굴레를 깨기 충분하다.=Quadro de Personagem.\nRecompensa de confidente de Motoha Arai. Um home run bem batido é suficiente para quebrar as algemas do destino.
+스트로베리 크림=Creme de Morango
+캐릭터 프레임.\n아라이 모토하의 협력자 보상. 기분이 안 좋으면 소중한 사람과 함께 디저트를 먹어보자.=Quadro de Personagem.\nRecompensa de confidente de Motoha Arai. Se você estiver se sentindo para baixo, coma uma sobremesa com alguém especial.
+
++++ ----- Story ----- +++
+코카츠 고교 2학년 여성으로, 나의 같은 반 동급생이다. 만능 스포츠인으로, 교내에서 남녀 모두에게 인기가 있다. 논리적으로 생각하기보다 직감에 따라 행동하며, 성적은 평범해 보인다.=Ela é uma estudante do segundo ano do ensino médio na Kokatsu, na mesma turma que eu. Ela é uma atleta versátil e é popular entre meninos e meninas na escola. Ela age por instinto em vez de pensar logicamente, e suas notas parecem ser médias.
+모토하는 초등학교 때 소년 여성 야구부 연맹팀에 들어갔는데, 실력이 뛰어나 「최고의 9인」에 들었다.=Na escola primária, Motoha entrou para a equipe de beisebol da federação de meninos e meninas. Suas habilidades eram tão notáveis que ela fez parte dos "melhores nove".
+
++++ ----- Voice ----- +++
+혼도 카에데=Kaede Hondo
+나는 아라이 모토하, 코드네임은 클로저, 잘 부탁해.=Eu sou Arai Motoha, e meu codinome é Closer. Prazer em conhecer você.
+나? 음... 나는 「뭔가 생각나면 바로 행동으로 옮기는 유형」이야. 그러니까 난 복잡한 문제를 생각하는 건 잘 못 해. 하하하...=Eu? Hum... Eu sou do tipo que age assim que algo vem à mente. Então, eu não sou muito bom em pensar sobre problemas complexos. Hahaha...
+「우리·만남」에 대해=Sobre 『Nosso Encontro』
+「우리 괴도단」에 대해=Sobre 『Nossa Gangue』
+「루페르」에 대해=Sobre 『Ruferu』
+「노게 토모코」에 대해=Sobre 『Tomoko Noge』
+
+++++ ----- Tomoko Noge ----- ++++
+<color\=#FF0000>노게 토모코</color>는 각종 <color\=#FF0000>알바</color>에 대해 잘 알고 있습니다. 당신이 알바를 통해 더 많이 성장할 수 있도록 도와줍니다.=<size\=28><color\=#FF0000>Tomoko Noge</color> sabe tudo sobre <color\=#FF0000>Trabalhos de meio período.</color> Ela ajuda você a crescer mais com seu trabalho de meio período.</size>
+
++++ ----- Intimacy Rewards ----- +++
+알바 데뷔=Estreia do Seu\nTrabalho de Meio Período
+「시부야·밀리언 디저트 가게」에서 아르바이트를 할 수 있습니다.=Você pode conseguir um trabalho de meio período na 『Loja de Crepes』 em Shibuya.
+관찰하는 비결=O Segredo para Observar
+아르바이트 시 인간 파라미터를 추가로 성장시킬 수 있습니다.=Você pode aumentar ainda mais suas estatísticas sociais quando trabalha meio período.
+카운터 접대 전문가=Especialista em Hospitalidade no Balcão
+「시부야·드러그 스토어」에서 아르바이트를 할 수 있습니다.=Você pode conseguir um trabalho de meio período na 『Farmácia』 em Shibuya.
+서비스의 심득=Profundidade do Serviço
+아르바이트 시 인간 파라미터를 더 많이 성장시킬 수 있습니다.=Você pode aumentar ainda mais suas estatísticas sociais quando trabalha meio período.
+이모티콘·멘탈 가출=Emoji - Fuga Mental
+이모티콘·뇌용량 과부하=Emoji - Sobrecarga Cerebral
+게스트 감정 관찰=Observar Sentimento do Convidado
+「신주쿠·히노쿠니야 서점」에서 아르바이트를 할 수 있습니다.=Você pode conseguir um trabalho de meio período na 『Livraria Hinokuniya』 em Shinjuku.
+도시 관찰자=Observador da Cidade
+캐릭터 명함. \n노게 토모코의 협력자 보상. 진정한 나를 찾는 먼 길에서 서로는 가장 가까운 전우이다.=Cartão de Perfil de Personagem.\nRecompensa de confidante de Tomoko Noge. Na longa estrada para encontrar seu verdadeiro eu, vocês são os camaradas mais próximos.
+이모티콘·우울해=Emoji - Deprimido
+이모티콘·소근소근=Emoji - Suavemente
+이모티콘·기대=Emoji - Expectativas
+피어나는 꽃=Flores Florescendo
+캐릭터 프레임. \n노게 토모코의 협력자 보상. 고치를 깨고 다시 태어나면 희망의 꽃이 피어난다.=Quadro de Personagem.\nRecompensa de confidante de Tomoko Noge. Se você quebrar e nascer de novo, a flor da esperança floresce.
+사랑 고백=Declare Seu Amor
+캐릭터 프레임.\\노게 토모코의 협력자 보상. 전하고 싶은 마음은 소녀의 어리석은 사랑이다.=Quadro de Personagem.\nRecompensa de confidante de Tomoko Noge. O sentimento que quero transmitir é o amor tolo de uma garota.
+
++++ ----- Story ----- +++
+코카츠 고교에 재학 중인 2-D반 학생으로, 모토하와 초등학교 시절부터 친했으며 청소년팀에서 모토하와 배터리를 이뤄 활동했고, 포지션은 포수이다.=Estudante da turma 2-D do Ensino Médio de Kokatsu. Ela conhece Motoha desde o ensino fundamental e jogou com ela no time juvenil como sua receptora e parceira de bateria.
+재능있고 활발하며 외향적인 모토하에 비해 토모코는 자상하고 특히 관찰력이 뛰어나 사람들의 신뢰를 받아왔다. 그런데도 토모코는 자신이 그저 평범한 사람일 뿐이라며 자신 없는 모습을 보이고는 했다. 실패하면 오랫동안 기분이 다운되는 편이다.=Comparada a Motoha, que é talentosa, enérgica e extrovertida, Tomoko é compassiva e especialmente observadora, o que lhe rende a confiança das pessoas. Apesar disso, Tomoko costuma ser insegura, acreditando ser apenas uma pessoa comum. Ela tende a se sentir para baixo por um longo tempo após uma falha.
+
++++ ----- Voice ----- +++
+아케사카 사토미=Satomi Akesaka
+안녕. 나는 노게 토모코야. 만나서 반가워.=Olá. Eu sou Tomoko Noge. Prazer em conhecer você.
+나는 재능도 없고 특기도 없어. 나같은 사람은 앞으로 뭘 하면 좋을까... 가끔은 너무 막막해.=Eu não tenho talento, não sou bom em nada. O que alguém como eu deveria fazer? Às vezes me sinto tão perdido.
+「야구」에 대해=Sobre 『Beisebol』
+「아라이 모토하」에 대해=Sobre 『Motoha Arai』
+「카노 슌」에 대해=Sobre 『Shun Kanou』
+
+
+++++ ----- Tomoko Noge ----- ++++
+
+
++++ ----- Before Spending Time ----- +++
+
+오늘 나랑 같이 좀 가줄 수 있어?=Você pode vir comigo hoje?
+가고 싶은 곳이 있거든.\n물론 시간이 없다면 괜찮아...=Eu quero ir a algum lugar.\nMas, se você estiver ocupado, tudo bem...
+넌 어때?\n토모코와 같이 시간을 보낼래?=E você?\nGostaria de passar um tempo com a Tomoko?
+그렇구나...\n그럼 네가 시간이 될 때 다시 이야기 하자.=Entendi...\nEntão, me avise quando você estiver livre.
+그럼 우린 어디로 갈까~? \n좋은 생각 있어?=Então, para onde vamos~? Alguma ideia?
+
+
++++ ----- Spend time at Odaiba Kaihinkoen----- +++
+
+@Tomoko
+이 공원 근처에 야구장이 있어.=Há um campo de beisebol perto deste parque.
+내가 어린이 야구팀에 있을 때는\n경기 끝나고 모토하와 종종 같이 집에 가곤 했어.=Quando eu estava na equipe de beisebol infantil, Motoha e eu costumávamos voltar para casa juntas depois dos jogos.
+오늘 모토하랑 대화하다 보니\n그때가 그립더라...=Quando conversei com ela hoje, me fez sentir saudades daqueles tempos.
+...아, 물론 단지 그것 때문에\n여기에 온 건 아니야!=...Ah, claro, eu não vim aqui só para falar sobre isso.
+근처에 간식을 파는 매점이 있거든.\n거기 직원하고 알게 됐는데...=Há uma barraca de lanches por perto, e eu acabei conversando com um dos funcionários de lá.
+내가 여기저기서 아르바이트를 한다고 했더니\n자기들도 도와줄 수 있냐고 묻더라고.=Eu disse a eles que tenho tentado trabalhar meio período em diferentes lugares, e eles perguntaram se eu gostaria de trabalhar lá também.
+바쁠 때만 오면 된다길래\n한 번 해보려고 하는데...=Eles disseram que eu só precisaria ir quando estivesse movimentado, então estou pensando em tentar...
+야구할 때 쌓았던 추억이 많은 곳이라\n마음을 조금 정리하고 싶었어.=Eu tenho muitas lembranças jogando beisebol aqui, então eu estava esperando que isso clareasse minha mente.
+너랑 같이 오면\n괜찮을 것 같았거든.=Eu sabia que seria bom se eu viesse com você.
+이런 일로 데려와서 미안해.=Desculpe por te arrastar aqui sem motivo.
+
+@Wonder
+그런 상황이라면...=Nesse caso...
+괜찮아=Está tudo bem
+
+@Tomoko
+그래. 고마워,\n정말 큰 힘이 됐어.=Certo. Obrigada,\nIsso significa muito para mim.
+...기분이 많이 정리됐어.\n이제 여기서 열심히 해 볼게.=...Estou me sentindo muito melhor agora. De agora em diante, vou dar o meu melhor.
+나 아르바이트할 때 보러 와 줄래? \n내가 특별 혜택을 줄 수도 있어.=Você virá me visitar enquanto eu estiver trabalhando meio período? Eu posso até te dar uma surpresa.
+
+토모코와 함께 해변 공원에 왔다.\n토모코가 아르바이트를 마친 뒤 함께 간식을 먹었다...=Passei um tempo no parque com Tomoko. \nDepois que ela terminou seu trabalho de meio período, comemos lanches juntos...

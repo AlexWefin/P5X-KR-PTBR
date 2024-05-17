@@ -1,0 +1,471 @@
++++++ ----- Events ----- +++++
+
+「<color\=#ff3b37>괴도단·집결</color>」\n특정 레벨까지 캐릭터를 레벨업하면 집결 보상을 획득할 수 있습니다.=<size\=28>「<color\=#ff3b37>Ladrões Fantasmas·Reunião</color>」\nSe você aumentar o nível do seu personagem até um certo nível, você pode obter recompensas de reunião.
+「<color\=#ff3b37>이벤트 메인 화면</color>」으로 돌아가세요.=Volte para 「<color\=#ff3b37>Tela Principal do Evento</color>」.
+「<color\=#ff3b37>인연의 궤적</color>」을 확인하세요.=Confira 「<color\=#ff3b37>Rastro do Destino</color>」.
+누적 12일 로그인(2/12)=Logins acumulados de 12 dias (0/12)
+누적 7일 로그인(2/7)=Logins acumulados de 7 dias (0/7)
+카노 슌의 각성 목격(0/1)=Despertar de Kano Shun (0/1)
+누적 2일 로그인(2/2)=Logins acumulados de 2 dias (0/2)
+아라이 모토하의 각성 목격(0/1)=Despertar de Arai Motoha (0/1)
+
+++++ ----- Generic ----- ++++
+
+도전 남은시간: =Tempo Restante do Desafio: 
+r:"(\d+)일 (\d+)시간"=$1D $2H
+
+++++ ----- Sea of Souls (SoS) ----- ++++
+
++++ ----- Sea of Souls Unlock Dialogue ----- +++
+착각인가... 평소와 다른 느낌이야...=Estou enganado... Isso parece diferente do usual...
+메로페가 마음의 바다 시련을 활성화했으니 가서 도전해 보자.=Merope ativou os Desafios do Mar dos Corações, então vamos enfrentá-los.
+어떤 도움이 필요하신가요?=Como posso ajudar você?
+실례지만, 당신은 자신의 잠재력을 시험하러\n오신 것 같군요... 게다가 저는 이미 당신의\n갈망이 느껴집니다.=Desculpe-me, mas parece que você veio para testar seu potencial... Além disso, eu já sinto o seu desejo.
+당신을 위한 특수 훈련 계획을 준비했습니다.\n설명이 필요하십니까?=Preparamos um plano de treinamento especial para você.\nVocê precisa de uma explicação?
+다음에요=Até a próxima
+부탁해요=Por favor
+그렇다면 설명해 드리죠...=Então, deixe-me explicar...
+
++++ ----- Sea of Souls Gimmicks ----- +++
+
+전투 진입 시 모든 괴도가 <link\="dc|999"><u>『강화 표식』</u></link> 2중첩을 획득하며, 턴 종료 시 자동으로 1중첩이 사라진다. 약점 대미지를 입힐 때마다 1중첩을 획득한다.=Ao entrar na batalha, todos os Phantom Thieves ganham 2 pilhas de <link\="dc|999"><u>『Marca de Reforço』</u></link> no final do turno, removem automaticamente 1 pilha, cada vez que o dano do ponto fraco é causado, ganham 1 pilha.
+중첩마다 10%의 대미지 보너스를 제공한다. 최대 2회 중첩된다.=Cada pilha fornece um aumento de dano de 10%, até um máximo de 2 pilhas.
+전투 진입 시 모든 {{A}}가 『강화 표식』을 2회 획득한다. 턴 종료 시 자동으로 1중첩이 사라지고, 약점 대미지를 입힐 때마다 1중첩을 획득한다.\n『강화 표식』: 중첩마다 대미지 보너스 10%를 제공하며, 최대 2회 중첩된다.=Ao entrar na batalha, todos os Phantom Thieves ganham 2 pilhas de <link\="dc|999"><u>『Marca de Reforço』</u></link> no final do turno, removem automaticamente 1 pilha, cada vez que o dano do ponto fraco é causado, ganham 1 pilha. 『Marca de Reforço』: Cada pilha fornece um aumento de dano de 10%, até um máximo de 2 pilhas.
+
+++ ----- Phantom Thief Event 1 ----- ++
+
+@Motoha
+어라…?\n여기는 메멘토스가 아닌 것 같은데?=Uhhh...?\nIsso não parece Mementos?
+루페르, 저기…\n여기는 어디야?=Ruferu, umm...\nOnde estamos?
+
+@Ruferu
+아니, 나도 모른다. 이런 적은 처음인데.\n이세계는 맞는 것 같다만…=Eu também não sei. Algo assim nunca aconteceu antes. Parece que estamos no outro mundo, embora...
+
+@Wonder
+저쪽에 현수막이…=Olhe para a faixa...
+성 같아=Parece um castelo.
+
+@Motoha
+성인데 왜 현수막이 있지?\n어쩐지 학교 같기도 하고.=Se é um castelo, por que há uma faixa? \nParece uma da escola para mim.
+동아리에서 하는\n『전국 대회 출전!』 같은 느낌으로.=Parece que eles estão se preparando para algum "Rali Nacional".
+
+@Ruferu
+음. 순간 키우치의 팰리스가 모습을 바꾼 줄\n알았는데 그런 것도 아닌 것 같군…=Hmm. No início, eu pensei que o Palácio de Kiuchi havia mudado, \nmas isso não parece ser o caso...
+이곳이 어떤 장소이든, 경계를 늦추지 마라.\nNão há dúvida de que este lugar é perigoso.
+우리가 괴도 모습을 하고 있다는 건\n환영받지 못하고 있다는 뜻이니까.=Como estamos vestidos assim, seremos vistos como inimigos.
+
+@Motoha
+뭐?! 그런 거야?!=O quê! Sério?!
+그럼, 빨리 나가는 게 좋지 않을까?=Não deveríamos sair rapidamente então?
+
+@Ruferu
+이해할 수 없는 이 장소가 신경 쓰이지만,\n일리는 있다. 다행히 들어온 지 얼마 안 됐으니\n저쪽 출구로 나가…=Concordo, não devemos correr o risco de ir mais longe. Ainda estamos na saída, então devemos sair facilmente.
+…나갈 수 없을 것 같군.\nParece que há alguma barreira estranha aqui nos prendendo.\nEu acho que não podemos sair.
+
+@Motoha
+앗, 정말…?\n그럼, 우리 갇힌 거야?!=R-Realmente...? Então, estamos presos aqui?!
+
+@Ruferu
+그래, 어떻게든 여기에서 나갈 방법을\n찾아야만 한다…=Sim, teremos que encontrar outra maneira de sair daqui.\nNão importa o quê...
+
+@Wonder
+저 성을 조사하자=Vamos explorar o Castelo
+안으로 들어가 보자=Devemos entrar
+
+@Motoha
+어… 진심이야…?=O quê... sério...?
+
+@Ruferu
+나도 다른 방법이 생각나지 않는다.\n잠입을 시도하는 것이 좋겠지.=Não há outra opção.\nVamos nos infiltrar.
+저 안에서 보물과 비슷한 기운이 느껴진다.\n만약 이곳이 누군가의 팰리스라면…=Sinto uma aura semelhante a um tesouro vindo de dentro.\nTalvez seja o palácio de alguém...
+그걸 훔치면 탈출할 수 있을 것이다.=Se roubarmos o tesouro, deveríamos conseguir escapar.
+
+@Motoha
+그 말은 즉… 키우치의 보물을 훔치기 전의\n예행연습이라는 거야…?=Então... isso é um aquecimento antes de roubarmos o tesouro de Kiuchi...?
+그런 거라면 나도 찬성이야. É sempre bom ter algum treino antes de uma partida!
+
+@Ruferu
+정체를 알 수 없는 곳이니,\n그렇게 마음 놓고 있지 마라.\n애초에 저 성에 쉽게 잠입할 수 있을지도…=Estamos em um território desconhecido e perigoso. \nNão espere que seja fácil entrar...
+
+@Motoha
+얘들아~! 문이 열려 있어~!=Oh, pessoal~! A porta está aberta~!
+
+@Wonder
+허술한 성이군=Castelo frágil
+문이 열려 있다고…?=Está aberto...?
+
+@Ruferu
+이렇게 견고해 보이는 건물이\n괴도를 쉽게 받아들여 줄 리가 없을 텐데.=Você pensaria que um prédio como este seria mais protegido.
+혹시, 누군가가 먼저 잠입한 건가…?=Talvez, alguém tenha invadido antes de nós...?
+원더, 우리도 가자.\n물론… 충분히 경계하면서 말이지.=Wonder, vamos seguir seu exemplo... Seja cuidadoso.
+
+
+@Ruferu Hint thing
+정문으로 직접 들어가는 통로가 있는 것 같아.=Parece que devemos ir direto para a porta.
+
+@Ryuji
+후...정말 성가시네!=Caramba... isso está me irritando!
+@Morgana
+이런, 방심했다…=Ah, eu baixei a guarda...
+
+@Motoha
+앗, 잠깐… 저기, 누구지?!=Huh...? quem é aquele?!
+
+@Ruferu
+역시 다른 침입자가 있었나.\n녀석들이 문을 열어두었나 보군.=Outro invasor.\nProvavelmente foram eles que invadiram antes.
+한 명은 인간인 것 같은데…\n섀도를 상대로 고전하고 있는 것 같군.=Um deles parece humano... eles estão lutando contra as sombras.
+
+@Motoha
+으앗! 여기에도 적이 왔어!=O quê! Há mais inimigos aqui!
+@Wonder
+저 두 사람을 구해야겠어=Vou ajudar esses dois
+클로저를 부탁한다=Deixe comigo
+
+@Ruferu
+그래, 클로저는 아직 전투가 서툴지.\n여기는 나에게 맡겨라!=Certo, Closer ainda não está acostumada com a batalha. Eu cuido dela!
+
+@Morgana
+너는 누구냐?!=Quem diabos é você?!
+적은 아닌 것 같은데…=Você não parece um inimigo...
+
+@Ryuji
+오, 혹시 도와주려는 거야?!\n고맙다!=Você veio para ajudar?!\nObrigado!
+조금 버거웠는데 든든하네!=Estava ficando um pouco difícil, mas agora estamos bem!
+
+@Ryuji
+땡큐~! 네 덕에 살았어.\n나는 사카모토 류…=Ufa~ Sobrevivemos graças a você.\nMeu nome é Ryuji Sakamoto...
+
+@Morgana
+멍청아! 갑자기 모르는 녀석한테\n본명을 말하지 말라고!=Idiota! Não dê seu nome verdadeiro para esse estranho.
+
+@Ryuji
+뭐? 아, 그렇지 참.\n나는 『스컬』이라고 불러 줘!=O quê? Ah, é verdade.\nApenas me chame de Caveira!
+그리고 거기 있는 고양이는 『모나』야.=E o gato ali é o Mona.
+
+@Morgana
+이 몸은 고양이가 아니라고~!=Eu não sou um gato~!
+
+@Ryuji
+그래서, 너는?=Então, qual é o seu nome?
+
+@Morgana
+무시하지 말라고!=Não me ignore!
+
+@Wonder
+코드네임을 말했다...=Você disse seu codinome...
+
+@Ryuji
+오, 『원더』구나.\n내 친구랑 분위기가 좀 닮았어.=Ah, Wonder.\nVocê me lembra um pouco do nosso líder.
+
+@Motoha
+원더! 괜찮아?!=Wonder! Você está bem?!
+앗! 커다란 고양이?!=Ah! Que gato enorme?!
+…아니, 너무 크지 않아?=...Espera, gatos não são tão grandes.
+
+@Morgana
+그러니까, 고양이가 아니라고…=Eu já disse, eu não sou um gato...
+
+@Ruferu
+흠. 멀리서 봤지만, 역시 넌\n인간이 아닌 것 같군.=Hmm. De longe, eu posso dizer, você definitivamente não é humano.
+
+@Ryuji
+잠깐만! 아무렇지 않게 나타났지만\n너도 대체 정체가 뭐야?!=Espere um minuto! Você também não é humano, o que diabos você é?!
+음… 큰 안경원숭이?=Hmm... um tarsero de óculos?
+
+@Ruferu
+누가 안경원숭이냐! 나는 『캐틀』이다!=Quem você está chamando de tarsero de óculos! Eu sou o Cattle!
+
+@Motoha
+역시 그렇지…? 뭔지 잘 모르겠지…?\n응응, 나도 이해해~=Isso mesmo...? Eu meio que entendo...
+
+@Ryuji
+뭐, 모나처럼 정체를 알 수 없는 생물도 있으니까\n이런 안경 뭐시기같은 생물도 있는 거겠지.=Bem, se temos criaturas como a Mona, então deve haver criaturas como esse tarsero de óculos também...
+
+@Morgana
+정체를 알 수 없는 생물이라니, 무례하다!\nNão me compare com essa coisa~!=
+
+@Ruferu
+그냥 못 넘어가겠는데… 이런 고양이 같은\n녀석이랑 나를 같은 취급하다니.=Não consigo deixar isso passar... Não me compare com esse monstro de gato.
+
+@Wonder
+둘 다 귀여워=Eles são fofos
+캐틀이 더 귀여워=Cattle é mais fofo.
+모나가 더 귀여운데=Mona é mais fofo.
+
+
+++ ----- Mona is cuter ----- ++
+
+++ ----- Cattle is cuter ----- ++
+
+…귀엽다고? 기분이 나쁘진 않군.\n귀여워해도 상관없다. 단, 경의를 담도록.=...Fofo? Não me importo de ser chamado de fofo.\nMas mereço mais respeito.
+뭐, 이 몸은 『멋있는』 거니까!\n귀엽다고 하지 않는 건 당연한 일이지!=Eu diria que sou 'legal~! \nNão fofo.
+
+++ ----- You're both cute ----- ++
+
+
+@Ryuji
+뭐, 신기한 생물들은\n일단 제쳐 두고…=Bem, criaturas estranhas à parte...
+원더 일행은 여기서 뭘 하는 거야?=O que vocês estão fazendo aqui?
+우리는 여기에서 길을 잃어서…=Nós de alguma forma ficamos presos aqui...
+
+@Morgana
+이봐! 처음 보는 녀석한테\n전부 다 얘기하지 마!=Skull! Pare de contar tudo para eles!
+
+@Ryuji
+아~ 그런가? 그래도 딱히 상관없지 않아?\n방금도 도움을 받았기도 하고.=Relaxa. Devemos a eles, lembra?\nEles salvaram nossas vidas.
+
+@Morgana
+아니… 그건 뭐…=Bem... eu acho que sim...
+
+@Motoha
+우리는 여기서 길을 잃고\n탈출 방법을 찾고 있어.=Nós também estamos presos aqui.\nEntramos aqui procurando uma maneira de escapar.
+
+@Ruferu
+이봐, 우리만 일방적으로 정보를 알려주는 건…=Ei, não é justo que nós sejamos os únicos dando informações...
+
+@Motoha
+뭐, 어때. Estamos em uma situação difícil.
+Falar com esses dois pode nos ajudar a encontrar uma saída... embora eu não possa dizer com certeza.
+
+@Morgana
+어째서 이 몸을 보는 거냐.=Por que você está me encarando?
+
+@Ruferu
+흠… 뭐, 그래.\nNão é como se eles fossem entender de qualquer maneira.
+
+@Motoha
+저기, 우리는\n다른 곳으로 가려고 했는데…=Estávamos tentando ir para outro lugar...
+정신을 차리고 보니 여기에서 길을 헤매고 있었어.=Mas, antes que percebêssemos, acabamos presos aqui.
+
+@Ryuji
+오~\n그럼, 우리랑 비슷한 상황인 건가.=Ah~\nEntão estamos ambos em uma situação similar.
+
+@Morgana
+이봐, 스컬!=Cale a boca, Skull!
+
+@Ryuji
+괜찮잖아?\nEles também nos contaram a história deles.
+우리도 정신을 차리고 보니까\n여기서 헤매고 있어서 성에 들어왔는데…=Quando acabamos aqui, começamos a explorar e acabamos no castelo.
+섀도한테 공격을 받고 우왕좌왕하는 사이에\n동료들이랑 뿔뿔이 흩어지게 됐어.Mas, fomos atacados por Sombras e nos separamos.
+
+@Motoha
+동료가 또 있어?=Então você tinha outras pessoas com você?
+
+@Ryuji
+그래, 두 명 더 있어. Estávamos procurando por eles quando essas Sombras atacaram.
+
+@Ruferu
+그러던 와중에 우리가 온 건가.=E foi então que chegamos.
+
+@Mona
+하아… 술술 다 말하는군, 정말이지.=Haha... você realmente fala muito, não é?
+이렇게 된 이상, 사실대로 다 말하자면\n우리는 길을 잃었지만…=Quer saber, você já sabe demais.\nEstamos presos, no entanto...
+여기서 나가는 방법은 알 것 같다.=Eu acho que sei como sair daqui.
+
+@Wonder
+대체 어떻게…=Como...
+그래?=Sério?
+
+@Morgana
+그래. 이 성에는 아마도…=Sim. Neste castelo, provavelmente...
+
+@Ruferu
+『보물』 같은 것이 있다.\n그걸 훔쳐내면 탈출할 수 있겠지.=Provavelmente há algum tipo de 'tesouro' que podemos roubar.\nSe roubarmos isso, podemos escapar.
+
+@Morgana
+이봐, 이 몸이 하려고 했던 말이라고!\n왜 먼저 말하는 거야!=H-Hey, era isso que eu ia dizer!\nPor que você me interrompeu!
+
+@Ruferu
+우물쭈물하고 있으니까.=Você estava hesitando. 
+
+@Morgana
+그보다 너희들…\n보물에 대해서 알고 있는 건가?=Mais importante...\nComo vocês sabem sobre o tesouro?
+
+@Ryuji
+그렇다면 이야기가 빨라지겠어.\n우리는 이 성의 주인을 알고 있거든.=Isso economiza muita explicação.\nNós já exploramos este palácio antes.
+그러니까 어느 정도 내부 구조도 알고 있지.=Então, devemos conhecer aproximadamente o layout deste lugar.
+
+@Motoha
+앗, 그렇구나!=Isso é ótimo!
+
+@Ryuji
+그래. 다만…=Sim, no entanto...
+그 자식이 이런 식으로 초상화가 칠해지는 걸\n허락할 것 같지 않단 말이지…=Eu não me lembro da pintura parecendo assim...
+
+@Morgana
+그래. 비슷하긴 하지만 여기는 『카모시다』의\n팰리스랑은 다른 곳인 것 같다.=Eu concordo, é semelhante o suficiente ao Palácio de Kamoshida.\nMas o layout pode ser um pouco diferente.
+
+@Motoha
+팰리스에 대해서도 알고 있구나!\n음, 그러면 이곳은…=Então você já explorou este palácio antes...
+『카모시다』라는 사람의 팰리스랑 비슷하지만\n실제로는 다른 곳이라는 거야…?=E pertencia a alguém chamado 'Kamoshida'.\nMas este lugar é um pouco diferente...?
+그
+
+@Ryuji
+그래, 맞아!\n노랑색 누나, 머리 좋은데?!=Sim, isso mesmo! Você tem um cérebro inteligente na sua cabeça, não é?! \nMinha irmã amarela!
+
+@Motoha
+아, 그러고 보니 내 이름도 말해주지 않았구나.\n아라이… 아니, 『클로저』야.=Agora que penso nisso, eu não te disse meu nome. \nEu sou Arai... não, Closer.
+
+@Morgana
+클로저, 원더, 캐틀이군.\n다시 한번 잘 부탁한다.=Então, são Closer, Wonder e Cattle.\nObrigado novamente a todos.
+
+@Ruferu
+결국, 이름도 목적도 전부 공유해 버렸군…\n서로 신분도 모르는 사이인데.=Compartilhamos nossos codinomes e objetivos...\nEnquanto mantemos parcialmente nossas identidades em segredo
+
+@Ryuji
+뭐, 신기한 생물들은\n일단 제쳐 두고…=Bem, criaturas estranhas à parte...
+원더 일행은 여기서 뭘 하는 거야?=O que vocês estão fazendo aqui?
+우리는 여기에서 길을 잃어서…=Nós de alguma forma ficamos presos aqui...
+
+@Morgana
+이봐! 처음 보는 녀석한테\n전부 다 얘기하지 마!=Skull! Pare de contar tudo para eles!
+
+@Ryuji
+아~ 그런가? 그래도 딱히 상관없지 않아?\n방금도 도움을 받았기도 하고.=Relaxa. Devemos a eles, lembra?\nEles salvaram nossas vidas.
+
+@Morgana
+아니… 그건 뭐…=Bem... eu acho que sim...
+
+@Motoha
+우리는 여기서 길을 잃고\n탈출 방법을 찾고 있어.=Nós também estamos presos aqui.\nEntramos aqui procurando uma maneira de escapar.
+
+@Ruferu
+이봐, 우리만 일방적으로 정보를 알려주는 건…=Ei, não é justo que nós sejamos os únicos dando informações...
+
+@Motoha
+뭐, 어때. Estamos em uma situação difícil.
+Perguntar a essas duas pessoas pode nos ajudar a encontrar uma maneira, não é?\n…Duas pessoas... embora eu não tenha certeza se posso dizer isso.
+
+@Morgana
+어째서 이 몸을 보는 거냐.=Por que você está me encarando?
+
+@Ruferu
+흠… 뭐, 그래.\nDe qualquer forma, eles não entenderiam.
+
+@Motoha
+저기, 우리는\nEstávamos tentando ir para outro lugar...
+Mas, antes que percebêssemos, acabamos presos aqui.
+
+@Ryuji
+오~\nEntão, estamos na mesma situação.
+
+@Morgana
+이봐, 스컬!=Cale a boca, Skull!
+
+@Ryuji
+Está tudo bem, não está?\nEles nos contaram a história deles.
+Quando acabamos aqui, começamos a explorar e acabamos no castelo.
+Mas, fomos atacados por Sombras e nos separamos.
+
+@Motoha
+Você tinha outras pessoas com você?
+
+@Ryuji
+Sim, há mais dois. Estávamos procurando por eles quando as Sombras nos atacaram.
+
+@Ruferu
+E foi quando chegamos.
+
+@Mona
+하아… 술술 다 말하는군, 정말이지.=Haha... você realmente fala muito, não é?
+이렇게 된 이상, 사실대로 다 말하자면\n우리는 길을 잃었지만…=Que se dane, você já sabe demais.\nEstamos presos, no entanto...
+여기서 나가는 방법은 알 것 같다.=Eu acho que sei como sair daqui.
+
+@Wonder
+대체 어떻게…=Como...
+그래?=Sério?
+
+@Morgana
+그래. 이 성에는 아마도…=Sim. Neste castelo, provavelmente...
+
+@Ruferu
+『보물』 같은 것이 있다.\nSe roubarmos isso, podemos escapar.
+
+@Morgana
+이봐, 이 몸이 하려고 했던 말이라고!\nPor que você interrompeu?!
+
+@Ruferu
+Você estava hesitando. 
+
+@Morgana
+그보다 너희들…\nComo vocês sabem sobre o tesouro?
+
+@Ryuji
+Isso vai acelerar a conversa.\nNós exploramos este palácio antes.
+Então, devemos conhecer mais ou menos a disposição deste lugar.
+
+@Motoha
+Ah, entendi!=Isso é ótimo!
+
+@Ryuji
+Sim. No entanto…
+Eu não me lembro da pintura parecendo assim...
+
+@Morgana
+Sim. É semelhante o suficiente ao Palácio de Kamoshida.\nMas o layout pode ser um pouco diferente.
+
+@Motoha
+Você já explorou este palácio antes...
+E pertencia a alguém chamado 'Kamoshida'.\nMas este lugar é um pouco diferente...?
+Isso
+
+@Ryuji
+Sim, é isso!\nVocê tem uma cabeça esperta, não é?! Minha irmã amarela!
+
+@Motoha
+Ah, agora que penso nisso, eu não te disse meu nome. \nEu sou Arai... não, Closer.
+
+@Morgana
+Closer, Wonder, e Cattle.\nObrigado novamente a todos.
+
+@Ruferu
+No final, compartilhamos nossos codinomes e objetivos...\nEnquanto mantemos parcialmente nossas identidades em segredo.
+
+@Motoha
+Ah, então, já que estamos aqui,\nPor que não procuramos o tesouro juntos?
+Wonder, o que você acha? Acho que estaríamos muito mais seguros com companheiros extras.
+
+@Wonder
+Vamos escapar juntos=Vamos escapar juntos
+Você vai trabalhar conosco?=Você vai trabalhar conosco?
+
+@Motoha
+Sim, eu me sentiria muito mais segura com um grupo maior.
+
+@Ryuji
+Definitivamente, seria melhor para nós também!
+
+@Morgana
+Trabalhando juntos...\nEm outras palavras, um 'acordo' de Ladrão Fantasma.
+Nós daremos informações sobre este lugar.\nEnquanto Wonder e os outros darão sua força.
+Um acordo, então.\nVamos trabalhar juntos!
+
+@Motoha
+Tenho certeza de que será de grande ajuda, obrigada.
+
+@Ryuji
+De qualquer forma… estávamos falando sobre algum tipo de tesouro, certo?
+Mas não é exatamente o mesmo que o tesouro do Palácio.\nEntão, devemos chamá-lo de algo diferente?
+
+@Motoha
+Concordo! O que devemos chamar...?
+
+@Wonder
+Algo importante...
+Algum tipo de núcleo...
+
+@Ruferu
+Concordo... então, que tal chamarmos de 'Núcleo' por enquanto?
+
+@Morgana
+Oooh, eu ia dizer isso também. Você é... não é ruim, tarsero.
+
+@Ruferu
+Não me chame de tarsero, eu não vou aceitar desrespeito de um gato estúpido!
+
+@Motoha
+Ok, ok... vamos chamar de núcleo por enquanto.
+
+Vamos procurar os companheiros de Skull e Mona juntos!\nVamos... vamos, vamos, vamos!
+
+

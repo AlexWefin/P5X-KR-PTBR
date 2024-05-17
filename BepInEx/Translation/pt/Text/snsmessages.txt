@@ -1,0 +1,386 @@
++++++ ----- SNS Messages ----- +++++
+
+++++ ----- Generic ----- ++++
+
+「<color\=#ff3b37>SNS 정보</color>」를 조회하세요.=「<color\=#ff3b37>Informações</color>」 SNS.
+SNS 정보를 확인해라=Verifique suas informações SNS
+위 채팅 메시지가 만료되었습니다.=A mensagem de chat\nacima expirou.
+
+++++ ----- Merope ----- ++++
+
++++ ----- Merope 1 ----- +++
+
+당신을 더 잘 「이해」하기 위해=Para "entender" você melhor
+
+당신을 더 잘\n「이해」하기 위해,\n저와 함께 가주셨으면 합니다.=Para "entender" você melhor, eu gostaria que você viesse comigo.
+이건 특별 계획의 일부가 아니지만, 어떻게 생각하시나요?=Isso não faz parte do plano especial, mas o que você acha?
+
+가자=Vamos
+나중에 연락할게=Eu entrarei em contato com você mais tarde
+
+그럼, 저는 벨벳 룸 앞에서\n기다리고 있겠습니다=Então, estarei esperando na frente do Sala de Veludo
+
+바쁘신가요?\n그럼 다음 기회에 이야기하죠.=Você está ocupado? Então, falaremos em outra ocasião.
+
++++ ----- Merope 2 ----- +++
+
+괴도 아이돌에 대해...=Sobre o Ídolo Ladrão Fantasma...
+
+당신이 괴도 아이돌을\n능숙하게 사용 중인지\n궁금합니다=Estou curioso se você está manejando habilmente os Ídolos Ladrão Fantasma
+비록 인지적 존재에 불과하지만 그 힘은 괴도단에 비해\n절대 부족하지 않으니까요=Embora sejam seres puramente cognitivos, seu poder não é de forma alguma insuficiente em comparação com o dos Ladrões Fantasmas.
+그 힘을 활용할지 여부는\n당신께 달려 있습니다=Depende de você utilizar a força deles
+
+기억할게=Lembrarei
+믿음직한 동료야=Um aliado confiável
+
+!!!!! Missing the dialogue after selecting "I'll remember"
+그렇게 말씀하시는 걸 보니\n그들을 창조해낸 것이 헛된 일은 아니었나 보군요=Se é isso que você diz, então parece que criar eles não foi em vão
+괴도 아이돌을 충분히\n이용해 주시기 바랍니다=Por favor, faça pleno uso dos Ídolos Ladrão Fantasma.
+
++++ ----- Merope 3 ----- +++
+
+# The line below is also the SNS subject
+
+유명한 스타에 대해\n관심이 있으신가요?=Há um interesse dentro de você para aprender sobre estrelas famosas?
+
+있어=Há
+없어=Não realmente
+
+!!!!! Missing the dialogue after selecting "Not really"
+제 생각에 당신 역시\n그들과 공통점이 있습니다=Eu acho que você tem algo em comum com eles
+스타는 아이돌...\n그들이 소망과 욕망을\n한 몸에 받는 존재라고 한다면=Estrelas são ídolos... eles são o epítome da esperança e desejo
+저는 당신 역시\n그런 존재가 될 능력이\n있다고 생각합니다=Eu acho que você também tem o que é preciso para ser esse tipo de pessoa
+
++++ ----- Merope 4 ----- +++
+
+@Subject
+!!!!! A primeira mensagem também é o assunto
+@Merope
+일 더하기 일은 귀요미~=Trabalho mais trabalho é fofo~
+@Wonder
+!!!!! Outras opções de diálogo são contabilizadas em outro lugar (O que há de errado?) 
+심쿵!=Batida!
+@Merope
+제 조사에 따르면 이건\n사람들을 현혹하는\n마법의 주문입니다=Minha pesquisa mostra que isso é um feitiço encantador que cativa as pessoas
+즉 사람들을 현혹하여\n욕망을 증폭하는 방법인 거죠=Então, é um método de hipnotizar as pessoas e amplificar desejos
+자, 당신도 이 주문을\n따라해 주세요=Agora, por favor, repita este feitiço também
+@Wonder
+!!!!! Outra opção de diálogo é contabilizada com o assunto (Trabalho mais trabalho é fofo~)
+일 더하기 일은 귀요미!=Trabalho mais trabalho é precioso!
+@Merope
+아직 뜻은 모르겠습니다만\n별로 현혹되지는 않는군요=Ainda não tenho certeza do significado, mas não me cativa muito
+하지만 당신은\n제가 마음에 들어 한 사람이니\n능력 문제는 아닐 겁니다=Mas você é alguém de quem eu gosto, então provavelmente não é uma questão de sua habilidade
+다음에 기회가 된다면\n직접 만난 상태에서\n한 번 더 부탁드리겠습니다=Na próxima vez que tiver a chance, gostaria de pedir novamente pessoalmente
+당신의 솜씨를 기대하죠=Estou contando com a sua perícia
+
++++ ----- Merope 5 ----- +++
+
+@Subject
+아이돌 카페에 대해...=Sobre cafés de ídolos...
+@Merope
+며칠 전 아키하바라에 다녀온 뒤로 줄곧 테마 카페를 조사하고 있습니다=Estive pesquisando cafés temáticos desde que fui a Akihabara há alguns dias
+그 나루루라는 여자...\n그녀의 말에 따르면\n그녀가 일하는 카페는\n아이돌 테마 카페라고 합니다=Aquela garota Naruru... Segundo ela, o café onde ela trabalha é um café temático de ídolos
+그리고 그녀가 점원이라면...=E se ela for uma atendente...
+@Wonder
+아이돌이라는 거 아니야? =Isso não é um ídolo? 
+아이돌의 정의는...=A definição de um ídolo é...
+@Merope
+그녀에 대해\n강렬한 호기심이 생겼습니다=Estou intensamente curioso sobre ela
+적어도 그녀의 아이돌 기질은\n제가 추구하는 것이므로=Pelo menos as qualidades de ídolo dela são o que eu busco
+그녀가 진정한\n아이돌이든 아니든\n관찰 목표가 될 수 있습니다=Seja ela uma verdadeira ídolo ou não, ela pode ser um alvo de observação
+@Wonder
+네가 그렇다면야=Se você diz
+확실히 귀엽긴 하지=Certamente ela é fofa
+@Merope
+그녀의 특징을=As características dela
+특별 계획에 활용하는 것을\n이해해 주셔서 기쁩니다\n이것도 이해해 주셨으면\n좋겠네요=Estou feliz que você entenda como usar isso para o plano especial\nEspero que você entenda isso também
+
+++++ ----- Mom ----- ++++
+
++++ ----- Mom 1 ----- +++
+
+엄마야~=É a mamãe~
+
+공항에 도착했어.=Cheguei no aeroporto.
+너희 아빠와 둘이 여행하는 게 몇 년 만이지?=Quantos anos faz desde que eu e seu pai viajamos juntos?
+선물을 기대하고 있으렴.=Aguarde um presente.
+네 몫으로\n생활비 놔뒀으니까 아껴 써.=Deixei um dinheiro para você viver, então use com sabedoria.
+어려운 일이 있으면 이웃집에 상의하고=Se estiver com problemas, converse com os vizinhos.
+그리고 문단속 잘하는 거 잊지 말고.=E não se esqueça de ser educado.
+
++++ ----- Mom 2 ----- +++
+
+몸조심해=Cuide de si mesmo
+
+어때?\n혼자 지내는 건 익숙해졌니?=Como você está?\nVocê já se acostumou a viver sozinho?
+
+나름대로=Do meu próprio jeito
+!!!!! Opção de diálogo em segundo lugar faltando & diálogo resultante após selecioná-lo
+
+냉동실에 있는 식재료는\n요리할 때 써도 돼.=Você pode cozinhar com os ingredientes que estão no freezer.
+그리고 시간이 있을 때\n밖에 있는 화분에 물도 주고.=E quando você tiver tempo, regue as plantas do lado de fora.
+갑자기 생각나서 연락했어.\n그럼 또 연락할게.=Você passou pela minha mente, então eu entrei em contato.\nFalarei com você novamente mais tarde.
+
++++ ----- Mom 3 ----- +++
+
+좋은 아침=Bom dia
+좋은 아침　　　　=Bom dia
+
+거기는 아침이지?\n좋은 아침.=É manhã aí, não é?\nBom dia.
+잘 지내고 있어? 혹시 「팬텀」이 아직도 소란을 일으켜?=Como você está? O "Fantasma" ainda está causando problemas por acaso?
+밥 잘 챙겨 먹는 거 잊지 마.=Não se esqueça de comer bem.
+
+부모님은 해외여행을\n잘 즐기고 있는 것 같다…=Seus pais parecem estar aproveitando a viagem ao exterior...
+
+++++ ----- Motoha ----- ++++
+
++++ ----- Motoha 1 ----- +++
+
+# The line below is also the SNS subject
+
+r:"안녕 (.*?)\n메시지 보여?"=Olá $1\nVocê recebeu esta mensagem?
+모토하야.=É Motoha.
+
+안녕=Olá
+!!!!! Opção de diálogo em segundo lugar faltando & diálogo resultante após selecioná-lo
+
+다행이다.=Graças a Deus.
+앞으로 팰리스를 공략하는 것 관련해서 신경 쓰이는 가게를 발견했는데=Encontrei uma loja que acho que será útil quando invadirmos o Palácio no futuro.
+내일 학교 끝나고 시간 있어?=Você está livre depois da escola amanhã?
+
+시간 있어=Eu tenho tempo
+그럼 일정을 조정할게=Então eu vou ajustar minha agenda
+
+!!!!! Missing the dialogue after selecting "I have time"
+고마워.=Obrigado.
+그럼, 내일 방과 후에=Então amanhã, depois da escola
+센트럴가에서 보자.=Vamos nos encontrar na Rua Central.
+
++++ ----- Motoha 2 ----- +++
+
+넌 지하철 타고 통학하지?=Você pega o metrô para a escola, certo?
+
+r:"(.*?)\n넌 지하철 타고 통학하지?"=$1, você pega o metrô para a escola, certo?
+지하철 안에서\n뭐해?=O que você faz enquanto está no metrô?
+
+휴대폰 봐=Olhe para o meu telefone
+이런저런 생각?=O que você pensa?
+
+!!!!! Missing the dialogue after selecting "What do you think?"
+그렇구나~\n나도 너랑 비슷해=Entendo~ Eu sou do mesmo jeito
+다른 거 또 뭘 할 수\n있을지 생각해 봤는데=Estive pensando no que mais eu poderia fazer
+예를 들면...\n근력 훈련 같은 거!=Como... treinamento de força!
+
++++ ----- Motoha 3 ----- +++
+
+어떻게 진행되고 있어?=Como está indo?
+
+거긴 좀 어때?=Como está indo aí?
+방금 토모코를 집에 보냈어.=Acabei de levar Tomoko para casa.
+
+!!!!! Faltando o diálogo após selecionar "O problema com o remédio foi resolvido"
+진료소 다녀왔어=Fui à clínica
+약 문제는 괜찮아=O problema com o remédio foi resolvido
+
+잘 해결된 모양이네.=Parece que deu tudo certo.
+그럼 드디어\n다음 팰리스를 찾아\n나설 시간이야.=Então, finalmente é hora de ir e encontrar o próximo Palácio.
+난 언제든 괜찮으니\n이세계로 가려면\n나를 불러 줘!=Estou sempre pronto, então se você for para o Metaverso, me chame!
+
++++ ----- Motoha 4 ----- +++
+
+방금 TV 봤어?=Você acabou de verificar a TV?
+
+저기!\n방금 TV 봤어?=Ei!\nVocê acabou de verificar a TV?
+뉴스 인터뷰에 우리가 찍혔어!=Nós estávamos em uma entrevista no noticiário!
+
+!!!!! Faltando o diálogo após selecionar "Mesmo sendo um Ladrão Fantasma?"
+괴도인데도?=Mesmo sendo um Ladrão Fantasma?
+우리가 인터뷰한 적이 있나?=Nós já demos uma entrevista?
+
+인터뷰하는 사람 뒤에\n우리가 1초 정도 나와!=Nós aparecemos atrás do entrevistador por um segundo!
+깜짝 놀랐어~\n솔직히 TV에 나오니까\n기분 좋네=Fiquei surpreso~ Sinceramente, é bom estar na TV
+
++++ ----- Hold ----- +++
+
+바빠?=Com pressa?　　　　
+바빠?　　　　=Com pressa?　　　　
+너한테 코치를 부탁하고 싶은데.=Gostaria de pedir que você me treinasse.
+잠깐만=Espere
+그래=Certo
+고마워!\n그럼 늘 보던 데서 만나자!=Obrigado!\nTe vejo no lugar de sempre!
+
+++++ ----- Yaoling Li ----- ++++
+
++++ ----- Yaoling Li 1 ----- +++
+
+일찍 일어나는 거 잘해요?=Você é bom em acordar cedo?
+
+r:"(.*?)\n일찍 일어나는 거 잘해요?"=$1\nVocê é bom em acordar cedo?
+
+보통은 가능해=Eu geralmente acordo cedo
+겨우 늦지 않을 정도만=Eu acordo cedo o suficiente para não me atrasar
+
+!!!!! Faltando o diálogo após selecionar "Eu geralmente acordo cedo"
+모호한 말투를 보니 우린 같은 부류의 사람인 것 같네요=Julgando pela sua resposta ambígua, parece que somos do mesmo tipo de pessoa
+저는 아침에 발걸음이 흩어져 아니, 몽롱하다고 해야 할까요=Foi difícil colocar um pé na frente do outro esta manhã, eu ainda estava sonolento
+매일 차를 마셔야 해요\n그래야 눈이 떠지거든요=Você deveria beber chá todos os dias\nIsso ajuda você a acordar
+
++++ ----- Yaoling Li 2 ----- +++
+
+@Subject
+수필류 만화책 좋아해요?=Você gosta de quadrinhos no estilo ensaio?
+@Yaoling Li
+선생님\n수필류 만화책 좋아해요?=Professor\nVocê gosta de quadrinhos no estilo ensaio?
+@Wonder
+아주 좋아해=Eu amo eles
+시간이 나면 읽어=Eu os leio quando tenho tempo
+@Yaoling Li
+아하하 이런 만화는 보통 일상적인 내용인데=Hahaha, esses tipos de quadrinhos geralmente são sobre a vida cotidiana
+일본 만화가들은\n예전부터 이런 걸 잘했죠=Artistas de mangá japoneses sempre foram bons nisso
+일상적인 생활을 아주 재미있게 그린다니까요~=É uma maneira realmente divertida de retratar a vida cotidiana~
+
++++ ----- Hold ----- +++
+
+@Subject
+!!!!! First message is also the subject
+@Yaoling Li
+선생님 오늘 시간 있어요?=Professor, você tem tempo hoje?
+일본에 대해 좀 더 알고 싶어요. 저와 함께 다녀 줄래요?=Eu quero aprender mais sobre o Japão. Você vai comigo?
+@Wonder
+!!!!! Dialogue choices accounted for elsewhere (Okay/I'll contact you later)
+@Yaoling Li
+갑자기 연락했는데\n허락해 줘서 고마워요!=Obrigado por me permitir entrar em contato tão repentinamente!
+
+
+++++ ----- Tomoko Noge ----- ++++
+
++++ ----- Tomoko Noge 1 ----- +++
+
+@Subject
+너는 아르바이트 고를 때 어떤 걸 가장 중요하게 생각해?=O que você considera mais importante ao escolher um trabalho de meio período?
+@Tomoko Noge
+r:"^([\S*]{2,6}),\\n너는 아르바이트 고를 때 어떤 걸 가장 중요하게 생각해\?$"=$1, o que você considera mais importante ao escolher um trabalho de meio período?
+지금 아르바이트를\n찾고 있는데=Estou procurando um trabalho de meio período agora
+뭘 기준으로 선택해야 할지\n모르겠어=Mas não sei com base em quê devo escolher
+@Wonder
+!!!!! Falta a outra opção de diálogo
+쉬운 업무를 선택해=Escolha tarefas fáceis
+@Tomoko Noge
+그렇구나...\n맞아, 확실히\n역시 그게 중요하지=Entendi... sim, isso é definitivamente importante
+고마워\n좋은 아르바이트 찾을게=Obrigado\nVou encontrar um bom trabalho de meio período
+
++++ ----- Tomoko Noge 2 ----- +++
+
+@Subject
+지금 혼자 살고 있지?=Você está morando sozinho agora, certo?
+@Tomoko Noge
+r:"^([\S*]{2,6}),\\n지금 혼자 살고 있지\?$"=$1,\nVocê está morando sozinho agora, certo?
+저녁은 보통 어떻게 먹어?\n힘들지 않아?=Como você geralmente janta? Não é difícil?
+@Wonder
+먹고 싶은 걸 해 먹어=Prepare o que você quer comer
+배달시켜=Peça entrega
+@Tomoko Noge
+그렇구나...\n혼자 살면 그렇구나=Entendi...\nÉ assim quando se mora sozinho
+내가 도울 일이 있다면\n얘기해 줘=Se houver algo em que eu possa ajudar, me avise
+
++++ ----- Tomoko Noge 3 ----- +++
+
+@Subject
+영화 채널 회원에 대해...=Sobre os membros do canal de filmes...
+@Tomoko Noge
+r:"^([\S*]{2,6}),\\n혹시 영화 채널 회원이야\?$"=$1, você é um membro do canal de filmes?
+예전엔\n지원 영상들을 봤었는데=Eu costumava assistir a vídeos de apoio no passado
+팔을 다친 이후로는\n그런 영상을 볼 기분이 안나...=Mas não estou com vontade de assistir a esses vídeos desde que machuquei meu braço...
+모토하가 추천해 줘서\n유료 영화 채널에 가입했거든=Eu me inscrevi em um canal de filmes premium porque a Motoha recomendou
+그래서 다른 사람들은\n뭘 보는지 알고 싶어졌어=Então eu queria saber o que as outras pessoas estão assistindo
+r:"^([\S*]{2,6}),\\n어떤 영화 좋아해\?$"=$1, que tipo de filmes você gosta?
+@Wonder
+유명한 감동의 명작=Famosas obras-primas emocionantes
+코미디=Comédias
+@Tomoko Noge
+오? 그렇구나\n시간 나면 볼게=Oh? Entendi.\nVou dar uma olhada quando tiver tempo.
+말해 줘서 고마워=Obrigado por me contar
+다 보고 나면\n다시 연락할게=Entrarei em contato depois de assistir a eles
+
++++ ----- Hold ----- +++
+
+@Subject
+갑자기 연락해서 미안.=Desculpe pelo contato repentino.
+@Tomoko Noge
+갑자기 연락해서 미안.\n오늘 시간 있어?=Desculpe por entrar em contato tão repentinamente.\nVocê está livre hoje?
+나랑 어디 좀 함께 가 줬으면 하는데... 혹시 할 일이 있다면 말고.=Gostaria que você viesse comigo a algum lugar... a menos que você tenha algo para fazer.
+@Wonder
+!!!!! Dialogue choices accounted for elsewhere (Okay/I'll contact you later)
+@Tomoko Noge
+좋아! 고마워!\n그럼 늘 보던 데서 만나자!=Great! Thank you!\nI'll see you in the usual place!
+
+++++ ----- YUI ----- ++++
+
++++ ----- Ad message before confidant unlock sub quest ----- +++
+
+@Subject
+광고 메시지　　　　=Mensagem de anúncio
+@
+무료 체험 시작!\n「마루토쿠 가상 세계」 해보고 싶지 않아?=Comece sua experiência gratuita! Não gostaria de experimentar\n「Marutoku Virtual World」?
+땅 증정 이벤트 진행 중!\n지금 접속하면 무료로 체험할 수 있어!=Um evento de doação de terras está acontecendo agora!\nCadastre-se agora para experimentar gratuitamente!
+@Wonder
+『마루토쿠 가상 세계』 플레이=Jogue 「Marutoku Virtual World」
+
++++ ----- YUI 1 ----- +++
+
+@Subject
+안녕!　　　　=Oi!
+@YUI
+안녕하세요!\nYUI입니다!=Olá!\nAqui é YUI!
+@Wonder
+안녕하세요=Olá
+깜짝이야=Que surpresa
+@YUI
+저쪽 세계에서만 이야기할 수 있는 게 아쉽네요!=É uma pena que só possamos conversar naquele outro mundo!
+이제부터는\nSNS로도 대화해요!=A partir de agora, vamos conversar também nas redes sociais!
+그럼, 이만!=Então, adeus!
+
++++ ----- YUI 2 ----- +++
+
+@Subject
+가장 긴 계절은...=A estação mais longa é...
+@YUI
+!!!!! This is a trick question, if someone wants to change this to convey that better, feel free to
+봄, 여름, 가을, 겨울, 1년 중에\n가장 긴 건 무엇일까요~!=Primavera, Verão, Outono e Inverno compõem 1 ano\nQual destes é o mais longo~!
+@Wonder
+여름=Verão
+겨울=Inverno
+@YUI
+땡~!\n정답은 『1년』이었습니다~!=Errado~!\nA resposta correta era 『1 ano』!
+아쉽네요!=Que pena!
+같이 시간을 때워주셔서\n감사합니다!=Obrigado por passar um tempo comigo!
+
++++ ----- Hold ----- +++
+
+@Subject
+지금 시간 있어?=Você tem tempo agora?
+@YUI
+지금 혹시 시간 있으세요?\n저 할 게 없어요!=Você tem tempo agora? Eu não tenho nada para fazer!
+그러니까 제가\n이쪽 세계를 구경시켜 줄게요!=Então deixe-me mostrar a você este mundo!
+@Wonder
+!!!!! Dialogue choices accounted for elsewhere (Okay/I'll contact you later)
+@YUI
+그럼 밭 앞에서\n기다릴게요!=Então eu estarei te esperando no campo!
+@Wonder
+집으로 돌아가서 게임에 접속하자...=Vamos voltar para casa e entrar no jogo...
+
+++++ ----- Kayo Tomiyama ----- ++++
+
++++ ----- Hold ----- +++
+
+@Subject
+지금 시간 괜찮니?=Agora é um bom momento?
+@Kayo Tomiyama
+r:"([\S*]{2,6})\n궁금한 게 있어.$"=$1\nEu tenho uma pergunta para você.
+오늘 시간 되면\n나랑 같이 나가서 좀 걸을래?=Se você tiver tempo hoje, gostaria de sair para uma caminhada comigo?
+@Wonder
+!!!!! Dialogue choices accounted for elsewhere (Okay/I'll contact you later)
+@Kayo Tomiyama
+잘 됐다!\n지금 올 수 있어?=Ótimo!\nVocê pode vir agora?
+@Wonder
+토미야마에게 무슨 일이 있는 것 같다. 그녀를 찾아가 보자...=Parece que algo está acontecendo com Tomiyama. Vamos encontrá-la...

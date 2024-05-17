@@ -1,0 +1,716 @@
++++++ ----- UI ----- +++++
+
+++++ ----- Important/System ----- ++++
+조작 모드가 게임패드로 전환됩니다.=Alterado para Gamepad.
+로그인 성공=Login bem-sucedido
+조작 모드가 키보드 및 마우스로 전환됩니다.=Alterado para teclado e mouse.
+교환코드=Resgatar
+일괄 삭제=<size\=24>Exclusão em massa</size>
+모두 받기=Receber Todos
+서브=Sub
+빈 곳을 눌러 계속=Clique/Pressione para continuar.
+시스템=Sistema
+취소=Cancelar
+아이템=Itens
+설정=Configurações
+어라?\n팰리스에서 철수하여 도시로 돌아가려고?=E aí?\nQuer se retirar do Palácio e voltar para a cidade?
+<color\=#FF0000>초과한 경험치는 전기 재료로 전환돼.</color>\n선택한 재료로 강화할 거야?=<color\=#FF0000>O excesso de experiência será convertido em Epics.</color>\nQuer fazer upgrade com os materiais selecionados?
+이모티콘=Emoji
+프로필=Perfil
+명함=Cartão de Perfil
+획득 경로=Caminho de Aquisição
+구매 수량: =Quantidade de Compra: 
+총 지출: =Total Gasto: 
+이름을 입력하세요.=Digite seu nome.
+
+++++ ----- Quests ----- ++++
+20레벨 괴도 3명 보유=Tenha 3 Ladrões Fantasmas de nível 20
+40레벨 괴도 6명 보유=Tenha 6 Ladrões Fantasmas de nível 40
+20레벨 괴도 1명 보유=Tenha 1 Ladrão Fantasma de nível 20
+40레벨 괴도 8명 보유=Tenha 8 Ladrões Fantasmas de nível 40
+50레벨 괴도 1명 보유=Tenha 1 Ladrão Fantasma de nível 50
+50레벨 괴도 2명 보유=Tenha 2 Ladrões Fantasmas de nível 50
+50레벨 괴도 4명 보유=Tenha 4 Ladrões Fantasmas de nível 50
+50레벨 괴도 6명 보유=Tenha 6 Ladrões Fantasmas de nível 50
+50레벨 괴도 8명 보유=Tenha 8 Ladrões Fantasmas de nível 50
+
+++++ ----- Defeat Screen ----- ++++
+괴도 캐릭터 스킬의 강도 비교적 낮음=As habilidades dos Ladrões Fantasmas são relativamente fracas
+괴도 캐릭터 <color\=#EF0000>무기</color>、스킬의 강도 비교적 낮음=A força das <color\=#EF0000>Armas</color> e Habilidades dos Ladrões Fantasmas é relativamente baixa
+주인공 <color\=#EF0000>영감</color>、<color\=#EF0000>페르소나</color>、무기의 강도 비교적 낮음=A força do <color\=#EF0000>Insight</color>, <color\=#EF0000>Persona</color> e Armas do protagonista é relativamente baixa
+
+
+++++ ----- Social Stats and Free Time ----- ++++
+지식=Conhecimento
+「지식」=『Conhecimento』
+배짱=Coragem
+「배짱」=『Coragem』
+친절=Gentileza
+「친절」=『Gentileza』
+재주=Proficiência
+「재주」=『Proficiência』
+매력=Carisma
+「매력」=『Carisma』
+sr:"^<color\=#FFC000>(.*?\s*)</color>의 협력자 레벨이 랭크([0-9]{1,2})까지 증가할 수 있습니다.$"=<color\=#FFC000>O nível de confiança de $1</color> pode aumentar para o Rank $2.
+
+++++ ----- Metaverse Menu ----- ++++
+고급 스킬 재료=<size\=21> Materiais Avançados\n para Subir de Nível</size>
+주간 한정: 0/2=<size\=21>Apenas semanalmente: 0/2</size>
+주간 한정: 0/1=<size\=21>Apenas semanalmente: 0/1</size>
+주간 한정: 1/1=<size\=21>Apenas semanalmente: 1/1</size>
+주간 한정: 1/2=<size\=21>Apenas semanalmente: 1/2</size>
+주간 한정: 2/2=<size\=21>Apenas semanalmente: 2/2</size>
+「미야자와 히로무·팰리스」\n붕괴 후 도전 활성화=<size\=20>Desafio ativado após o colapso\n do Palácio de Hiromu Miyazawa</size>
+스킬 레벨업 재료=<size\=22>Material para Subir de\n Nível de Habilidade</size>
+무기 돌파 재료=<size\=22>Material para Ascensão de\n Arma</size>
+무기 레벨업 재료=<size\=22>Material para Subir de\n Nível de Arma</size>
+페르소나 레벨업 재료=<size\=22>Material para Subir de\n Nível de Persona</size>
+괴도 잠재력 재료=<size\=22>Material para Ascensão de\n Ladrão Fantasma</size>
+괴도 레벨업 재료=<size\=22>Material para Subir de\n Nível de Ladrão Fantasma</size>
+
+++++ ----- Settings ----- ++++
+
++++ ----- Video Settings ----- +++
+파티원 동행=Companheiro de Grupo
+동적 해상도=Resolução Dinâmica
+수직 동기화=V-Sync
+햇빛 조사=Reflexos de Luz
+체적 안개=Neblina Volumétrica
+지형 혼합=Mistura de Terreno
+체적 조명=Iluminação Volumétrica
+앰비언트 어클루전=Oclusão Ambiental
+피사체 심도 블러=Borroamento de Profundidade de Campo
+빛 설정=Iluminação
+십자 광점=Sombreamento Cruzado
+공간 반사=Reflexos em Espaço de Tela
+전체 화면=Tela Cheia
+디테일 단계=Nível de Detalhe
+스티커 디테일=Qualidade de Decalque
+특수 효과=Efeitos Especiais
+프레임=Quadro
+렌더링 비율=Escala de Resolução
+앤티 앨리어싱=Antisserrilhamento
+애프터이펙트=Efeitos de Pós-processamento
+섀도 품질=Qualidade de Sombras
+해상도=Resolução
+렌더링 품질=Qualidade de Renderização
+
++++ ----- Audio Settings ----- +++
+주변=Ambiência
+더빙=Dublagem
+효과음=Efeitos Sonoros
+배경음=Sons de Fundo
+전체=Tudo
+
++++ ----- Gameplay Settings ----- +++
+패드 시각 감도=<size\=24>Sensibilidade da Câmera do Controle</size>
+패드 줌 감도=<size\=24>Sensibilidade do Zoom do Controle</size>
+마우스 줌 감도=<size\=24>Sensibilidade do Zoom do Mouse</size>
+마우스 시각 감도=<size\=24>Sensibilidade da Câmera do Mouse</size>
+시야 자동 조정=<size\=24>Ajuste Automático do Campo de Visão</size>
+패드 진동=<size\=24>Vibração do Controle</size>
+렌즈 조작 모드=<size\=20>Modo de Operação da Câmera</size>
+친구 신청 차단=<size\=24>Bloquear Pedidos de Amizade</size>
+푸시 메시지=<size\=24>Mensagens Push</size>
+채팅 표시=Exibição do Chat
+Onemore 자동 목표 선택=Ativação Automática de『One More』
+자동 전투 페르소나 전환=Troca Automática de Persona em Batalha
+전투 결산 간소화=<size\=28>Simplificar Efeitos de Batalha</size>
+자동 전투 HighLight 발동=Ativação Automática do Destaque
+HightLight 연출=<size\=24>Direção do Destaque</size>
+
++++ ----- Keybind Settings ----- +++
+
+
+++++ ----- Achievements ----- ++++
+
++++ ----- A Journey of Hope ----- +++
+희망을 좇는 여정=<size\=24>Uma Jornada de Esperança</size>
+키우치 타케유키를 개심시키기=Derrotar Kiuchi Takeyuki
+키우치 타케유키의 모든 추억 확인 완료=Todas as Memórias de Kiuchi Takeyuki Concluídas
+『키우치 타케유키·팰리스』로 첫 진입=Entrar pela Primeira Vez no 『Palácio de Kiuchi Takeyuki』
+벨벳 룸으로 첫 진입=Primeira Entrada na Sala de Veludo
+참여하고, 바꾸고, 해내고 싶은 것=Aquilo que Você Quer se Envolver, Mudar e Realizar
+각성 후 조시가야에 있는 자택으로 돌아가기=Voltar para sua casa em Zoshigaya\napós o Despertar
+아라이 모토하의 SNS 획득=Obter Informações do SNS de Motoha Arai
+아라이 모토하가 각성해 괴도로 변신=Motoha Arai Despertou e se Transformou\nem um Ladrão Fantasma
+팰리스에서 모토하와 타케유키의 사진 발견=Descobrir fotos de Motoha e Takeyuki\nno Palácio
+
+
+
++++ ----- Unrivaled Fighter ----- +++
+독보적인 무투파=<size\=24>Lutador Inigualável</size>
+
+전투 중 1회 10,000 이상의 대미지 주기=Infligir mais de 10.000 de Dano\numa única vez durante o Combate
+전투 중 1회 50,000 이상의 대미지 주기=Infligir mais de 50.000 de Dano\numa única vez durante o Combate
+전투 중 1회 100,000 이상의 대미지=Infligir mais de 100.000 de Dano\numa única vez durante o Combate
+총공격으로 전투 10회 끝내기=Finalizar uma Batalha 10 vezes com\num Ataque Total
+총공격으로 전투 100회 끝내기=Finalizar uma Batalha 100 vezes com\num Ataque Total
+기습 진입으로 누적 100회 전투=Iniciar 100 Batalhas com\nAtaques Surpresa
+「ONEMORE」 누적 100회 사용=Usar um 「ONE MORE」 100 Vezes no Total
+「ONEMORE」 누적 500회 사용=Usar um 「ONE MORE」 500 Vezes no Total
+「HIGHLIGHT」 누적 100회 사용=Usar um 「HIGHLIGHT」 100 Vezes no Total
+「HIGHLIGHT」 누적 500회 사용=Usar um 「HIGHLIGHT」 100 Vezes no Total
+다운 수치 대미지 누적 100 달성=Infligir 100 de Dano Total por\nAilment de Status
+누적 500회 치료=500 tratamentos acumulados
+정신 이상 상태 누적 10회 부여=Receber uma Anormalidade Mental 10 Vezes\nno Total
+화염 대미지로 적 20명 처치=Derrotar 20 Inimigos usando Dano de Fogo
+축복 대미지로 적 20명 처치=Derrotar 20 Inimigos usando Dano de Bênção
+빙결 대미지로 적 20명 처치=Derrotar 20 Inimigos usando Dano de Gelo
+질풍 대미지로 적 20명 처치=Derrotar 20 Inimigos usando Dano de Vento
+전격 대미지로 적 20명 처치=Derrotar 20 Inimigos usando Dano de Eletricidade
+염동 대미지로 적 20명 처치=Derrotar 20 Inimigos usando Dano de Psicocinese
+핵열 대미지로 적 20명 처치=Derrotar 20 Inimigos usando Dano Nuclear
+만능 대미지로 적 20명 처치=Derrotar 20 Inimigos usando Dano Onipotente
+근접 공격으로 적 10명 격파=Derrotar 10 Inimigos usando Ataques de Perto
+총격 대미지로 적 20명 처치=Derrotar 20 Inimigos usando Dano de Tiro
+물리 대미지로 적 20명 처치=Derrotar 20 Inimigos usando Dano Físico
+탄약 100발 소모=Disparar 100 Munições
+전투 승리 후 1개의 섀도를 페르소나로 만들기=Criar uma Sombra como Persona após\nvencer uma batalha
+
++++ ----- Fated Correspondence ----- +++
+인연의 통신록=<size\=20>Correspondência Destinada</size>
+
+
++++ ----- Persona Invitations ----- +++
+페르소나 초대장=<size\=26>Convites de Persona</size>
+
+
++++ ----- Urban Exploration ----- +++
+도시 유람=<size\=25>Exploração Urbana</size>
+
+
++++ ----- All-Around Challenger ----- +++
+만능 도전자=<size\=21>Desafiante Versátil</size>
+
+
++++ ----- Becoming a Superstar ----- +++
+슈퍼스타 되기=<size\=20>Tornando-se uma Superestrela</size>
+
+
++++ ----- Phantom Thief Secret Hideout ----- +++
+괴도 비밀아지트=<size\=21>Esconderijo Secreto dos Ladrões Fantasmas</size>
+
+++++ ----- Locations ----- ++++
+지하철역=Estação de Metrô
+슈퍼마켓=Supermercado
+중고 잡화점=Bazar de Segunda Mão
+야구 연습장=Campos de Beisebol
+낚시=Pesca
+동아리 게시판=Quadros de Clubes
+팰리스=Palácio
+슈진=Shujin
+고등학교=Escola Secundária
+벨벳 룸=Sala de Veludo
+카페=Café
+르블랑=Leblanc
+진료소=Clínica
+시부야=Shibuya
+센트럴 가=Rua Central
+밀리터리 숍=Loja Militar
+역 앞 광장=Praça da Estação
+욘겐자야=Yongen-Jaya
+타케미 진료소=Clínica Takemi
+욘겐자야  골목=Beco de Yongenjaya
+조시가야  니시산도=Zoshigaya Nishisando
+역 지하 쇼핑몰=Shopping Subterrâneo
+시부야  지하 쇼핑몰=Shopping Subterrâneo
+지하 통로=Passagem Subterrânea
+신주쿠=Shinjuku
+환락가=Distrito da Luz Vermelha
+신주쿠  유흥가=Vida Noturna de Shinjuku
+아키하바라=Akihabara
+코카츠 고교  중정=Pátio da Escola Kokatsu
+학교 정문=Entrada Principal da Escola
+시모키타자와역=Estação Shimokitazawa
+학교 옥상=Cobertura da Escola
+옥상=Cobertura
+학교 3층=3º Andar da Escola
+학교 2층=2º Andar da Escola
+학교 1층=1º Andar da Escola
+3층 복도=Corredor do 3º Andar
+2층 복도=Corredor do 2º Andar
+1층 복도=Corredor do 1º Andar
+도서실=Biblioteca
+중정=Pátio
+정문=Portão Principal
+시부야 상점가=Rua Comercial de Shibuya
+지하 쇼핑몰=Shopping Subterrâneo
+연락교=Acesso ao Edifício Teikyu
+역 광장=Praça da Estação
+골목=Beco
+조시가야=Josiah
+센트럴가=Rua Central
+야구장 정문=Entrada Principal do Estádio de Beisebol
+전시관=Exibição
+훈련관=Instalação de Treinamento
+전시홀 1층=Salão de Exposições 1º Andar
+전시홀 2층=Salão de Exposições 2º Andar
+옥상 남쪽=Cobertura Sul
+코카츠 고교  강의실 2-C=Sala de Aula 2-C da Escola Kokatsu
+코카츠 고교  2층 복도=Corredor do 2º Andar da Escola Kokatsu
+코카츠 고교  1층 복도=Corredor do 1º Andar da Escola Kokatsu
+캡슐 자판기·시부야=Máquina de Cápsulas de Shibuya
+캡슐 자판기·조시가야=Máquina de Cápsulas de Zoshigaya
+캡슐 자판기·신주쿠=Máquina de Cápsulas de Shinjuku
+이치가야=Ichigaya
+메멘토스=Mementos
+키<color\=#ff0000ff>우</color>치·팰리스=<color\=#ff0000ff>Palácio de Takeyuki Kiuchi</color>
+
+++++ ----- Location Descriptions (L2 Menu) ----- +++
+정성스럽게 제작한 붙박이 옷장.\n전신 거울이 달려 있다.\n이곳에서 옷을 갈아입을 수 있다.=Um guarda-roupa embutido cuidadosamente elaborado com um espelho de corpo inteiro.\nVocê pode trocar de roupa aqui.
+수공예 애호가들 사이에서 유행하는 작업대이다.\n견고하고 구조가 합리적이라\n이곳에서 아이템을 제작할 수 있다.=Uma bancada de trabalho popular entre os entusiastas de artesanato. É resistente e tem uma estrutura sólida.\nVocê pode criar itens aqui.
+넓지 않은 작은 화원.\n관리가 잘 되어있다.\n이곳에서 식물을 재배하고 수확할 수 있다.=Um pequeno jardim de flores. Não é muito grande, mas é bem mantido.\nVocê pode cultivar e colher plantas aqui.
+시설이 완비되어 있는 주방이다.\n충분한 식재료와 레시피가 준비되어 있다.\n이곳에서 풍성한 요리를 만들 수 있다.=Uma cozinha totalmente equipada. Há ingredientes e receitas em abundância.\nVocê pode preparar refeições fartas aqui.
+모조 장난감 무기를 파는 상점.\n점장이 다소 흉악해 보인다.\n이곳에서 무기를 살 수 있다.=Uma loja que vende armas de brinquedo imitação, com um gerente de aparência um tanto maliciosa.\nVocê pode comprar armas aqui.
+수시로 문을 닫는 개인 진료소.\n그 안의 의사를 본 사람은 거의 없다.\n이곳에서 약품을 구매할 수 있다.=Uma clínica particular que costuma estar fechada. Dificilmente alguém viu o médico lá dentro.\nVocê pode comprar medicamentos aqui.
+학교 게시판.\n동아리 활동 포스터가 붙어있다.\n이곳에서 동아리 활동을 할 수 있다.=Um quadro de avisos escolar. Há cartazes de atividades do clube anexados.\nVocê pode participar das atividades do clube aqui.
+에도성 외곽 수로의 거리.\n이곳에서 낚시할 수 있다.=Uma rua nos canais fora do Castelo Edo.\nVocê pode pescar aqui.
+일본에서 가장 빠른 피칭 머신이 있는 곳.\n이곳에서 야구를 연습할 수 있다.=Lar da máquina de arremesso mais rápida do Japão.\nVocê pode praticar beisebol aqui.
+모든 것을 판매한다고 주장하는 중고품 가게.\n이곳에서 합성 시 필요한 재료와 물품을 구매할 수 있다.=Uma loja de segunda mão que afirma vender de tudo. Você pode comprar materiais e suprimentos para síntese aqui.
+각종 천연 식재료와 제철 채소, 과일을 판매한다.\n이곳에서 다양한 식재료를 구매할 수 있다.=Uma loja com vários ingredientes naturais, vegetais da estação e frutas à venda.\nVocê pode comprar uma grande variedade de ingredientes aqui.
+인기 있는 식재료 슈퍼마켓.\n많은 상품이 구비되어 있다.\n이곳에서 각종 물품을 구매할 수 있다.=Um supermercado de alimentos popular. Possui uma grande seleção de produtos.\nVocê pode comprar vários itens aqui.
+다양한 꽃을 파는 인기 가게.\n여자아이들의 소셜 미디어 속 필수 방문 장소이다.\n이곳에서 재배 용품을 구매할 수 있다.=Uma loja popular que vende uma grande variedade de flores. É um ponto de visita obrigatório nas redes sociais das meninas.\nVocê pode comprar suprimentos de cultivo aqui.
+현대 도시의 조용한 작은 가게.\n꽃과 예술, 생활용품을 판매한다.\n이곳에서 재배 용품을 구매할 수 있다.=Uma loja pequena e tranquila em uma cidade moderna. Vende flores, arte e itens domésticos.\nVocê pode comprar suprimentos de cultivo aqui.
+길거리에 설치된 캡슐 자판기.\n랜덤 캡슐이 나온다.\n이곳에서 캡슐을 뽑을 수 있다.=Uma máquina de venda de cápsulas instalada na rua que distribui cápsulas aleatórias.\nVocê pode pegar cápsulas aqui.
+캡슐을 판매하는 기계.\n홍보 카드는 정기적으로 업데이트된다.\n이곳에서 캡슐을 뽑을 수 있다.=Uma máquina que vende cápsulas. Os cartões promocionais são atualizados regularmente.\nVocê pode pegar cápsulas aqui.
+동전을 넣으면\n원하는 것을 획득할 수 있을지도.\n이곳에서 캡슐을 뽑을 수 있다.=Insira uma moeda e talvez você consiga o que deseja.\nVocê pode pegar cápsulas aqui.
+ 
+++++ ----- Velvet Room ----- ++++
+
+
+++++ ----- Character/Weapon Upgrading ----- ++++
+생명 성장률=Taxa de Crescimento de HP
+공격 성장률=Taxa de Crescimento de ATK
+방어 성장률=Taxa de Crescimento de DEF
+ONE MORE, HIGHLIGHT, 근접 공격, 총기 효과 증가=Aumenta a eficácia de ONE MORE, HIGHLIGHT, Ataques de Perto e Armas de Fogo
+r:"<size\=46><color\=#ffffff><sprite\=2 tint\=1></size>(\d+)</color>와\(과\) <size\=46><color\=#ffffff><sprite\=17 tint\=1></size>(\d+)</color>\(으\)로 특성을 활성화해야 합니다."=<size\=46><color\=#ffffff><sprite\=2 tint\=1></size>$1</color> e <size\=46><color\=#ffffff><sprite\=17 tint\=1></size>$2</color> para desbloquear.
+
+++ ----- Inspiration Skill Effect ----- ++
+더 많은 포인트=Mais Pontos
+선행 스킬 레벨보다 높을 수 없습니다.=Não pode ser maior do que o nível\npré-requisito da habilidade.
+주인공이 30레벨을 달성해야 합니다.=O protagonista\nprecisa alcançar o nível 30.
+주인공이 35레벨을 달성해야 합니다.=O protagonista precisa alcançar\no nível 35.
+주인공이 40레벨을 달성해야 합니다.=O protagonista\nprecisa alcançar o nível 40.
+특성 활성화 필요: <size\=46><color\=#ffffff><sprite\=2 tint\=1></size>40</color> 및 <size\=46><color\=#ffffff><sprite\=17 tint\=1></size>1</color>=Requer ativação de atributo: <size\=46><color\=#ffffff><sprite\=2 tint\=1></size>40</color> e <size\=46><color\=#ffffff><sprite\=17 tint\=1></size>1</color>
+
+@HP
+생명 60 증가=HP aumentado em 60
+생명 120 증가=HP aumentado em 120
+생명 180 증가=HP aumentado em 180
+
+생명 2% 증가=HP aumentado em 2%
+
+@DEF
+방어력 15 증가=Aumenta a defesa em 15
+방어력 30 증가=Aumenta a defesa em 30
+방어력 45 증가=Aumenta a defesa em 45
+
+방어력 3% 증가=Defesa aumentada em 3%
+
+@ATK Power
+공격력 15 증가=Aumenta o poder de ataque em 15
+공격력 30 증가=Aumenta o poder de ataque em 30
+공격력 45 증가=Aumenta o poder de ataque em 45
+
+공격력 2% 증가=Poder de ataque aumentado em 2%
+
+@CRIT Rate
+크리티컬 확률 2% 증가=Chance crítica aumentada em 2%
+
+@CRIT Damage
+크리티컬 효과 4% 증가=Dano crítico aumentado em 4%
+
+@Recovery
+치료 효과 4.8% 증가=Aumenta o poder de recuperação em 4.8%
+
+@Accuracy
+효과 명중 8% 증가=Taxa de Acerto do Efeito aumentada em 8%
+
+@Shield
+실드 효과 4.8% 증가=Efeito de Escudo aumentado em 4.8%
+
+@Resistance
+효과 저항 4% 증가=Resistência ao Efeito aumentada em 4%
+
+페르소나의 특색 액티브 스킬 레벨 1레벨 추가 증가=Nível da habilidade ativa característica de Persona aumentado em 1
+페르소나의 모든 습득 액티브 스킬 레벨 1레벨 추가 증가=Aumenta o nível de todas as habilidades ativas adquiridas de uma Persona em 1
+
++++ ----- Weapons ----- +++
+무기 교체 시 무기 레벨 계승=<size\=16>O Nível de Aprimoramento é herdado\nao trocar de armas</size>
+
+++ ----- Weapon Enhancement ----- ++
+돌파=<size\=24>Quebra de Limite</size>
+r:"주인공 (\d+)레벨 달성 시 계속 돌파 가능"=Disponível ao alcançar o Nível do Protagonista $1
+
+++ ----- Weapon Reforming ----- ++
+개조 상세=Detalhes da Reforma
+개조 설명=Efeito da Reforma
+개조 소모=Custo da Reforma
+개조=<size\=20>Reforma</size>
+현재 효과=Efeito Atual
+같은 성급의 무기 소모 가능=Usa: Armas do Mesmo Nível
+이름이 같은 무기만 소모 가능=Usa: Armas com o Mesmo Nome
+sr:"(.*?) 수정만 소모 가능"=Usa: Cristais $1
+
+++ ----- Yaoling Li Skills ----- ++
+맹파탕=Maeun-tang
+추억=Memórias
+<color\=#66ccff>『추억』</color>=<color\=#66ccff>『Memórias』</color>
+<color\=#66ccff>『맹파탕』</color>=<color\=#66ccff>『Maeun-tang』</color>
+<color\=#66ccff>망각</color>=<color\=#66ccff>Esquecer</color>
+자신의 턴 시작 시 속도에 따라 『추억』을 획득한다. 『추억』을 수집하면 『맹파탕』을 획득하며, 다음에 시전하는 스킬이 강화된다.=Ganhe 『Memórias』 no início do seu turno com base na sua SPD. Coletar 『Memórias』 concede 『Maeun-tang』 que pode fortalecer sua próxima habilidade.
+r:"^모든 적에게 공격력 <color\=#FFFC40>(\d+\.?\d*)\%</color>의 주원 속성 대미지를 준다. 2턴 동안 자신의 속도 10포인트마다 목표 적의 방어력이 3% 감소되며, 최대 <color\=#FFFC40>(\d+\.?\d*)\%</color> 감소된다. 해당 스킬이 적 1명을 명중할 때마다 자신은 <link\="s\|159"><u>『추억』</u></link> 4포인트를 획득한다.\\n<b><size\=28><color\=#850101>선홍색 주문에서 적의 영혼을 갈기갈기 찢는 힘이 터져 나와 파괴적인 대미지를 준다.</color></size></b>$"=Causa <color\=#FFFC40>$1%</color> de ATK como dano de Maldição a todos os inimigos. Por 2 turnos, reduz a DEF de todos os alvos inimigos em 3% a cada 10 pontos de SPD do usuário, até um máximo de <color\=#FFFC40>$2%</color>. Ganhe 4 pontos de <link\=s|159><u>『Memórias』</u></link> para cada inimigo atingido por esta habilidade.\n<b><size\=28><color\=#850101>Magia carmesim irrompe com poder que dilacera almas, infligindo dano devastador.</color></size></b>
+『추억』이 40포인트 도달 시 『맹파탕』을 획득한다. 다음에 시전하는 액티브 스킬에 일정 확률로 망각 효과가 추가되고, 일부 스킬이 강화된다.=Ganhe 『Maeun-tang』 quando suas 『Memórias』 atingirem 40 pontos. Sua próxima habilidade ativa tem chance de causar Esquecimento, e algumas habilidades são fortalecidas.
+r:"^1명의 적에게 공격력 <color\=#FFFC40>(\d+\.?\d*)\%</color>의 주원 속성 대미지를 준다. 적이 임의의 디버프 효과를 보유할 시 해당 스킬로 주는 대미지가 20% 증가한다. <link\="s\|127"><u>『맹파탕』</u></link>의 추가 효과로 메인 목표를 100%의 기본 확률로 2턴 동안 <link\="s\|108"><u>망각</u></link> 상태에 빠뜨린다.\\n<b><size\=28><color\=#850101>피에 굶주린 만주사화가 온 땅에 퍼지고, 피처럼 아름다운 색은 적의 발밑에서 스멀스멀 올라와 강력한 주원 대미지를 준다.</color></size></b>$"=Causa <color\=#FFFC40>$1%</color> de ATK como dano de Maldição a um inimigo, e 20% de dano aumentado a inimigos com debuffs. Consumir <link\=s|127><u>『Maeun-tang』</u></link> adiciona uma chance de 100% de infligir <link\=s|108><u>Esquecimento</u></link> por 2 turnos.\n<b><size\=28><color\=#850101>Tigres manchurianos sanguinários se espalham pela terra. Suas lindas cores carmesim sobem como sangue sob os pés do inimigo enquanto infligem dano de Maldição poderoso.</color></size></b>
+정신 이상, 스킬을 사용할 수 없다.=Distúrbio mental, não é possível usar habilidades.
+r:"^모든 적에게 공격력 <color\=#FFFC40>(\d+\.?\d*)\%</color>의 주원 속성 대미지를 주고, 『피안화』 효과를 부여하여 자신의 속도 10포인트마다 적이 받는 대미지가 3% 증가한다. 상한은 <color\=#FFFC40>(\d+\.?\d*)\%</color>이다. 해당 효과는 대미지를 2회 받거나 2턴이 지나면 제거된다. <link\="s\|127"><u>『맹파탕』</u></link>의 추가 효과는 『피안화』의 대미지 증가 효과가 2배로 증가한다.\\n<b><size\=28><color\=#850101>장난꾸러기 사자가 명령에 따라 훌쩍 뛰어올라 이 세상을 뒤숭숭하게 만들어, 말을 듣지 않는 적에게 제멋대로 큰 대미지를 준다.</color></size></b>$"=Causa <color\=#FFFC40>$1%</color> de ATK como dano de Maldição a todos os inimigos e inflige 『Flor Sangrenta』, aumentando o dano recebido por inimigos em 3% a cada 10 pontos de SPD do usuário, até um máximo de <color\=#FFFC40>$2%</color>. Este efeito é removido após 2 instâncias de dano ou após 2 turnos. Consumir 『Maeun-tang』 duplica o efeito de aumento de dano de 『Flor Sangrenta』.\n<b><size\=28><color\=#850101>Este leão travesso ganha vida sob comando, agitando o mundo e causando um grande dano a inimigos rebeldes que não obedecem.</color></size></b>
+r:"^속도 2포인트마다 자신의 공격력이 1% 증가한다. 이 방식으로 공격력이 최대 <color\=#FFFC40>(\d+\.?\d*)\%</color> 증가한다.$"=Cada 2 pontos de SPD aumenta seu dano em 1%, até um máximo de <color\=#FFFC40>$1%</color>.
+r:"^필드에서 생명이 50% 이상인 적이 받는 주원 대미지가 <color\=#FFFC40>(\d+\.?\d*)\%</color> 증가한다.$"=O dano de Maldição causado a inimigos com 50% ou mais de HP é aumentado em <color\=#FFFC40>$1%</color>.
+r:"^『ONE MORE』：1명의 적에게 주원 속성 대미지를 준다.\\n『HIGHLIGHT』：모든 적에게 공격력 <color\=#FFFC40>(\d+\.?\d*)\%</color>의 주원 속성 대미지를 주고, 모든 적이 다음에 받는 대미지가 <color\=#FFFC40>(\d+\.?\d*)\%</color> 증가한다. 30%의 기본 확률로 모든 적을 2턴 동안 <link\="s\|108"><u>망각</u></link> 상태에 빠뜨린다.\\n근접 공격：Usa uma arma de curto alcance para causar um pequeno dano físico a 1 inimigo.\\n총기 사격：Atira em 1 inimigo com uma arma de fogo. A cada vez, dispara 3 tiros em um inimigo, causando dano de Arma de Fogo. Você pode atirar várias vezes dependendo do número de balas.
+
+++++ ----- Contract Menu ----- ++++
+[이계 엠버] 1500개를 사용해\n[미래의 운명] 10장을 구매하려고?=Gostaria de gastar 1500 Cristais do Metaverso para comprar 10 Destino Futuro?
+[이계 엠버] 100개를 사용해\n[정해진 코인] 1장을 구매하려고?=Gostaria de gastar 100 Cristais do Metaverso para comprar 1 Conjunto de Moedas?
+[이계 엠버] 1000개를 사용해\n[정해진 코인] 10장을 구매하려고?=Gostaria de gastar 1000 Cristais do Metaverso para comprar 10 Conjuntos de Moedas?
+[이계 엠버] 150개를 사용해\n[미래의 운명] 1장을 구매하려고?=Gostaria de gastar 150 Cristais do Metaverso para comprar 1 Destino Futuro?
+[이계 엠버] 150개를 사용해\n[정해진 운명] 1장을 구매하려고?=Gostaria de gastar 150 Cristais do Metaverso para comprar 1 Manifesto do Destino?
+운명의 계약을 체결하세요.\n<size\=26>Faça sua assinatura na tela.
+계약 10회마다 4성 이상의 괴도 캐릭터를 확정 획득합니다. 이벤트 한정 5성 캐릭터는 픽업 기간에만 해당 계약을 통해 획득할 수 있습니다. 자세한 내용은 [설명]을 참조하세요.=A cada 10 rodadas, você receberá um personagem Ladrão Fantasma de 4 estrelas ou superior garantido. Personagens exclusivos de evento de 5 estrelas só podem ser obtidos através do banner deles e apenas durante a disponibilidade do banner. Veja [Descrição] para mais detalhes.
+계약 10회마다 4성 이상의 괴도 캐릭터를 확정 획득합니다. 자세한 내용은 [설명]을 참조하세요.=A cada 10 rodadas, você receberá um personagem Ladrão Fantasma de 4 estrelas ou superior garantido. Veja [Descrição] para mais detalhes.
+10회 보급 시마다 4성 이상의 무기를 확정 획득합니다. 자세한 내용은 [설명]을 참조하세요.=A cada 10 rodadas, você receberá uma arma de 4 estrelas ou superior garantida. Veja [Descrição] para mais detalhes.
+
+++++ ----- Plans Menu ----- ++++
+
++++ ----- Information ----- +++
+일일목표 완료 시마다 획득 가능=Obtido toda vez que um\nObjetivo Diário é concluído
+오늘 잔여 수령 횟수=Recompensas de conclusão\nrestantes de hoje
+구매 즉시 <size\=44><sprite\=27 tint\=1></size> 650개 획득=Receba<size\=44><sprite\=27 tint\=1></size>650 ao comprar
+경험치: =EXP: 
+이번 주:=Semana:
+남은 시간=Tempo Restante
+
++++ ----- Missions ----- +++
+r:"체력 120포인트 소모 \((\d+)/120\)"=Consuma 120 de Energia ($1/120)
+r:"1,000엔 소비 \((\d+)/1000\)"=Gaste 1.000 ienes ($1/1000)
+r:"게임 로그인 \((\d)/1\)"=Faça login no jogo ($1/1)
+r:"5,000 영혼석 소비 \((\d+)/5000\)"=Gaste 5.000 Gemas de Alma ($1/5000)
+r:"체력 120포인트 소모 \((\d+)/120\)"=Consuma 120 de Energia ($1/120)
+r:"영혼석 누적 100,000 소모 \((\d+)/100000\)"=Gaste um total de 100.000 Pedras de Alma ($1/100000)
+r:"누적 20,000엔 소비 \((\d+)/20000\)"=Gaste um total de 20.000 ienes ($1/20000)
+r:"행동력 누적 25포인트 소모 \((\d+)/25\)"=Consuma um total de 25 Pontos de Ação ($1/25)
+r:"체력 누적 1,250포인트 소모 \((\d+)/1250\)"=Consuma um total de 1.250 de Energia ($1/1250)
+행동력 3포인트 소모 (0/3)=Consuma 3 Pontos de Ação (0/3)
+행동력 3포인트 소모 (1/3)=Consuma 3 Pontos de Ação (1/3)
+행동력 3포인트 소모 (2/3)=Consuma 3 Pontos de Ação (2/3)
+행동력 3포인트 소모 (3/3)=Consuma 3 Pontos de Ação (3/3)
+만남 1회 진행 (0/1)=Passe tempo com um Confidente (0/1)
+만남 1회 진행 (1/1)=Passe tempo com um Confidente (1/1)
+페르소나 1회 합체 (0/1)=Fusione 1 Persona (0/1)
+페르소나 1회 합체 (1/1)=Fusione 1 Persona (1/1)
+페르소나 1회 육성 (0/1)=Treine uma Persona uma vez (0/1)
+페르소나 1회 육성 (1/1)=Treine uma Persona uma vez (1/1)
+게임 로그인 (0/1)=Faça login no jogo (0/1)
+게임 로그인 (1/1)=Faça login no jogo (1/1)
+「온화한 향기」 도전 1회 완료 (0/1)=Complete 1 estágio de "Material de Ascensão do Ladrão Fantasma" (0/1)
+「온화한 향기」 도전 1회 완료 (1/1)=Complete 1 estágio de "Material de Ascensão do Ladrão Fantasma" (1/1)
+「조립과 제련」 도전 1회 완료 (0/1)=Complete 1 estágio de "Material de Ascensão de Armas" (0/1)
+「조립과 제련」 도전 1회 완료 (1/1)=Complete 1 estágio de "Material de Ascensão de Armas" (1/1)
+
+++++ ----- Confidant Menu ----- ++++
+sr:"^([\S\s]+) 협력자를 선호하는 협력자로 추가했습니다.$"=Adicionou $1 como seu confiante preferido.
+sr:"^([\S\s]+)의 선호하는 협력자 설정을 취소했습니다.$"=Removeu $1 como seu confiante preferido.
+이미 단짝입니다. 변경하시겠습니까?=Você já tem um confiante preferido. Deseja alterá-lo?
+r:"^협력자와의 관계 랭크 『([0-9]{1,2})』 달성 시 해제됩니다.$"=Desbloqueia quando você atingir o Rank de Relacionamento com Confidentes 『$1』.
+호감도 레벨 보상=Recompensas de Nível de Intimidade
+소울메이트 관계가 됩니다=Se torne Alma Gêmea
+전속 안내원 관계가 됩니다=Se torne Guia Pessoal
+절친 관계가 됩니다=Se torne Melhores Amigos
+??월 ??일=?? Mês ?? Dia
+별자리=Signo do Zodíaco
+혈액형=Tipo Sanguíneo
+캐릭터 상세정보=Detalhes do Personagem
+r:"^개인 자료 ([0-9]{1,2})$"=Dados Pessoais $1
+자기 소개=Apresente-se
+「자신」에 대해=Sobre 『Você Mesmo』
+「목표」에 대해=Sobre 『Metas』
+「우리」에 대해=Sobre 『Nós』
+
++++ ----- Confidant Rank Up Conditions ----- +++
+현재 레벨업 불가능=Incapaz de Subir de Nível
+해제 조건=<size\=20>Condições de Desbloqueio</size>
+다음의 조건 충족 시 랭크 레벨업 가능=Você pode subir de nível no rank se atender às seguintes condições
+sr:"^([\S\s]+)와\(과\)의 관계 심화 데이트 완료$"=Complete um encontro de aprofundamento de relacionamento com $1
+r:"^도시 파라미터 지식 ([0-9]{1,2})/([0-9]{1,2})레벨 달성$"=Alcance o Nível de Conhecimento $1/$2
+r:"^도시 파라미터 배짱 ([0-9]{1,2})/([0-9]{1,2})레벨 달성$"=Alcance o Nível de Coragem $1/$2
+r:"^도시 파라미터 친절 ([0-9]{1,2})/([0-9]{1,2})레벨 달성$"=Alcance o Nível de Gentileza $1/$2
+r:"^도시 파라미터 재주 ([0-9]{1,2})/([0-9]{1,2})레벨 달성$"=Alcance o Nível de Proficiência $1/$2
+r:"^도시 파라미터 매력 ([0-9]{1,2})/([0-9]{1,2})레벨 달성$"=Alcance o Nível de Carisma $1/$2
+럭키 펀치 스킬을 보유한 잭 프로스트=Jack Frost com a habilidade Punho da Sorte
+타루카쟈 스킬을 보유한 네코쇼군=Neko Shogun com a habilidade Tarukaja
+
+++++ ----- City Tasks & Free Time ----- ++++
+<color\=#FFFF00>지식</color> 부족=<size\=28>Falta de <color\=#FFFF00>Conhecimento</color></size>
+<color\=#FFFF00>배짱</color> 부족=<size\=28>Falta de <color\=#FFFF00>Coragem</color></size>
+<color\=#FFFF00>친절</color> 부족=<size\=28>Falta de <color\=#FFFF00>Gentileza</color></size>
+<color\=#FFFF00>재주</color> 부족=<size\=28>Falta de <color\=#FFFF00>Proficiência</color></size>
+<color\=#FFFF00>매력</color> 부족=<size\=28>Falta de <color\=#FFFF00>Carisma</color></size>
+관둘래=Desistir
+
+++++ ----- Phone ----- ++++
+
++++ ----- Profile Decoration ----- +++
+조작=Operação
+유저 신고=Denunciar um Usuário
+명함 변경=<size\=22>Alterar Cartão de Perfil
+프레임 변경=<size\=28>Alterar Moldura do Ícone
+프로필 변경=<size\=28>Alterar Ícone de Perfil
+ID 복사=Copiar ID do Usuário
+상태 메시지=<size\=24>Editar Mensagem de Status
+이름 변경=<size\=26>Alterar Nome
+배지 변경=<size\=26>Alterar Distintivos
+차단하기=Bloquear
+친구 삭제=Excluir um Amigo
+상태 메시지가 없습니다=Nenhuma Mensagem de Status
+도시 생활 일수=Dias na Cidade
+
+
++++ ----- Tutorials ----- +++
+조회할 내용을 입력해 보세요.=Digite o que você deseja pesquisar.
+<size\=71>어</size>떤 <size\=71>정</size><size\=54>보를 찾나요?</size>=<size\=34>Que tipo de informação você está procurando?</size>
+r:"해제 완료한 튜토리얼: <color\=#FFBE7E>([0-9]{1,2})</color>개"=Tutoriais Desativados: <color\=#FFBE7E>$1</color>
+괴도-무기=Ladrões Fantasmas - Armas
+괴도·무기=Ladrões Fantasmas - Armas
+괴도-영감=Ladrões Fantasmas - Inspiração
+괴도·영감=Ladrões Fantasmas - Inspiração
+괴도·계시=Ladrões Fantasmas - Revelações
+괴도-계시=Ladrões Fantasmas - Revelações
+괴도·페르소나=Ladrões Fantasmas - Personas
+괴도·페르소나 사용=Usando Ladrões Fantasmas - Personas
+35레벨에 「<color\=#ff0000>계시 카드</color>」가 오픈되면 괴도의 전투력이 대폭 상승한다.=Ao atingir o nível 35, os "<color\=#ff0000>Cartões de Revelação</color>" são desbloqueados, aumentando drasticamente o poder de combate dos Ladrões Fantasmas.
+
++++ ----- Phantom Thief Tutorials ----- +++
+<color=#ff3b37>LÍDER</color> Os Phantom Thieves marcados têm qualidades especiais que lhes permitem usar <color=#ff3b37>até três</color> personas diferentes ao mesmo tempo.
+
++++ ----- Gamepad Roulette ----- +++
+게임패드 룰렛=Roleta do Gamepad
+<size\=56>Á</size> 키를 <color\=#ff3b37>길게 눌러</color> 게임패드 「<color\=#ff3b37>룰렛</color>」을 엽니다.=Pressione e segure a tecla <size\=56>Á</size> para abrir a 「<color\=#ff3b37>Roleta</color>」 no gamepad.
+<size\=56></size>을(를) 굴려 해당하는 「<color\=#ff3b37>기능</color>」을 선택합니다.=Gire o <size\=56></size> para selecionar a 「<color\=#ff3b37>Função</color>」 correspondente.
+
+++ ----- Weakness and ONE MORE ----- ++
+약점과 ONE MORE=Fraquezas e ONE MORE
+스킬마다 속성이 있으며, 적은 <color\=#ff3b37>약점</color> 속성이 있습니다.\n약점 속성으로 공격하면 「<color\=#ff3b37>WEAK</color>」를 발동시킬 수 있습니다.\n「WEAK」: 더 많은 대미지를 주고 적을 <color\=#ff3b37>다운</color>시킵니다.=<size\=28>Cada habilidade tem atributos, e os inimigos têm 「<color\=#ff3b37>Fraquezas</color>」. Atacar com o atributo de Fraquezas do inimigo resultará em um 「<color\=#ff3b37>Down</color>」: Causa mais dano e pode derrubar o inimigo.
+적을 다운시킨 후 추가 공격하는 것을 「<color\=#ff3b37>ONE MORE</color>」이라고 합니다.\n「ONE MORE」는 시전 시간에 제한이 있으며, 초과 시 <color\=#ff3b37>자동 시전</color>됩니다.=Depois de derrubar um inimigo, um ataque adicional é chamado de 「<color\=#ff3b37>ONE MORE</color>」 e tem um tempo de lançamento limitado. Se ultrapassado, será <color\=#ff3b37>automaticamente lançado</color>.
+「ONE MORE」는 <color\=#ff3b37>다운되지 않은</color> 적을 우선 공격합니다.\n다시 다운시키면 더 강력한 「ONE MORE」를 시전합니다.\n연속으로 적을 다운시키면 일방적으로 공격할 수 있습니다.=<size\=28>「<color\=#ff3b37>ONE MORE</color>」 é ativado se houver <color\=#ff3b37>inimigos não derrubados</color>. Se você os derrubar novamente, lançará um 「<color\=#ff3b37>ONE MORE</color>」 mais poderoso. Derrubando inimigos em sequência, você pode atacá-los individualmente.
+
+++ ----- HIGHLIGHT ----- ++
+괴도마다 독특한 강력 스킬을 가지고 있는데,\n이를 「<color\=#ff3b37>HIGHLIGHT</color>」 스킬이라고 부릅니다.\n「HIGHLIGHT」 스킬은 크리티컬 효과가 발동되지 않습니다.=Cada Ladrão Fantasma tem um conjunto único de habilidades poderosas, conhecidas como 「<color\=#ff3b37>HIGHLIGHT</color>」, A habilidade 「HIGHLIGHT」 não aciona efeitos críticos.
+괴도의 행동 혹은 피격 시, 그리고 WEAK 부여 시\n<color\=#ff3b37>HIGHLIGHT 에너지</color>를 획득할 수 있습니다.\n에너지가 가득차면 임의의 괴도 행동 시 시전할 수\n있습니다.=Você pode adquirir 「<color\=#ff3b37>Energia HIGHLIGHT</color>」 quando o ladrão fantasma age ou é atacado, e quando a Fraqueza é aplicada. Quando a energia está cheia, ela pode ser lançada durante qualquer ação do ladrão fantasma.
+「HIGHLIGHT」의 사용 후에는 <color\=#ff3b37>4턴</color>의 쿨타임이 있습니다.\n쿨타임 후 해당 괴도의 HIGHLIGHT 「<color\=#ff3b37>사용 기회</color>」가\n「<color\=#ff3b37>리셋</color>」됩니다.=Há um tempo de espera de 「<color\=#ff3b37>4 Turnos</color>」 após usar 「HIGHLIGHT」. Após o tempo de espera, a 「<color\=#ff3b37>Oportunidade</color>」 de usar HIGHLIGHT do ladrão fantasma é 「<color\=#ff3b37>Reiniciada</color>」.
+
+++ ----- Defense ----- ++
+「<color\=#ff3b37>방어</color>」는 다음 받는 대미지를 대폭 감소시킬 수 있습니다.\n캐릭터의 다음 행동 전 다운 수치 1포인트를 추가로 획득하고, SP를 일정량 회복시킵니다.=「<color\=#ff3b37>Defesa</color>」 pode reduzir significativamente o próximo dano recebido.\nAdquire 1 ponto adicional de valor de Down antes da próxima ação do personagem e restaura uma quantidade de SP.
+
+++ ----- Home ----- ++
+자택=Casa
+불가사의한 하루를 보냈습니다! 휴식을 취하며 집에서의 생활을 즐기세요!=Você teve um dia incrível! Relaxe e aproveite sua vida em casa!
+
+++ ----- Personas - Nurture ----- ++
+페르소나·육성=Personas - Cultivo
+「<color\=#ff3b37>Cultivo</color>」 permite que a Persona-alvo adquira as habilidades de outra Persona. Selecione o <color\=#ff3b37>Marca de Persona</color> para consumir e adquirir uma habilidade aleatória das <color\=#ff3b37>Habilidades Marcadas</color>.
+
+++ ----- Confidants ----- ++
+<color\=#ff3b37>협력자</color>는 주인공의 도시 생활의 조력자로,\n특정 조력 사건을 완료한 후 주인공과 협동 관계를 맺습니다.=<color\=#ff3b37>Confidentes</color> são parceiros na vida do protagonista na cidade, que entram em uma relação cooperativa com o protagonista após completar eventos assistidos específicos.
+협력자와의 <color\=#ff3b37>데이트</color>로 호감도를 올릴 수 있습니다.\n데이트 시 <color\=#ff3b37>선물 증정</color>은 빠르게 호감도를 올릴 수 있는 비결입니다.\n루페르는 가이드이니 데이트를 할 필요가 없습니다.=<size\=23>Você pode aumentar sua classificação de favorabilidade ao sair em um <color\=#ff3b37>Encontro</color> com seus confidentes. \nDar um <color\=#ff3b37>presente</color> durante um encontro é o segredo para aumentar rapidamente sua classificação de favorabilidade.\nVocê não precisa sair em um encontro com Ruferu, ele é seu guia.
+
+++ ----- Closet ----- ++
+필드마다 해당하는 생활 의상으로 전환됩니다.\n휴식 및 도시를 거닐 때는 <color\=#ff3b37>평상복</color>을 입습니다.\n집에 돌아가서 쉴 때는 <color\=#ff3b37>실내복</color>으로 갈아입습니다.\n옷은 장면에 따라 설정할 수 있습니다.=Para cada campo, você será alterado para as roupas de estilo de vida correspondentes. Para relaxar e passear pela cidade, use suas <color\=#ff3b37>Roupas Casuais</color>. Quando estiver em casa e descansando, troque para suas <color\=#ff3b37>Roupas de Interior</color>. As roupas podem ser ajustadas de acordo com a cena.
+
+++ ----- Goals ----- ++
+일일 비즈니스 목표를 달성해 해당하는 희귀 보상을 획득하세요!=Alcance as metas diárias do negócio para obter recompensas raras correspondentes!
+목표=Metas
+
+++ ----- ObjectiveⅠ----- ++
+목표 Ⅰ 1단계의 모든 임무 완료=<size\=25>Objetivo Ⅰ Complete todas as missões na Fase 1
+초보 5★ 무기 선택=<size\=13>Seleção de Arma 5★ Iniciante
+초보 5★ 괴도 선택=<size\=11>Seleção de Ladrão Fantasma 5★ Iniciante
+완료 시=<size\=18>Após completar
+수령 완료=Recebido
+비즈니스=<size\=20>Negócios
+단계 목표 완료 후 획득=<size\=13>Obtido após completar um objetivo de fase
+이동=Mover
+메인 임무 「숨겨진 세계의 증명」 완료=<size\=20>Completou a missão principal "Prova do Mundo Oculto"
+주인공 12레벨 달성=Atingiu o Nível 12 do Protagonista
+아라이 모토하의 각성 목격=<size\=26>Testemunhando o Despertar de Arai Motoha
+계약 10회 진행=10 Contratos
+10레벨 괴도 2명 보유=Possui 2 Ladrões Fantasmas de nível 10
+잠재력 I 괴도 3명 보유=Tem 3 Ladrões Fantasmas de Potencial I
+20레벨 페르소나 1개 보유=Tem um Persona de nível 20
+
+++ ----- Contracts ----- ++
+계약=Contratos
+운명의 계약을 체결하고, 정해진 파트너와 이곳에서 만나세요!=Assine um contrato de destino e conheça seu parceiro designado aqui!
+<size\=56>¬</size> 「<color\=#ff3b37>계약</color>」을 조회하세요.=<size\=56>¬</size> Procure por 「<color\=#ff3b37>Contrato</color>」.
+계약으로 「<color\=#ff3b37>괴도</color>」와 「하급 2성 페르소나」를 획득할 수 있습니다.\n<color\=#ff3b37>계약 10회마다 반드시 4성 이상 괴도 캐릭터가 나옵니다.</color>\n「<color\=#ff3b37>마음의 괴도단</color>」은 신입 추첨 계약으로,\n계약 50회 안에 반드시 1개 이상의 <color\=#ff3b37>5성 캐릭터</color>를 획득합니다.=Através dos contratos, você pode adquirir 「<color\=#ff3b37>Ladrões Fantasmas</color>」 e 「Personas de 2 estrelas inferiores」.\n<color\=#ff3b37>A cada 10 contratos, você receberá um Ladrão Fantasma de 4 estrelas ou superior.</color>\n「<color\=#ff3b37>Ladrões Fantasmas do Coração</color>」é um novo contrato de sorteio que requer pelo menos um personagem de <color\=#ff3b37>5 estrelas</color> a cada 50 contratos.
+계약 10회마다 4성 이상의 괴도 캐릭터를 확정 획득합니다. 계약 50회 시 5성 괴도 캐릭터를 선택 획득할 수 있습니다. 자세한 내용은 [설명]을 참조하세요.=A cada 10 contratos, você tem a garantia de obter um Ladrão Fantasma de 4 estrelas ou superior. Você pode selecionar e adquirir um Ladrão Fantasma de 5 estrelas ao completar 50 contratos. Para mais detalhes, consulte [Descrição].
+
+++ ----- Phantom Thieves ----- ++
+괴도=<size\=28>Ladrões Fantasmas
+스킬, 무기, 영감 등의 방식을 통해 괴도를 성장시킬 수 있습니다.=Você pode desenvolver seu Ladrão Fantasma através de habilidades, armas, inspiração e muito mais.
+임의의 괴도를 레벨업해라=Level up a random phantom thief
+「<color\=#ff3b37>괴도</color>」 1명을 선택하세요.=Selecione uma pessoa: 「<color\=#ff3b37>Ladrão Fantasma</color>」.
+「<color\=#ff3b37>성장</color>」을 선택하세요.=Selecione 「<color\=#ff3b37>Crescimento</color>」.
+「<color\=#ff3b37>레벨업</color>」을 선택합니다.=Selecione 「<color\=#ff3b37>Level Up</color>」.
+「<color\=#ff3b37>레벨업</color>」을 진행하세요.=Prossiga com 「<color\=#ff3b37>Level Up</color>」.
+재료를 선택해 주세요.=Por favor, selecione o material.
+「<color\=#ff3b37>재료를 선택</color>」하세요.=Por favor, 「<color\=#ff3b37>selecione um material</color>」.
+<size\=56>¬</size> 「<color\=#ff3b37>더 많이 선택</color>」하세요.=<size\=56>¬</size> 「<color\=#ff3b37>Selecione mais</color>」
+길게 눌러 「<color\=#ff3b37>더 많이 선택</color>」하세요.=Pressione e segure para “<color\=#ff3b37>Selecionar mais</color>”.
+잠재력 1레벨 달성 시 괴도를 계속 레벨업시킬 수 있습니다=Quando você alcançar o nível 1 de potencial, poderá continuar a subir de nível seu Ladrão Fantasma.
+
+
+++ ----- Attribute Conflicts ----- ++
+
+속성 상극=Conflitos de Atributo
+적과 페르소나가 주는 대미지 모두 속성을 보유하고 있습니다.\n왼쪽에서 오른쪽 순서로:\n<color\=#ff3b37>물</color>, <color\=#ff3b37>총</color>, <color\=#ff3b37>화</color>, <color\=#ff3b37>빙</color>, <color\=#ff3b37>전</color>, <color\=#ff3b37>풍</color>, <color\=#ff3b37>염</color>, <color\=#ff3b37>핵</color>, <color\=#ff3b37>축</color>, <color\=#ff3b37>주</color>=Tanto o dano do inimigo quanto o do persona possuem propriedades. Da esquerda para a direita:\n<color\=#ff3b37>Físico</color>, <color\=#ff3b37>Arma</color>, <color\=#ff3b37>Fogo</color>, <color\=#ff3b37>Gelo</color>, <color\=#ff3b37>Elétrico</color>, <color\=#ff3b37>Vento</color>, <color\=#ff3b37>Psíquico</color>, <color\=#ff3b37>Nuclear</color>, <color\=#ff3b37>Benção</color>, <color\=#ff3b37>Maldição</color>
+적과 페르소나는 각각 속성의 상극이 있습니다.\n상세정보에서 자신과 적의 상극을 확인할 수 있습니다.\n속성의 5가지 상극 효과: <color\=#ff3b37>약</color>, <color\=#ff3b37>내</color>, <color\=#ff3b37>무</color>, <color\=#ff3b37>반</color>, <color\=#ff3b37>흡</color>=Inimigos e Personas têm um contraparte de atributo. Você pode ver as contrapartes em Detalhes. Os 5 efeitos contrários dos atributos: <color\=#ff3b37>Fraco</color>, <color\=#ff3b37>Resistir</color>, <color\=#ff3b37>Nulo</color>, <color\=#ff3b37>Refletir</color>, <color\=#ff3b37>Drenar</color>
+「<color\=#ff3b37>약점</color>」: 받는 대미지가 증가하고 동시에 실드값이 삭감됩니다.\n「<color\=#ff3b37>내성</color>」: 받는 대미지가 감소합니다.\n「<color\=#ff3b37>무효</color>」: 공격을 받지 않습니다.\n「<color\=#ff3b37>반사</color>」: 받은 대미지를 시전자에게 반사합니다.\n「<color\=#ff3b37>흡수</color>」: 공격을 받을 시 대미지를 흡수하고 자신의 생명을 회복합니다.=「<color\=#ff3b37>Fraquezas</color>」: Aumenta o dano recebido e reduz o valor do escudo ao mesmo tempo. 「<color\=#ff3b37>Resistente</color>」: Reduz o dano recebido.\n「<color\=#ff3b37>Invulnerável</color>」: Você não será atacado.\n"Reflect"<color\=#ff3b37>Reflect</color>": Reflete o dano recebido de volta para o conjurador. "<color\=#ff3b37>Absorver</color>": Absorve o dano e restaura sua saúde ao ser atacado.
+
+++ ----- Turn ----- ++
+
+행동 대열=Turn
+<color\=#ff3b37>행동 바</color>에서 적과 아군의 캐릭터의 행동 순서를 볼 수 있습니다.=Você pode ver a ordem de turno dos personagens inimigos e aliados na <color\=#ff3b37>Barra de Turno</color>.
+<color\=#ff3b37>전투 유닛</color> 또는 전투 유닛의 <color\=#ff3b37>프로필</color>을 길게 누르면\n유닛의 상세정보를 조회할 수 있습니다.=Você pode visualizar informações detalhadas sobre um <color\=#ff3b37>Inimigos ou Aliados</color> ou o <color\=#ff3b37>Status</color> dos Inimigos ou seus Aliados ao pressionar e segurar.
+
+++ ----- Workbench ----- ++
+
+작업대에서 잡임 아이템과 각종 소재를 제작해 탐험에서 사용하세요.=Craft itens variados e materiais diversos na bancada de trabalho e use-os na exploração.
+해당하는 재료를 소모하면\n<color\=#ff3b37>작업대</color>를 사용하여 탐색 아이템을 제작할 수 있습니다.\n아이템을 처음 제작할 때 <color\=#ff3b37>재주</color>도 획득할 수 있습니다.=Ao consumir os materiais correspondentes, você pode usar a <color\=#ff3b37>bancada de trabalho</color> para criar itens de exploração. Ao criar um item pela primeira vez, você também obterá <color\=#ff3b37>proficiência</color>.
+
+++ ----- Metaverse ----- ++
+이세계=Metaverso
+괴도가 되어 동료와 함께 메멘토스와 욕망 팰리스를 탐험하세요!=Torne-se um ladrão fantasma e explore Mementos e o Palácio do Desejo com seus amigos!
+
+++ ----- Plans ----- ++
+플랜=Planos
+플랜을 통해 성장 보상을 획득해 보세요!=Obtenha recompensas de crescimento através do seu plano!
+<size\=56>¬</size>「<color\=#ff3b37>버드 플랜</color>」을 조회하세요.=<size\=56>¬</size>Veja 「<color\=#ff3b37>Plano Bird</color>」.
+
+++ ----- Grappling Hook ----- ++
+와이어 사용=Usando Gancho de Agarrar
+와이어 구역에 다가가면 <color\=#ff3b37>와이어</color> 버튼이 표시됩니다.\n버튼을 사용하면 와이어를 사용해 빠르게 목표 에어리어까지 이동할 수 있습니다.=Ao se aproximar de uma área de gancho de agarrar, um botão <color\=#ff3b37>Gancho de Agarrar</color> aparecerá. Ao usar o botão, você pode se mover rapidamente até a área de destino usando o gancho de agarrar.
+
+++ ----- Boxes ----- ++
+상자=Caixas
+메멘토스와 팰리스에 다양한 「<color\=#ff0000>상자</color>」가 분포해 있습니다.\n탐색 중 열어보면 진귀한 보상을 획득할 수 있을지도 모릅니다.=Mementos e o Palácio têm uma variedade de 「<color\=#ff0000>Caixas</color>」 espalhadas por eles, e abrir essas caixas durante a exploração pode resultar em recompensas raras.
+
+++ ----- Shadow ----- ++
+이세계에서 <color\=#ff3b37>섀도</color>를 만날 수 있습니다.=No metaverso, você pode encontrar <color\=#ff3b37>Sombra</color>.
+<color\=#ff3b37>공격</color> 명령을 사용해 섀도를 공격하면\n전투에 진입할 수 있습니다.=Você pode entrar em batalha atacando a sombra usando o comando <color\=#ff3b37>Ataque</color>.
+
+++ ----- All-Out Attack ----- ++
+현장에 있는 모든 적을 다운시키면,\n아군 전원이 「<color\=#ff3b37>총공격</color>」을 가할 수 있습니다.=Quando você derruba todos os inimigos no campo, todos os aliados podem executar um "<color\=#ff3b37>Ataque Total</color>" que causa um grande dano a todos os inimigos.
+「<color\=#ff3b37>총공격</color>」은 모든 적에게 대량의 대미지를 주는 필살 공격입니다.\n총공격의 대미지는 참전 괴도의 레벨에 따라 정해지며, 주인공이 행동 불가 상태이거나 주인공만 행동 가능한 경우 발동할 수 없습니다.=O 「<color\=#ff3b37>Ataque Total</color>」 é um ataque especial que causa um grande dano a todos os inimigos.\nO dano do ataque total é determinado pelo nível do ladrão fantasma participante, e não pode ser ativado se o personagem principal estiver incapacitado para agir ou apenas o personagem principal puder agir.
+
+++ ----- Stealth and Ambush ----- ++
+은신과 기습=Furtividade e Emboscada
+필드의 장애물에 아이콘 표식이 나타날 시에는\n이곳이 <color\=#ff3b37>은신이 가능한 장소</color>임을 의미합니다.=Quando um obstáculo em um campo é marcado com um ícone, isso indica que este é um <color\=#ff3b37>local de furtividade</color>.
+은신을 사용하면 <color\=#ff3b37>은신</color> 상태에 진입시킬 수 있습니다.\n해당 상태에서는 <color\=#ff3b37>적에게 발견되지 않습니다</color>.\n주의: 적에게 추격당하고 있는 상태에서는 은신할 수\n없습니다.=O uso de Furtividade permite entrar no estado de <color\=#ff3b37>furtividade</color>, no qual você não pode ser detectado por <color\=#ff3b37>inimigos</color>. Cuidado: Você não pode usar Furtividade enquanto está sendo perseguido por inimigos.
+은신 시 근처에 다른 은신 가능한 장소가 있으면\n새로운 은신 지점까지 <color\=#ff3b37>빠르게 이동</color>할 수 있습니다.=Quando estiver em furtividade, se houver outro local de furtividade nas proximidades, você pode se <color\=#ff3b37>mover rapidamente</color> para o novo ponto de furtividade.
+은신 취소를 사용하면 은신 상태를 <color\=#ff3b37>취소</color>할 수 있습니다.=Cancelar Furtividade permite <color\=#ff3b37>cancelar</color> seu estado de furtividade.
+적이 자신이 있는 은신 장소에 접근할 시,\n아이콘이 사용 가능 상태로 바뀌며,\n이때 적을 <color\=#ff3b37>기습</color>을 할 수 있습니다.=Quando um inimigo se aproxima do seu local de furtividade, o ícone muda para disponível para uso, e você pode <color\=#ff3b37>atacar</color> o inimigo.
+기습으로 전투에 진입하면 <color\=#ff3b37>선제공격</color>으로 간주되어\n전투 중 아군이 먼저 공격할 수 있습니다.=Se você entrar em uma batalha por meio de uma <color\=#ff3b37>emboscada</color>, será considerado um <color\=#ff3b37>ataque preventivo</color> e seus aliados poderão atacar primeiro durante a batalha.
+
+++ ----- Safe Rooms ----- ++
+세이프 룸=Salas Seguras
+발견한 세이프 룸과 상호작용으로 해제할 수 있습니다.\n이세계 내비게이션을 통해 이미 개방된 세이프 룸으로\n<color\=#ff3b37>간편 이동</color>할 수 있습니다.=<size\=28>Interaja com uma Sala Segura descoberta para desbloqueá-la. Navegue até uma Sala Segura já aberta via <color\=#ff3b37>Navegação Metaverso</color> para se mover rapidamente para um novo ponto de esconderijo.
+<color\=#ff3b37>세이프 룸</color>은 괴도단의 휴식처입니다.\n세이프 룸에 들어가면 모든 동료의 <color\=#ff3b37>상태를 회복</color>시킬 수\n있습니다.=<color\=#ff3b37>Sala Segura</color> é o local de descanso dos Ladrões Fantasmas. Ao entrar na Sala Segura, você pode <color\=#ff3b37>recuperar</color> a condição de todos os seus aliados.
+세이프 룸에서는 <color\=#ff3b37>괴도 육성</color>과 <color\=#ff3b37>페르소나 육성</color>이 가능하며,\n<color\=#ff3b37>라인업 변경</color>도 할 수 있습니다.=Na Sala Segura, é possível <color\=#ff3b37>Treinar Ladrões Fantasmas</color>, <color\=#ff3b37>Desenvolver Personas</color>, e também <color\=#ff3b37>Alterar o Lineup</color>.
+
+++ ----- Personas ----- ++
+마음속 욕망을 마주 보고, 각성한 페르소나를 훈련하고 재건하세요!=Enfrente seus desejos internos, treine e reconstrua sua Persona despertada!
+
+++ ----- Third Eye ----- ++
+<color\=#ff3b37>관찰 모드</color>를 오픈하면 육안으로는 볼 수 없는\n물건을 발견하고, 각종 <color\=#ff3b37>정보</color>를 찾을 수 있습니다.\n행동 목표를 찾을 수 없을 시 관찰 모드를 잘 이용해\n보세요.=Quando você usa o <color\=#ff3b37>Terceiro Olho</color>, pode descobrir objetos que não são visíveis a olho nu e encontrar várias <color\=#ff3b37>informações</color>. Se não conseguir encontrar seu alvo, tente usar o terceiro olho.
+
+++ ----- Exploration Items ----- ++
+물품 탐색=Itens de Exploração
+팰리스 안에서 <color\=#ff3b37>관찰 모드</color>를 사용합니다.\n아이템이 숨겨진 <color\=#ff3b37>탐색 물품</color>을 찾을 수 있습니다.=Use o <color\=#ff3b37>Terceiro Olho</color> dentro do palácio.\nVocê pode encontrar <color\=#ff3b37>Itens de Exploração</color> com itens escondidos.
+++ ----- Lineup ----- ++
+라인업=Lineup
+라인업·캐릭터=Lineup - Personagens
+라인업·설정=Lineup - Configurações
+라인업을 통해:\n현재 출전한 <color\=#ff3b37>괴도</color>를 선택할 수 있습니다.\n원더의 출전 <color\=#ff3b37>페르소나</color>를 설정합니다.=Através do lineup:\nVocê pode selecionar o <color\=#ff3b37>Ladrão Fantasma</color> atualmente participante.\nDefina a <color\=#ff3b37>Persona</color> de Wonder.
+라인업·소나타=Lineup - Sonata
+원더와 괴도의 출전 페르소나 속성에 따라 해당하는 <color\=#ff3b37>욕망 소나타</color>가 활성화됩니다.\n같은 속성이 2개 존재할 시 해당 속성의 <color\=#ff3b37>이중주</color>가 활성화됩니다.\n같은 속성이 3개 이상 존재할 시 해당 속성의 <color\=#ff3b37>다중주</color>가 활성화됩니다.\n4종 이상의 다른 속성이 존재할 시 <color\=#ff3b37>페르소나 협주</color>가 활성화됩니다.=Dependendo dos atributos de persona de Wonder e do Ladrão Fantasma, o <color\=#ff3b37>Sonata do Desejo</color> correspondente será ativado. Quando dois do mesmo atributo existirem, um <color\=#ff3b37>Dueto</color> desse atributo será ativado. Se três ou mais do mesmo atributo existirem, um <color\=#ff3b37>Multiestado</color> desse atributo é ativado. <color\=#ff3b37>Quarteto de Persona</color> é ativado quando 4 ou mais atributos diferentes estão presentes.
+라인업·프리셋=Lineup - Presets
+사전에 여러 라인업을 설정해\n다양한 콘텐츠에서 빠르게 전환할 수 있습니다.\n이세계 탐색 시 설정한 <color\=#ff3b37>기본 라인업</color>을 사용합니다.=Você pode configurar vários lineups com antecedência.\nVocê pode alternar rapidamente entre vários conteúdos.\nUse o <color\=#ff3b37>lineup padrão</color> que você configurou ao explorar o metaverso.
+라인업·페르소나=Lineup - Persona
+출전한 페르소나의 속성은 주인공에게 <color\=#ff3b37>모두 추가</color>됩니다.\n전투 중 <color\=#ff3b37>페르소나 교체</color>로 주인공의 <color\=#ff3b37>속성 적합성</color>, <color\=#ff3b37>페르소나 스킬</color>, <color\=#ff3b37>ONE MORE</color>, <color\=#ff3b37>HIGHLIGHT</color> 효과를 교체할 수 있습니다.\n동시에 라인업 <color\=#ff3b37>욕망 소나타</color> 효과에도 영향을 줍니다.=Os atributos da Persona que participa são <color\=#ff3b37>adicionados</color> ao personagem principal.\nDurante a batalha, <color\=#ff3b37>mudar Persona</color> para o personagem principal <color\=#ff3b37>Substitui a adequação do atributo</color>, <color\=#ff3b37>habilidade da Persona</color>, <color\=#ff3b37>ONE MORE</color>, e <color\=#ff3b37>HIGHLIGHT</color> efeitos Você pode. \nAo mesmo tempo, também afeta o efeito do <color\=#ff3b37>Sonata do Desejo</color> do lineup.
+
+++ ----- Down Value ----- ++
+다운 수치=Down Value
+강력한 몬스터는 「<color\=#ff3b37>다운 수치</color>」를 보유하고 있습니다.\n다운 대미지를 주면 다운 수치를 우선 삭감합니다.\n다운 수치가 제거될 시 <color\=#ff3b37>다운</color>됩니다.=Powerful shadows have a 「<color\=#ff3b37>Down Value</color>」.\nIf you inflict down damage, the down value is reduced first. When the down value is removed, you can <color\=#ff3b37>down</color> the shadows.
+
+++ ----- Space of Oppression ----- ++
+억압의 공간=<size\=26>Space of Oppression
+억압의 공간에 도전해 육성 재료를 획득하고, 빠르게 괴도단의 실력을 강화하세요!=Challenge the space of oppression, acquire training materials, and quickly strengthen the skills of the Phantom Thieves!
+섀도가 메멘토스에 모여 「<color\=#ff3b37>억압의 공간</color>」이라고 하는\n특수한 공간을 형성했습니다.\n괴도단은 이곳에서 왜곡된 욕망을 바로잡아야 하며,\n성장에 필수인 「<color\=#ff3b37>재료</color>」도 획득할 수 있습니다.=「<color\=#ff3b37>Space of Oppression</color>」, a specialized space where the Phantom Thieves must correct Shadows distorted desires, and where they can find the 「<color\=#ff3b37>Material</color>」 essential to their growth.
+<size\=56>¬</size>「<color\=#ff3b37>억압의 공간</color>」 선택=<size\=56>¬</size>「<color\=#ff3b37>Space of Oppression</color>" selected
+
+++ ----- Weapons ----- ++
+무기=Armas
+적합한 무기를 선택하고 강화와 개조를 통해 강력한 힘을 발휘하세요!=Escolha a arma certa e libere seu poder através de aprimoramentos e modificações!
+「<color\=#ff3b37>무기 창고</color>」를 조회하세요.=Menu 「<color\=#ff3b37>Armazenamento de Armas</color>」.
+<size\=56>¬</size>「<color\=#ff3b37>고품질 무기</color>」를 선택하세요.=Selecione 「<color\=#ff3b37>Arma de Alta Qualidade</color>」.
+「<color\=#ff3b37>교체</color>」를 진행합니다.\n무기 교체 시 자동으로 <color\=#ff3b37>무기 레벨이 계승</color>됩니다.=Prossiga com 「<color\=#ff3b37>Troca</color>」.\nAo trocar uma arma, o nível da arma é automaticamente <color\=#ff3b37>Herdado</color>.
+교체에 성공했습니다. 강화 레벨과 돌파 레벨이 자동 계승되었습니다.=A troca foi bem-sucedida. O nível de aprimoramento e de evolução foi automaticamente herdado.
+캐릭터마다 사용 가능한 무기 유형이 다릅니다.\n같은 유형의 무기는 <color\=#ff3b37>품질</color>이 높을수록 기본 속성이 많고,\n부대적인 <color\=#ff3b37>무기 효과</color>도 강합니다.=O tipo de arma disponível para cada personagem é diferente.\nQuanto maior a <color\=#ff3b37>Qualidade</color> do mesmo tipo de arma, mais atributos base ela tem,\ne os <color\=#ff3b37>Efeitos Adicionais da Arma</color> são mais fortes também.
+<color\=#ff3b37>강화</color>로 무기의 기본 속성을 올릴 수 있습니다.\n특정 레벨까지 레벨업 후 <color\=#ff3b37>돌파</color>로 전투 속성을 대폭 증가시킬 수 있습니다.\n무기 교체 시 자동으로 <color\=#ff3b37>무기의 레벨이 계승</color>됩니다.=Você pode aumentar os atributos básicos da sua arma com <color\=#ff3b37>Aprimoramento</color>.\nApós alcançar um certo nível, você pode aumentar significativamente os atributos de combate com <color\=#ff3b37>Avanço</color>.\nAo substituir uma arma, o nível da arma é automaticamente <color\=#ff3b37>Herdado</color>.
+<color\=#ff3b37>개조</color>로 무기의 efeito adicional pode ser aumentado.\nDurante a modificação, é necessário consumir uma arma do mesmo nível ou superior.\nAs armas podem ser obtidas ao comprar no <color\=#ff3b37>Loja Militar</color> ou por meio de <color\=#ff3b37>Abastecimento</color>.\nAo abastecer armas, você deve fazer uma <color\=#ff3b37>Seleção Limitada</color>.\nAo adquirir uma arma de 5 estrelas, apenas 3 armas limitadas aparecerão.\nHá uma chance de 50% de obter uma arma limitada.\nA cada 10 abastecimentos, você irá obter uma arma de 4 estrelas ou superior.
+
+++ ----- The Velvet Trials ----- ++
+벨벳 룸에서 전투 기술을 연마해 더 높은 전투 평가를 받으세요!=Aprimore suas habilidades de combate na Sala Velvet para obter classificações de combate mais altas!
+「<color\=#ff3b37>벨벳 시련</color>」은 괴도단의 전투 능력을 집중적으로 검증합니다.\n시련은 여러 난이도로 나뉘며, 레벨에 따라 개방됩니다.=「<color\=#ff3b37>Os Testes de Velvet</color>」 testam intensivamente as habilidades de combate dos Ladrões Fantasmas.\nOs testes são divididos em vários níveis de dificuldade e são abertos de acordo com o nível.
+각 시련은 <color\=#ff3b37>맞춤형 기술</color>로 더 높은 포인트를 받을 수\n있으며, 포인트가 특정 <color\=#ff3b37>등급</color>에 도달하면 상응하는 시련 <color\=#ff3b37>보상</color>을 획득할 수 있습니다.=Cada teste pode receber mais pontos com <color\=#ff3b37>Habilidades Personalizadas</color>, e quando seus pontos alcançam um determinado <color\=#ff3b37>Nível</color>, você pode obter a <color\=#ff3b37>Recompensa</color> correspondente ao teste.
+
+++ ----- Personas - Compendium ----- ++
+페르소나·도감=Personas - Compendium
+<color\=#ff3b37>페르소나 도감</color>에서 모든 페르소나의 상세정보를 조회할 수 있습니다.\n획득 경로, 페르소나 스토리, 페르소나 위치 지정, 속성 성장이 포함되어 있습니다.\n페르소나를 획득한 후 수록하면 <color\=#ff3b37>영감 포인트</color>를 수령할 수 있습니다.=Você pode visualizar informações detalhadas sobre todos os Personas no <color\=#ff3b37>Compendium de Personas</color>. Inclui caminho de aquisição, história do persona, designação de localização do persona e crescimento de atributos. Após adquirir um Persona, você pode receber <color\=#ff3b37>Pontos de Inspiração</color>.
+
+++ ----- Phantom Thieves - Inspiration ----- ++
+영감=Inspiração
+『영감』 설명=Descrição de 『Inspiração』
+영감을 활성화하면 페르소나 스킬 레벨을 올릴 수 있습니다.=Ao ativar a Inspiração, você pode aumentar o nível das habilidades da sua Persona.
+<color\=#FFD145>영감 증가</color>\n페르소나를 도감에 등록한 후 영감 포인트를 획득할 수 있습니다.\n영감 포인트를 사용하면 영감 스킬 레벨을 해제하고 올릴 수 있습니다.\n\n<color\=#FFD145>영감 리셋</color>\n영감 스킬은 영혼석을 소모하여 리셋할 수 있습니다.\n리셋 후 사용한 영감 포인트가 모두 반환됩니다.=<color\=#FFD145>Aumentar Inspiração</color>\nVocê pode adquirir Pontos de Inspiração após incluir uma Persona no compêndio.\nUsando Pontos de Inspiração, você pode desbloquear e aumentar o nível da habilidade de Inspiração.\n\n<color\=#FFD145>Reiniciar Inspiração</color>\nAs habilidades de Inspiração podem ser reiniciadas consumindo pedras da alma.\nApós o reset, todos os pontos de inspiração consumidos são devolvidos.
+다양한 영감 스킬의 패시브 효과를 활성화시켜 보세요!=Ative os efeitos passivos das várias habilidades de Inspiração!
+페르소나를 도감에 수록한 후 <color\=#ff3b37>영감 포인트</color>를 획득할 수 있습니다.\n영감 포인트를 사용하면 <color\=#ff3b37>영감 스킬 레벨</color>을 해제하고 올릴 수 있습니다.=<size\=27>Após registrar as personas no compêndio, você adquire <color\=#ff3b37>Pontos de Inspiração</color> que podem ser usados para desbloquear e aumentar o nível das <color\=#ff3b37>habilidades de Inspiração</color> que afetarão as habilidades do seu Ladrão Fantasma.</size>
+영혼석을 소모해 <color\=#ff3b37>영감 리셋</color>을 진행할 수 있습니다.\n리셋 후 소모한 영감 포인트가 모두 반환됩니다.=<color\=#ff3b37>Reiniciar Inspiração</color> consome Gemas da Alma. Após o reset, todos os pontos de inspiração gastos são devolvidos.
+「<color\=#ff3b37>이동</color>」하여 「<color\=#ff3b37>영감 포인트</color>」를 획득하세요.=「<color\=#ff3b37>Mover</color>」 para obter 「<color\=#ff3b37>Pontos de Inspiração</color>」.
+「<color\=#ff3b37>영감 스킬</color>」을 선택하세요.=Selecione 「<color\=#ff3b37>Habilidade de Inspiração</color>」.
+선택한 스킬을 「<color\=#ff3b37>활성화</color>」하세요.=「<color\=#ff3b37>Ativar</color>」 a habilidade selecionada.
+「<color\=#ff3b37>조회·페르소나</color>」를 선택하세요.=Selecione 「<color\=#ff3b37>Visualizar - Persona</color>」.
+「<color\=#ff3b37>등록</color>」해 영감 포인트를 획득합니다.=Ganhe pontos de inspiração ao 「<color\=#ff3b37>Registrar</color>」.
+
+++ ----- Tutorials Tutorial ----- ++
+튜토리얼=Tutoriais
+튜토리얼을 확인하고 이미 해제된 내용을 공부하세요!=Confira os tutoriais para estudar o que já foi desbloqueado!
+
+++ ----- Shop Tutorial ----- ++
+상점=Loja
+방금 마주친 수수께끼의 섀도는 우리에게 뭔가를 팔려고 하는 것 같았다. 지금 가서 확인해 보자.=The mysterious shadow we just encountered seemed to be trying to sell us something, let's go check it out now.
+
+++ ----- Events Tutorial ----- ++
+이벤트=Eventos
+지금 바로 한정 이벤트에 참여하고, 대량의 이계 엠버, 계약 증서, 커스텀 장식을 획득하세요!=Participe do evento exclusivo agora e ganhe grandes quantidades de Ember de Outro Mundo, Contratos, e personalizações!
+
+++++ ----- Metaverse ----- ++++
+
+오늘 2배 남은 횟수:=2x drops restantes hoje:
+
++++++ ----- Throw all Bin ----- +++++
+등록 가능=Registrável
+미등록=Não registrado
+보유: =Possuir: 
+r:"잔여 (\d+)일 (\d+)시간 (\d+)분"=$1D $2H $3M Restante
+협력자 버프=Buff de Confidentes
