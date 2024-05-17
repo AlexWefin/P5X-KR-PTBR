@@ -36,6 +36,8 @@ Se você estiver enfrentando problemas com a renderização do jogo ou o idioma 
 4. **No menu suspenso "Formato:", selecione "Inglês (Estados Unidos)".**
 5. **Clique em "Aplicar" e depois em "OK".**
 
+> **Nota:** Caso o idioma *“Inglês (Estados Unidos)”* não esteja aparecendo, não se preocupe. Basta seguir o tutorial abaixo que aí ele aparecerá.
+
 Para adicionar o teclado americano:
 
 1. **Abra o Painel de Controle.**
@@ -44,8 +46,6 @@ Para adicionar o teclado americano:
 4. **Clique em "Adicionar um idioma".**
 5. **Procure e selecione "Inglês (Estados Unidos)".**
 6. **Clique em "Adicionar" e depois em "OK".**
-
-Agora você deve ser capaz de alternar entre os idiomas de entrada usando a barra de idiomas na barra de tarefas do Windows.
 
 ## Imagens da Tradução em Funcionamento
 
