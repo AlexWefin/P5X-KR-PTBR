@@ -23,10 +23,6 @@ Um bug comum ao nosso idioma (não relacionado à tradução) é um problema na 
 1. Mude o Formato regional para "Inglês (Estados Unidos)".
 2. Reabra o Launcher e o jogo.
 
-![Formato Regional](https://i.imgur.com/Q0z6LXW.png)
-
-> **Nota:** O vídeo tutorial de instalação do jogo também aborda a correção desse bug, mas menciona erroneamente que é preciso mudar a região do jogo. A correção correta é apenas alterar o Formato Regional conforme descrito acima.
-
 ## Como Alterar o Formato Regional
 Se você estiver enfrentando problemas com a renderização do jogo, siga os passos abaixo:
 
@@ -36,6 +32,7 @@ Se você estiver enfrentando problemas com a renderização do jogo, siga os pas
 4. **No menu suspenso "Formato:", selecione "Inglês (Estados Unidos)".**
 5. **Clique em "Aplicar" e depois em "OK".**
 
+![Formato Regional](https://i.imgur.com/Q0z6LXW.png)
 > **Nota:** Caso o idioma *“Inglês (Estados Unidos)”* não esteja aparecendo, não se preocupe. Basta seguir o tutorial abaixo que aí ele aparecerá.
 
 Adicionando o teclado americano:
@@ -46,6 +43,8 @@ Adicionando o teclado americano:
 4. **Clique em "Adicionar um idioma".**
 5. **Procure e selecione "Inglês (Estados Unidos)".**
 6. **Clique em "Adicionar" e depois em "OK".**
+
+> **Nota:** O vídeo tutorial de instalação do jogo também aborda a correção desse bug, mas menciona erroneamente que é preciso mudar a região do jogo. A correção correta é apenas alterar o Formato Regional conforme descrito acima.
 
 ## Imagens da Tradução em Funcionamento
 
