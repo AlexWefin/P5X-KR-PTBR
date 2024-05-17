@@ -8,9 +8,7 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 
 ## Índice
 
-- [Avisos Importantes](#avisos-importantes)
-
-- [Links Úteis](#links-úteis)
+- [Avisos Importantes e Links Úteis](#avisos-importantes-e-links-úteis)
 
 - [Como Instalar](#como-instalar)
 
@@ -24,17 +22,13 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 
 ---
 
-## Avisos Importantes
+## Avisos Importantes e Links Úteis
 
 - **Esta tradução é um patch que requer a tradução original do [Piestudios](https://www.youtube.com/@PieStudios).**
+  - **Discord do Piestudios (Para baixar a tradução original):** [P5XWorldWide](https://discord.com/invite/P5XWorldWide)
 
 - **A tradução PTBR só funciona no servidor coreano do P5X.**
-
-## Links Úteis
-
-- **Servidor Coreano do P5X:** [p5x.perfectworld.com](https://p5x.perfectworld.com)
-
-- **Discord do Piestudios (Para baixar a tradução original):** [P5XWorldWide](https://discord.com/invite/P5XWorldWide)
+  - **Servidor Coreano do P5X:** [p5x.perfectworld.com](https://p5x.perfectworld.com)
 
 - **Tutorial de instalação do jogo (caso necessário):** [YouTube](https://youtu.be/7nVxXs_68DQ)
   > **Nota:** O vídeo acima também aborda a correção de um bug que você pode encontrar no jogo. No entanto, ele não apresenta a solução mais prática. Se possível, siga o tutorial detalhado mais abaixo.
@@ -110,3 +104,5 @@ Se você estiver enfrentando problemas de renderização durante as batalhas no 
 - **Futuras Atualizações:** Pretendo atualizar esta tradução e, se possível, criar um sistema de atualização automática ou um Discord para notificações. Por enquanto, a tradução é independente e se adapta automaticamente ao conteúdo em coreano.
 
 Espero que aproveitem a tradução e tenham uma excelente experiência no jogo!
+
+---
