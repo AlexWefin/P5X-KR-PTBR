@@ -5,7 +5,7 @@
 Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5X)**, exclusivamente para o servidor coreano (KR). Este patch foi desenvolvido com base na tradução original do Piestudios e utiliza inteligência artificial para traduzir todas as linhas do jogo. Embora não seja uma tradução perfeita ou profissional, ela é compreensível e funcional.
 
 ## Avisos Importantes
-- **Esta tradução é um patch que requer a tradução original do Piestudios.**
+- **Esta tradução é um patch que requer a tradução original do [Piestudios](https://www.youtube.com/@PieStudios).**
 - **A tradução PTBR só funciona no servidor coreano do P5X.**
 
 ### Links Úteis
