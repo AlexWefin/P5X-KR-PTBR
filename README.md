@@ -16,7 +16,7 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 
 - [Correção de Problemas de Renderização](#correção-de-problemas-de-renderização)
 
-- [Imagens da Tradução em Funcionamento](#imagens-da-tradução-em-funcionamento)
+- [Demonstração da Tradução](#demonstração-da-tradução)
 
 - [Informações Adicionais](#informações-adicionais)
 
