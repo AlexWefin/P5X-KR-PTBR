@@ -35,16 +35,27 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 
 ---
 
-## Como Instalar
+## Como Baixar
 
 1. **Baixe a tradução original do Piestudios** no Discord deles.
 
-2. **Baixe a Pasta `BepInEx` desse repositório.
+2. Patch em PTBR
+  - Clique no botão **'Code'** (Código) no canto superior direito da página.
+  - No menu suspenso, clique em **'Download ZIP'** (Baixar ZIP).
+  - Salve o arquivo ZIP no seu computador.
+  - Extraia o arquivo ZIP. A pasta do patch em ptbr estará disponível entre os arquivos extraídos.
 
-3. **Instale a tradução do Piestudios** seguindo o tutorial disponível no Discord.
+ **Nota:** Este processo baixará todo o repositório, que inclui o arquivo README (que é esse que você está lendo agora) e a pasta `BepInEx` (pasta do patch).
+
+
+---
+
+## Como Instalar
+
+1. **Instale a tradução do Piestudios** seguindo o tutorial disponível no Discord.
    > **Nota:** Atualmente a tradução se encontra no canal **#mod-updates-kr**
 
-4. **Aplique o patch PTBR** copiando a pasta `BepInEx` do patch para a mesma pasta onde você instalou a tradução do **Piestudios**. Atualmente o caminho é `P5X\client\pc`.
+2. **Aplique o patch PTBR** copiando a pasta `BepInEx` do patch para a mesma pasta onde você instalou a tradução do **Piestudios**. Atualmente o caminho é `P5X\client\pc`.
    > **Nota:** Substitua os arquivos conforme solicitado, caso contrário, o patch não funcionará corretamente.
 
 ---
