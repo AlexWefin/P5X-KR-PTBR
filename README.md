@@ -48,7 +48,7 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
     - Salve o arquivo ZIP no seu computador e extraia-o.
     - A pasta do patch em português estará disponível entre os arquivos extraídos.
 
-> **Nota:** Este processo baixará todo o repositório, que inclui o arquivo README (que é este que você está lendo agora) e a pasta `BepInEx` (pasta do patch).
+   > **Nota:** Este processo baixará todo o repositório, que inclui o arquivo README (que é este que você está lendo agora) e a pasta `BepInEx` (pasta do patch).
 
 ### Etapa 2: Instalar a Tradução e o Patch
 
