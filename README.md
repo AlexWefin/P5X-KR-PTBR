@@ -10,7 +10,7 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 
 - [Informações Essenciais](#informações-essenciais)
 
-- [Como Instalar](#como-instalar)
+- [Guia de Instalação do Patch em Português](#guia-de-instalação-do-patch-em-português)
 
 - [Tradução Automática do Mod](#tradução-automática-do-mod)
 
@@ -35,27 +35,26 @@ Bem-vindo ao repositório da tradução PTBR para **Persona 5: The Phantom X (P5
 
 ---
 
-## Como Baixar
+## Guia de Instalação do Patch em Português
+
+### Etapa 1: Baixar os Arquivos Necessários
 
 1. **Baixe a tradução original do Piestudios** no Discord deles.
-
-2. Patch em PTBR
-  - Clique no botão **'Code'** (Código) no canto superior direito da página.
-  - No menu suspenso, clique em **'Download ZIP'** (Baixar ZIP).
-  - Salve o arquivo ZIP no seu computador.
-  - Extraia o arquivo ZIP. A pasta do patch em ptbr estará disponível entre os arquivos extraídos.
-
- **Nota:** Este processo baixará todo o repositório, que inclui o arquivo README (que é esse que você está lendo agora) e a pasta `BepInEx` (pasta do patch).
-
-
----
-
-## Como Instalar
-
-1. **Instale a tradução do Piestudios** seguindo o tutorial disponível no Discord.
    > **Nota:** Atualmente a tradução se encontra no canal **#mod-updates-kr**
 
-2. **Aplique o patch PTBR** copiando a pasta `BepInEx` do patch para a mesma pasta onde você instalou a tradução do **Piestudios**. Atualmente o caminho é `P5X\client\pc`.
+2. **Baixe o patch em português** neste repositório:
+    - Clique no botão **'Code'** (Código) no canto superior direito da página.
+    - No menu suspenso, clique em **'Download ZIP'** (Baixar ZIP).
+    - Salve o arquivo ZIP no seu computador e extraia-o.
+    - A pasta do patch em português estará disponível entre os arquivos extraídos.
+
+> **Nota:** Este processo baixará todo o repositório, que inclui o arquivo README (que é este que você está lendo agora) e a pasta `BepInEx` (pasta do patch).
+
+### Etapa 2: Instalar a Tradução e o Patch
+
+1. **Instale a tradução do Piestudios** seguindo o tutorial disponível no Discord deles.
+
+2. **Aplique o patch em português** copiando a pasta `BepInEx` do patch para a mesma pasta onde você instalou a tradução do **Piestudios**. Atualmente o caminho é `P5X\client\pc`.
    > **Nota:** Substitua os arquivos conforme solicitado, caso contrário, o patch não funcionará corretamente.
 
 ---
