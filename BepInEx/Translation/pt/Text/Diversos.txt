@@ -1,76 +1,76 @@
 클라이언트 버전: 1.0.2  게임 버전: 1.2  리소스: P228.E1079.C581296.L581150=Versão do cliente: 1.0.2 Versão do jogo: 1.2 Recurso: P228.E1079.C581296.L581150
-「벨벳 룸 시련」, 「마음의 바다 시련」, 「흉몽의 문」에서 적용되지 않습니다.=Não funciona em "Velvet Room Trials", "Sea of Mind Trials" e "Nightmare Gate".
-예약 100만 달성 보상=Recompensas por atingir 1 milhão de reservas
-P5X 운영팀=Equipa de operações do P5X
+「벨벳 룸 시련」, 「마음의 바다 시련」, 「흉몽의 문」에서 적용되지 않습니다.=Não se aplica a "Provações da Sala de Veludo", "Provações do Mar da Mente" e "Portão do Pesadelo".
+예약 100만 달성 보상=Recompensas por alcançar 1 milhão de reservas
+P5X 운영팀=Equipe de operações do P5X
 유효기간: 2025-1-2=Expira: 2025-1-2
-공식 홈페이지 사전예약 100만을 달성하여 보상을 드립니다.\n첨부된 아이템를 확인해 주세요.\n감사합니다.=Receberá uma recompensa se atingir 1 milhão de pré-encomendas no sítio Web oficial. Por favor, verifique o item em anexo, obrigado.
-사전예약 100만 달성 보상=Recompensas por atingir 1 milhão de pré-encomendas
+공식 홈페이지 사전예약 100만을 달성하여 보상을 드립니다.\n첨부된 아이템를 확인해 주세요.\n감사합니다.=Você receberá uma recompensa por alcançar 1 milhão de pré-reservas no site oficial. Por favor, verifique o item anexado. Obrigado.
+사전예약 100만 달성 보상=Recompensas por alcançar 1 milhão de pré-reservas
 229일 후 기한 만료=Expira em 229 dias
-서버 점검 업데이트 완료 안내=Anúncio da conclusão da atualização de manutenção do servidor
-5일 후 기한 만료=Prazo de entrega: 5 dias
-서버 점검 연장 보상=Prémios de manutenção alargada do servidor
-캐릭터 스토리 설문조사=Inquérito sobre histórias de personagens
-서버 점검 업데이트가 완료되었습니다.\n괴도님께서는 아래 보상을 수령해 주시기 바랍니다! \n보상 내용: 이계 엠버*300 \n수령 시간: 2024/5/22 24:00:00 까지\n\n감사합니다.=A atualização de manutenção do servidor foi concluída. Por favor, reclame a sua recompensa abaixo! Recompensa: Ember de outro mundo*300 até 22 de maio de 2024 24:00:00\n\nObrigado.
-유효기간: 2024-5-23=Prazo de validade: 23 de maio de 2024
- 점검 업데이트 완료 안내= Anúncio da conclusão de uma atualização de manutenção
-서버 점검 연장에 대한 보상을 전달드립니다.\n보상 내용: 이계 엠버*200\n수령 시간: 2024/5/22 24:00:00 까지\n\n이용에 불편함을 드려 죄송합니다.=Vamos entregar uma compensação pela manutenção prolongada do servidor. Conteúdo da compensação: Ethereum*200 Tempo de resgate: até 22 de maio de 2024 24:00:00\n\nPedimos desculpa por qualquer inconveniente que isto possa causar.
- 점검 연장 보상= Compensação de manutenção alargada
-설문조사를 통해 게임에 대한 평가를 진행해 주시면, 전달해 주신 피드백에 따라 최적화를 진행할 수 있도록 하겠습니다.\n설문 정보는 게임에 대한 참고 자료로만 사용되고, 외부에 공개하지 않을 것을 약속드립니다. \n설문조사 완료 후 보상으로 「이계 엠버」*300을 전달드립니다..\n\n<link\="sdk|https:\/\/survey.perfectworldgames.com/survey/full/QjqQra"><u><color\=#0f69ca>설문조사로 이동</color></u></link>=Por favor, preencha o inquérito para avaliar o jogo, para que possamos optimizá-lo de acordo com os seus comentários. Prometemos que as informações do inquérito serão utilizadas apenas como referência para o jogo e não serão divulgadas ao mundo exterior. Depois de preencher o inquérito, receberá 300 Ether Ember como recompensa.\n\n<link\="sdk|https:\/\/survey.perfectworldgames.com/survey/full/QjqQra"><u><color\=#0f69ca>Ir para o inquérito</color></u></link>
-유효기간: 2024-5-22=Data de expiração: 22 de maio de 2024
-터 스토리 설문조사=Inquérito sobre torniquetes
+서버 점검 업데이트 완료 안내=Aviso de conclusão da atualização de manutenção do servidor
+5일 후 기한 만료=Expira em 5 dias
+서버 점검 연장 보상=Recompensas pela extensão da manutenção do servidor
+캐릭터 스토리 설문조사=Pesquisa de história do personagem
+서버 점검 업데이트가 완료되었습니다.\n괴도님께서는 아래 보상을 수령해 주시기 바랍니다! \n보상 내용: 이계 엠버*300 \n수령 시간: 2024/5/22 24:00:00 까지\n\n감사합니다.=A atualização de manutenção do servidor foi concluída. Por favor, receba sua recompensa abaixo! Recompensa: Ember de outro mundo*300 até 22 de maio de 2024 24:00:00\n\nObrigado.
+유효기간: 2024-5-23=Expira: 23 de maio de 2024
+ 점검 업데이트 완료 안내= Aviso de conclusão da atualização de manutenção
+서버 점검 연장에 대한 보상을 전달드립니다.\n보상 내용: 이계 엠버*200\n수령 시간: 2024/5/22 24:00:00 까지\n\n이용에 불편함을 드려 죄송합니다.=Estamos entregando uma recompensa pela extensão da manutenção do servidor. Conteúdo da recompensa: Ember de outro mundo*200 Tempo de recebimento: até 22 de maio de 2024 24:00:00\n\nPedimos desculpas por qualquer inconveniente.
+ 점검 연장 보상= Recompensa pela extensão da manutenção
+설문조사를 통해 게임에 대한 평가를 진행해 주시면, 전달해 주신 피드백에 따라 최적화를 진행할 수 있도록 하겠습니다.\n설문 정보는 게임에 대한 참고 자료로만 사용되고, 외부에 공개하지 않을 것을 약속드립니다. \n설문조사 완료 후 보상으로 「이계 엠버」*300을 전달드립니다..\n\n<link\="sdk|https:\/\/survey.perfectworldgames.com/survey/full/QjqQra"><u><color\=#0f69ca>Ir para a pesquisa</color></u></link>=Se você realizar uma avaliação do jogo através da pesquisa, poderemos otimizar de acordo com o feedback que você forneceu. As informações da pesquisa serão usadas apenas como referência para o jogo e prometemos não divulgá-las externamente. Após a conclusão da pesquisa, entregaremos a você como recompensa "Ember de outro mundo"*300.\n\n<link\="sdk|https:\/\/survey.perfectworldgames.com/survey/full/QjqQra"><u><color\=#0f69ca>Ir para a pesquisa</color></u></link>
+유효기간: 2024-5-22=Expira: 22 de maio de 2024
+터 스토리 설문조사=Pesquisa de história do torniquete
 조건 미달=Não qualificado
-푸<color\=#000000>른</color> 잎=푸<color\=#000000>른</color> folha
-얼<color\=#000000>음</color> 결정=얼<color\=#000000>음</color> Determinar
-<color\=#FFFF00>1명</color>의 적에게 공격력 99.4%의 총격 속성 대미지를 주고, 75%의 고정 확률로 적이 『조준』을 획득한다.=<color\=#FFFF00>1</color>causa 99,4% de Dano de Ataque aos inimigos como Tiro, com 75% de hipótese fixa de conceder Mira ao inimigo.
+푸<color\=#000000>른</color> 잎=Folha <color\=#000000>verde</color>
+얼<color\=#000000>음</color> 결정=Decisão <color\=#000000>gelada</color>
+<color\=#FFFF00>1명</color>의 적에게 공격력 99.4%의 총격 속성 대미지를 주고, 75%의 고정 확률로 적이 『조준』을 획득한다.=Causa dano de atributo de tiro de 99,4% do ataque a <color\=#FFFF00>1</color> inimigo, e com uma probabilidade fixa de 75%, o inimigo adquire "Mira".
 얼음 결정 수=Número de cristais de gelo
 얼음 결정=Cristais de gelo
 7층=7º andar
 영구=Permanente
  실드= Escudos
-<color\=#FFFF00>모든</color> 동료가 2턴 동안 방어력 18.8%+76의 실드를 획득하고, SP를 4포인트 회복한다. 실드가 깨지면 서포트 괴도의 준비 시간이 1턴 감소한다.=<color\=#FFFF00>Tudo</color> Os aliados ganham um Escudo com 18,8%+76 de Armadura por 2 turnos e recuperam 4 PS. Se o Escudo for quebrado, o Tempo de Preparação dos Goondas de Apoio é reduzido em 1 turno.
+<color\=#FFFF00>모든</color> 동료가 2턴 동안 방어력 18.8%+76의 실드를 획득하고, SP를 4포인트 회복한다. 실드가 깨지면 서포트 괴도의 준비 시간이 1턴 감소한다.=<color\=#FFFF00>Todos</color> os colegas ganham um escudo de 18,8%+76 de defesa por 2 turnos e recuperam 4 pontos de SP. Se o escudo quebrar, o tempo de preparação do Phantom Thief de suporte é reduzido em 1 turno.
 해당 스킬은 10레벨에 해제됩니다=Esta habilidade é desbloqueada no nível 10
 떠도는 섀도가 매일 수령할 수 있는 보상에는 상한선이 존재합니다.=Existe um limite máximo para as recompensas que uma sombra flutuante pode receber por dia.
-로열 사벨=Royal Sabell
+로열 사벨=Sabre Real
 쇄분동=Triturador
 칼날의 춤=Dança das Lâminas
-아무 곳이나 눌러 닫기=Toque em qualquer sítio para fechar
-와일드 각성 필요=Requer o Despertar Selvagem
+아무 곳이나 눌러 닫기=Toque em qualquer lugar para fechar
+와일드 각성 필요=Despertar Selvagem necessário
 최대 레벨=Nível máximo
-음~ 지금 당장은 갈 수 없을 것 같아.\n일단 눈앞의 일에 집중해!=Hmm~ Acho que não posso ir agora. Concentra-te na tarefa que tens em mãos!
+음~ 지금 당장은 갈 수 없을 것 같아.\n일단 눈앞의 일에 집중해!=Hmm~ Acho que não posso ir agora. Concentre-se na tarefa em mãos!
 남은 횟수: 10/50=Número de vezes restantes: 10/50
 일일=Diário
-내일 수령=Levantamento amanhã
-마루치무는 안에 무서운 거 안 넣어놨는데~?=A Maruchimu não pôs nada assustador lá dentro~?
-바다 소나=Sonar marítimo
-철컥곰·브라운=Castanho-ferro
-정말 이거 살 거야?=Tens a certeza que queres comprar isto?
-15일 후 리셋=Reposição após 15 dias
+내일 수령=Receber amanhã
+마루치무는 안에 무서운 거 안 넣어놨는데~?=Maruchimu não colocou nada assustador lá dentro~?
+바다 소나=Sonar Marinho
+철컥곰·브라운=Urso de Ferro·Marrom
+정말 이거 살 거야?=Você realmente vai comprar isso?
+15일 후 리셋=Reset em 15 dias
 월간=Mensal
-6일 후 판매 종료=Fim da venda após 6 dias
-13일 후 판매 종료=A venda termina após 13 dias
-일반 계약=Contratos gerais
-무기 보급=Fornecimento de armas
-5성 픽업 캐릭터 확률:=Possibilidade de uma personagem 5 estrelas:
-4성 픽업 무기 확률:=Hipótese de arma de recolha de 4 estrelas:
-<color\=#EADE10>「계약으로 5성, 4성 괴도와 일부 하급 2성 페르소나를 획득할 수 있습니다.」</color>\n「괴도 또는 페르소나는 모두 캐릭터로 지칭합니다.」=<color\=#EADE10>"Os contratos concedem Kaiju de 5 e 4 estrelas e algumas Personas de 2 estrelas inferiores."</color>\n"Tanto os Kaiju como as Personas são referidos como personagens."
-<color\=#EADE10>「괴도 아이돌X」</color>은 영구 계약으로, <color\=#EADE10>「캐릭터 일반 계약」</color>에 속합니다. 플레이어는 <color\=#EADE10>「미래의 운명」</color>을 사용해 계약을 진행할 수 있습니다. 해당 계약의 천장 메커니즘은 독립되어 있으며, 기타 유형의 계약과 공유하지 않습니다.\n<sprite\=0 tint\=1>계약 <color\=#EADE10>10</color>회마다 천장을 통해 최소 1명의 4성 이상 캐릭터를 확정 획득합니다.\n<sprite\=0 tint\=1>계약 <color\=#EADE10>80</color>회마다 천장을 통해 5성 캐릭터를 확정 획득합니다.\n<sprite\=0 tint\=1>스토리의 가이드 중 진행하는 계약은 「코토네·몽타뉴」가 확정 출현하며, 총 계약 횟수에 포함되지 않습니다.=<color\=#EADE10>"Kaiju Idol X"</color>é um contrato permanente, <color\=#EADE10>"Contrato Geral do Personagem</color>Os jogadores poderão escolher <color\=#EADE10>"Destino Futuro</color>A mecânica do teto destes contratos é independente e não é partilhada com outros tipos de contratos.\n<sprite\=0 tint\=1>Contratos <color\=#EADE10>10</color>Obter pelo menos uma personagem de 4 estrelas ou superior através do teto em cada ronda.\n<sprite\=0 tint\=1>Contratos <color\=#EADE10>80</color>Obter uma personagem de 5 estrelas do teto de cada vez.\n<sprite\=0 tint\=1>Os contratos efectuados durante o guia da história resultarão numa aparição confirmada de Kotone-Montagne e não estão incluídos no número total de contratos.
-이번 <color\=#EADE10>「괴도 아이돌X」</color> 계약에서 5성, 4성 획득 확률은 다음과 같습니다.\n<sprite\=0 tint\=1>5성 캐릭터의 기본 확률은 <color\=#EADE10>0.8%</color>, 종합 확률(천장 포함)은 <color\=#EADE10>1.8%</color>입니다.\n<sprite\=0 tint\=1>4성 캐릭터의 기본 확률은 <color\=#EADE10>6.2%</color>, 종합 확률은 <color\=#EADE10>13.12%</color>입니다.=Desta vez <color\=#EADE10>"Kaiju Idol X"</color> a probabilidade de obter 5 estrelas e 4 estrelas é a seguinte.\n<sprite\=0 tint\=1>A probabilidade base para personagens de 5 estrelas é <color\=#EADE10>0.8%</color>e a probabilidade total (incluindo o limite máximo) é de <color\=#EADE10>1.8%</color>incluindo os tectos.\n<sprite\=0 tint\=1>Uma personagem de 4 estrelas tem uma probabilidade base de <color\=#EADE10>6.2%</color>e uma probabilidade composta de <color\=#EADE10>13.12%</color>. Responsável pela orientação.
-<sprite\=0 tint\=1><color\=#EADE10>메인 스토리 확장 캐릭터 설명</color>\n「다음 4성 캐릭터는 특정 메인 임무를 완료한 후, 계약을 통해 획득할 수 있습니다.」\n루페르(추가됨)|아라이 모토하|카노 슌=<sprite\=0 tint\=1><color\=#EADE10>Descrições das personagens da expansão da história principal</color>\n`` Os quatro caracteres da estrela seguinte podem ser obtidos através do contrato após a conclusão da missão principal específica.
+6일 후 판매 종료=Venda termina em 6 dias
+13일 후 판매 종료=Venda termina em 13 dias
+일반 계약=Contratos regulares
+무기 보급=Suprimento de armas
+5성 픽업 캐릭터 확률:=Probabilidade de personagem 5 estrelas:
+4성 픽업 무기 확률:=Probabilidade de arma 4 estrelas:
+<color\=#EADE10>「계약으로 5성, 4성 괴도와 일부 하급 2성 페르소나를 획득할 수 있습니다.」</color>\n「괴도 또는 페르소나는 모두 캐릭터로 지칭합니다.」=<color\=#EADE10>"Os contratos concedem Phantom Thieves de 5 e 4 estrelas e algumas Personas de 2 estrelas inferiores."</color>\n"Tanto os Phantom Thieves como as Personas são referidos como personagens."
+<color\=#EADE10>「괴도 아이돌X」</color>은 영구 계약으로, <color\=#EADE10>「캐릭터 일반 계약」</color>에 속합니다. 플레이어는 <color\=#EADE10>「미래의 운명」</color>을 사용해 계약을 진행할 수 있습니다. 해당 계약의 천장 메커니즘은 독립되어 있으며, 기타 유형의 계약과 공유하지 않습니다.\n<sprite\=0 tint\=1>계약 <color\=#EADE10>10</color>회마다 천장을 통해 최소 1명의 4성 이상 캐릭터를 확정 획득합니다.\n<sprite\=0 tint\=1>계약 <color\=#EADE10>80</color>회마다 천장을 통해 5성 캐릭터를 확정 획득합니다.\n<sprite\=0 tint\=1>스토리의 가이드 중 진행하는 계약은 「코토네·몽타뉴」가 확정 출현하며, 총 계약 횟수에 포함되지 않습니다.=<color\=#EADE10>"Phantom Thief Idol X"</color> é um contrato permanente, <color\=#EADE10>"Contrato Geral de Personagem"</color>Os jogadores podem usar <color\=#EADE10>"Destino do Futuro"</color> para fazer o contrato. A mecânica do teto deste contrato é independente e não é compartilhada com outros tipos de contratos.\n<sprite\=0 tint\=1>Contrato <color\=#EADE10>10</color> vezes para garantir pelo menos um personagem de 4 estrelas ou mais através do teto.\n<sprite\=0 tint\=1>Contrato <color\=#EADE10>80</color> vezes para garantir um personagem de 5 estrelas através do teto.\n<sprite\=0 tint\=1>Os contratos feitos durante o guia da história resultarão em uma aparição confirmada de "Kotone·Montagne" e não estão incluídos no número total de contratos.
+이번 <color\=#EADE10>「괴도 아이돌X」</color> 계약에서 5성, 4성 획득 확률은 다음과 같습니다.\n<sprite\=0 tint\=1>5성 캐릭터의 기본 확률은 <color\=#EADE10>0.8%</color>, 종합 확률(천장 포함)은 <color\=#EADE10>1.8%</color>입니다.\n<sprite\=0 tint\=1>4성 캐릭터의 기본 확률은 <color\=#EADE10>6.2%</color>, 종합 확률은 <color\=#EADE10>13.12%</color>입니다.=Neste <color\=#EADE10>"Phantom Thief Idol X"</color> contrato, a probabilidade de obter 5 estrelas e 4 estrelas é a seguinte.\n<sprite\=0 tint\=1>A probabilidade base para personagens de 5 estrelas é <color\=#EADE10>0.8%</color>, e a probabilidade total (incluindo o teto) é <color\=#EADE10>1.8%</color>.\n<sprite\=0 tint\=1>Um personagem de 4 estrelas tem uma probabilidade base de <color\=#EADE10>6.2%</color>, e a probabilidade total é <color\=#EADE10>13.12%</color>.
+<sprite\=0 tint\=1><color\=#EADE10>메인 스토리 확장 캐릭터 설명</color>\n「다음 4성 캐릭터는 특정 메인 임무를 완료한 후, 계약을 통해 획득할 수 있습니다.」\n루페르(추가됨)|아라이 모토하|카노 슌=<sprite\=0 tint\=1><color\=#EADE10>Descrição dos personagens da expansão da história principal</color>\n`` Os seguintes personagens de 4 estrelas podem ser obtidos através do contrato após a conclusão de uma missão principal específica.
 현재 5성 천장 진행도: 0/80=Progresso atual do teto de 5 estrelas: 0/80
 0/0 페이지=Página 0 de 0
-결과 조회에는 최근 90일의 계약 정보만 저장됩니다.=A pesquisa resultante apenas armazena informações sobre contratos dos últimos 90 dias.
+결과 조회에는 최근 90일의 계약 정보만 저장됩니다.=A pesquisa de resultados só armazena informações de contratos dos últimos 90 dias.
 현재 천장 진행도: 0/80=Progresso atual do teto: 0/80
-이벤트 계약=Contratos de eventos
+이벤트 계약=Contratos de evento
 계약 시간=Duração do contrato
-계약 유형=Tipos de contratos
-보상 이름=Nome do prémio
-<color\=#FF0000>미야시타 미나미</color>님이 암리타를 획득했습니다...=<color\=#FF0000>Minami Miyashita</color>ganhou o prémio Amrita...
-보상 유형=Tipos de prémios
-계약 기록=Histórico do contrato
+계약 유형=Tipos de contrato
+보상 이름=Nome da recompensa
+<color\=#FF0000>미야시타 미나미</color>님이 암리타를 획득했습니다...=<color\=#FF0000>Minami Miyashita</color> ganhou o prêmio Amrita...
+보상 유형=Tipos de recompensa
+계약 기록=Histórico de contratos
 「픽업 또는 천장 규칙이 발동하지 않을 시 모든 캐릭터는 기본 획득 확률을 배분받습니다.」\n<sprite\=0 tint\=1><color\=#EADE10>5성 캐릭터</color>\n기본 확률: 0.8%(천장 포함 종합 계약 성공 확률: 1.8%)\n사카모토 류지|모르가나|리 야오링|타카마키 안|니시모리 하루나\n\n<sprite\=0 tint\=1><color\=#EADE10>4성 캐릭터</color>           \n기본 확률: 6.2%(천장 포함 종합 계약 성공 확률: 13.12%)\n카미야마 레오|토미야마 카요|노게 토모코|쿠로타니 키요시|후지카와 유키미|시라토리 세이지|스미 토시야|코토네 몽타뉴|사하라 미유\n\n<sprite\=0 tint\=1><color\=#EADE10>2성 캐릭터</color>           \n기본 확률: 93%\n잭 오 랜턴|아가시온|바이콘|모코이|주작|스다마|픽시|이누가미|맨드레이크|마카미|하이픽시|화백|코로포클|콧파텐구|온모라키|잇폰다타라|오로바스|네코마타|아프사라스|코다마|시사|켈피|사키미타마|안드라스|슬라임|니기미타마|쿠시미타마="Todas as personagens têm uma taxa de obtenção de base quando as regras de recolha ou de limite máximo não são activadas."\n<sprite\=0 tint\=1><color\=#EADE10>5 estrelas</color>\nProbabilidade de base: 0,8% (taxa de sucesso de contrato abrangente com limite máximo: 1,8%) Sakamoto Ryuji|Morgana|Li Yao Ling|Takamaki An|Nishimori Haruna\n\n<sprite\=0 tint\=1><color\=#EADE10>Personagem de 4 estrelas</color>           \nProbabilidade básica: 6,2% (taxa de sucesso total do contrato incluindo o teto: 13,12%) Leo Kamiyama|Kayo Tomiyama|Tomoko Noge|Kiyoshi Kurotani|Yukimi Fujikawa|Seiji Shiratori|Toshiya Sumi|Montagne Kotone|Miyu Sahara\n\n<sprite\=0 tint\=1><color\=#EADE10>Personagens de 2 estrelas</color>           \nProbabilidade base: 93% Jack o' Lanterns|Agathion|Bicorn|Mokoi|Juzak|Sudama|Pixie|Inugami|Mandrake|Makami|High Pixie|White|Coropocle|Koppatengu|Onmoraki|Ipondatara|Orobas|Nekomata|Apsaras|Kodama|Shisa|Kelpie|Sakimitama|Andras|Slime|Nigimitama|Kushimitama
 모든 방법을 통해(계약, 상점 교환, 시스템 교환 등)\n<sprite\=0 tint\=1><color\=#EADE10>2~7</color>번째로 같은 5성 괴도 획득 시 매번 <color\=#EADE10>해당 괴도의 「의식 파편」</color> <color\=#EADE10>1</color>개로 전환되며, 동시에 <color\=#EADE10>30</color>개의 <color\=#EADE10>「인지 단면」</color>을 부산물로 획득합니다. <color\=#EADE10>8</color>번째 이후에 같은 5성 괴도 획득 시 <color\=#EADE10>75</color>개의 <color\=#EADE10>「인지 단면」</color>을 획득합니다.\n<sprite\=0 tint\=1><color\=#EADE10>2~7</color>번째로 같은 4성 괴도 획득 시 매번 <color\=#EADE10>해당 괴도의 「의식 파편」</color> <color\=#EADE10>1</color>개로 전환되며, 동시에 <color\=#EADE10>6</color>개의 <color\=#EADE10>「인지 단면」</color>을 부산물로 획득합니다. <color\=#EADE10>8</color>번째 이후에 같은 4성 괴도 획득 시 <color\=#EADE10>15</color>개의 <color\=#EADE10>「인지 단면」</color>을 획득합니다.\n<sprite\=0 tint\=1><color\=#EADE10>2</color>회 이상 2성 페르소나 획득 시 매번 해당 페르소나의 <color\=#EADE10>「표식」</color>으로 전환됩니다.\n\n계약을 통해\n<sprite\=0 tint\=1>2성 페르소나를 획득할 시 부산물로 <color\=#EADE10>「인지 파편」</color> <color\=#EADE10>30</color>개를 획득합니다.\n\n<color\=#EADE10>「캐릭터 일반 계약」</color>에서 계약이 <color\=#EADE10>300</color>회에 도달하면 아래 5성 괴도 중 <color\=#EADE10>1</color>명을 선택하여 획득할 수 있습니다(해당 300회 선택 획득은 1회만 적용).\n사카모토 류지|모르가나|리 야오링|타카마키 안|니시모리 하루나=Através de qualquer método (contrato, troca de loja, troca de sistema, etc.)\n<sprite\=0 tint\=1><color\=#EADE10>2~7</color>Sempre que adquirires o mesmo Kaiju de 5 estrelas pela segunda vez, receberás <color\=#EADE10>Fragmento de Consciência desse Kaiju</color> <color\=#EADE10>1</color>dos fragmentos de consciência desse monstro, e ao mesmo tempo <color\=#EADE10>30</color>個 <color\=#EADE10>"Secções Cognitivas</color>como um subproduto. <color\=#EADE10>8</color>e aquisições posteriores do mesmo monstro de 5 estrelas <color\=#EADE10>75</color>個 <color\=#EADE10>"Secções Cognitivas</color>para o mesmo Tuber de 5 estrelas.\n<sprite\=0 tint\=1><color\=#EADE10>2~7</color>Cada segunda vez que adquirires o mesmo Kaiju de 4 estrelas, receberás <color\=#EADE10>Fragmento de Consciência desse Kaiju</color> <color\=#EADE10>1</color>dos fragmentos de consciência desse monstro, e ao mesmo tempo <color\=#EADE10>6</color>個 <color\=#EADE10>"Secções Cognitivas</color>como um subproduto. <color\=#EADE10>8</color>quando se adquire o mesmo Monstro de 4 Estrelas após <color\=#EADE10>15</color>個 <color\=#EADE10>"Secções Cognitivas</color>para o mesmo Tuber de 5 estrelas.\n<sprite\=0 tint\=1><color\=#EADE10>2</color>vezes, cada vez que ganhares uma Persona de 2 estrelas, ganharás as "Marcas" dessa Persona. <color\=#EADE10>"Marcador</color>para essa persona de cada vez.\n\nAtravés de um contrato\n<sprite\=0 tint\=1>Ao adquirires uma Persona de 2 estrelas, receberás um subproduto de <color\=#EADE10>"Fragmentos Cognitivos</color> <color\=#EADE10>30</color>Fragmentos Cognitivos como subproduto.\n\n<color\=#EADE10>"Contrato Geral do Personagem</color>O contrato foi aumentado para <color\=#EADE10>300</color>contratos, ser-lhe-á atribuído <color\=#EADE10>1</color>dos seguintes Kaiju de 5 estrelas (esta aquisição de 300 escolhas só será aplicada uma vez): Sakamoto Ryuji|Morgana|Li Yao Ling|Takamaki An|Nishimori Haruna
 <color\=#FF0000>아라이 모토하</color>이(가) 망각 상태에 진입했습니다...=<color\=#FF0000>Motoha Arai</color>entrou no esquecimento...
-<color\=#FF0000>Wefin</color>이(가) 망각 상태에 진입했습니다...=<color\=#FF0000>Wefin</color>entrou no esquecimento...
+<color\=#FF0000>$1</color>이(가) 망각 상태에 진입했습니다...=<color\=#FF0000>$1</color>entrou no esquecimento...
 팀원이 망각 이상 상태에 빠졌어. 어서 <color\=#FF0000>미야시타 미나미</color>의 <color\=#FF0000>치유 축복</color> 스킬로 팀원을 도와줘!!=O teu colega de equipa entrou em amnésia, vá lá <color\=#FF0000>Minami Miyashita</color>의 <color\=#FF0000>Bênção de Cura</color> para ajudar o teu colega de equipa!
 봄의 은혜=A Graça da primavera
 치유의 축복=Bênçãos de cura
@@ -112,7 +112,7 @@ P5X 운영팀=Equipa de operações do P5X
 레이즈 슬래시=Levantar corte
 HIGHLIGHT!\n속전속결로 가는 거야!=Destaque! Estamos a ir depressa!
 <color\=#FFFF00>1명</color>의 적에게 공격력 240.0%의 빙결 대미지를 주고, 적의 생명이 낮을수록 받는 대미지가 커진다. 적의 생명이 20% 미만일 시 최고 보너스를 획득하고, 최대 30% 증가한다.=<color\=#FFFF00>1</color>recebe 240.0% de Dano de Ataque como Congelamento, sendo que quanto menor a vida do inimigo, maior o dano causado. Ganha bônus máximo quando o inimigo está com menos de 20% de vida, até 30%.
-<color\=#FF0000>Wefin</color>이(가) 현기증 이상 상태에서 회복되었습니다.=<color\=#FF0000>Wefin</color>recuperou do problema de tonturas.
+<color\=#FF0000>$1</color>이(가) 현기증 이상 상태에서 회복되었습니다.=<color\=#FF0000>$1</color>recuperou do problema de tonturas.
 탁월한 통찰력=Conhecimentos sem paralelo
 카운트다운: =Contagem decrescente: 
 메일 계정 연동하기=Ligação de contas de correio
@@ -1303,3 +1303,540 @@ SNS 열기=SNS aberto
 교환코드를 입력하세요=Digite o código do Exchange
 게임을 종료하시겠습니까?=Você gostaria de terminar o jogo?
 도움말=Ajuda
+와일드 능력 발견 시 두 번째 슬롯이 해제됩니다.=A segunda ranhura é libertada quando é encontrada uma habilidade selvagem.
+전방의 소용돌이가 다른 곳으로 갈 것 같으니 가서 확인해 보자.=O vórtice à nossa frente parece estar a ir para outro sítio, por isso vamos lá ver.
+바로 여기야...\n원더, 다음 계획은 뭐야?=É tudo... O que é que se segue?
+모토하와 키우치의 만남=Motoha encontra-se com Kiuchi
+붉은 소용돌이를 향해 전진해라=Avançar em direção ao vórtice vermelho
+야구장 정문으로 이동해라=Dirigir-se à entrada principal do estádio
+숨겨진 입구를 찾아라=Encontrar a entrada oculta
+욘겐자야로 이동해라=Aceder a Yongenjaya
+욘겐자야라~ 옛날에 달링이랑 같이 살기로\n했는데~ 둘 다 돈이 없지 않았겠어?=Yongenjayara~ Tu e o Darling deviam ter vivido juntos em tempos~ Estavam ambos falidos, não estavam?
+그래서 중고 잡화점에 갔는데~\n어떤 냉장고로 할 것인지로 대판 싸웠지 뭐야~=Por isso, fui a uma loja de segunda mão e tivemos uma grande discussão sobre que frigorífico comprar.
+난 제빙기가 있는 게 좋다고 했는데~\n달링이 『핑크색이라서 싫다』고 하더라고~=Eu disse que gostava do que tinha máquina de fazer gelo - a Darling disse: "Não gosto porque é cor-de-rosa".
+그래도 결국 달링이 져 줬어~ 앞으로 잘 살 수\n있을까 하는 생각까지 들었었는데…=Mas, no final, o Querido deu-mo~ Até pensei que poderia viver bem no futuro...
+이 여자를 말리는 건 나에겐 불가능할 것 같다.\n…너에겐 미안하지만, 자신의 힘으로 대응해 줘.=Não me parece que seja possível impedi-la. ... Tenho pena de ti, mas terás de lidar com ela com as tuas próprias forças.
+달링이 오늘은 정시 퇴근을 한다고 했거든~\n그럼 안녕~=A Darling disse que hoje chega a horas ao trabalho, por isso, adeusinho.
+중고 잡화점으로 이동해라=Ir a uma loja de segunda mão
+중<color\=#ff0000ff>고</color> 잡화점=중<color\=#ff0000ff>고</color> Armazém geral
+보유=Manutenção
+집으로 돌아가라=Ir para casa
+이노가미역으로 이동해라=Dirigir-se à estação de Inogami
+침실로 이동해라=Ir para o quarto
+침실=Quarto de dormir
+황동=Latão
+알루미늄 판=Placa de alumínio
+수은=Mercúrio
+플라스틱=Plástico
+잘 보고 구매해야 돼~=Cuidado com o que desejas~.
+Lv.35 구매 해제=Nível 35 Não comprado
+Lv.30 구매 해제=Lv.30 Não comprado
+Lv.20 구매 해제=Descomprar Lv.20
+작업대를 사용하여 와이어를 만들자.=Utilize a bancada de trabalho para criar o fio.
+이미지를 길게 누르면 상세정보를 조회할 수 있습니다.=Prima sem soltar uma imagem para ver os respectivos detalhes.
+다음 목록에서 5성 괴도 하나를 선택하세요.=Selecionar um monstro de 5 estrelas da lista seguinte.
+미야자와 히로무 팰리스 탐색도 10% 달성=Atingiu 10% de exploração do Palácio Miyazawa Hiromu
+리 야오링과 협력자 관계 달성=Realização de relações cooperativas com Lee Yaoring
+임의의 낙원 가입 또는 생성=Assinatura ou criação regular do paraíso
+목표 Ⅰ 2단계의 모든 임무 완료=Target Eu completei todas as missões na etapa 2
+괴도 1명의 2개 비잠재력 스킬 1회 레벨업=2 unidades de habilidades de desapropriação de 1 nível de Mondo
+20레벨 무기 3개 보유=3 armas de 20 níveis
+영광 추구 Ⅰ 클리어(또는 더 높은 난이도)=Busca de glória eu limpo (ou maior dificuldade)
+다음 목록에서 5성 무기 하나를 선택하세요.=Selecione uma arma de 5 -estrela na lista a seguir.
+복수자의 송곳니=Presas
+골든 스포일=Golden mimado
+장미의 가시=Rosa
+운명의 계약을 체결하세요.\n<size\=26>화면에 서명 작성=Assine um contrato de destino.\n<size\=26>Assinatura na tela
+우아한 펜서=Elegante Pencer
+남은 횟수: 0/50=Número de restantes: 0/50
+달성 후 다음 5★ 괴도 중 선택 가능=Após a conquista
+신입 추천 계약 횟수=Número de novos recrutas
+1/5 페이지=1/5 página
+신입 추천 계약=Novo contrato de recrutamento
+<color\=#EADE10>「마음의 괴도단」</color> 계약은 영구 계약으로, 플레이어는 <color\=#EADE10>「미래의 운명」</color>을 사용해 계약을 진행할 수 있습니다. 이 계약은 특수 계약으로, 다른 계약의 천장 규칙과 독립적으로 계산됩니다.\n<sprite\=0 tint\=1>10연속 계약만 가능하며, 계약 <color\=#EADE10>10</color>회마다 반드시 최소 1명 4성 이상 캐릭터를 획득합니다. 10연속 계약으로 소모하는 <color\=#EADE10>「미래의 운명」</color>은 <color\=#EADE10>20%</color> 할인을 받습니다.\n<sprite\=0 tint\=1>이 계약은 최대 계약 <color\=#EADE10>50</color>회의 횟수 상한 제한이 있습니다. 계약이 <color\=#EADE10>50</color>회에 도달하면 5성 캐릭터 <color\=#EADE10>「모르가나」</color>, <color\=#EADE10>「타카마키 안」</color>, <color\=#EADE10>「사카모토 류지」</color> 중 1명을 선택하고, 선택 종료 시 <color\=#EADE10>「마음의 괴도단」</color> 계약 이벤트가 닫힙니다.=<color\=#EADE10>`</color> O contrato é um contrato permanente e o jogador <color\=#EADE10>"Destino Futuro</color>Você pode usar o contrato para prosseguir com o contrato.\nEste contrato é um contrato especial, calculado independentemente como as regras do teto de outros contratos.\n<sprite\=0 tint\=1>Apenas 10 contratos consecutivos são possíveis, contrato <color\=#EADE10>10</color>Toda vez, você deve obter pelo menos 1 pessoa e mais de 4 caracteres.\n10 contratos consecutivos <color\=#EADE10>"Destino Futuro</color>은 <color\=#EADE10>20%</color> Consiga um desconto.\n<sprite\=0 tint\=1>Este contrato é o contrato máximo <color\=#EADE10>50</color>Há um limite no número de reuniões.\nContrato <color\=#EADE10>50</color>5 -Star personagens quando você chega a Sashimi <color\=#EADE10>`` Morgana ''</color>, <color\=#EADE10>`` Takamakian ''</color>, <color\=#EADE10>`` Sakamoto ryuji ''</color> Selecione uma das pessoas e quando a seleção for encerrada <color\=#EADE10>`</color> Evento de contrato está fechado.
+<color\=#EADE10>「마음의 괴도단」</color> 계약에서 5성, 4성 획득 확률은 다음과 같습니다.\n<sprite\=0 tint\=1>5성 캐릭터 기본 확률: <color\=#EADE10>0.8%</color>\n<sprite\=0 tint\=1>4성 캐릭터 기본 확률: <color\=#EADE10>6.2%</color>=<color\=#EADE10>`</color> a probabilidade de obter 5 estrelas e 4 estrelas é a seguinte.\n<sprite\=0 tint\=1>Probabilidade básica de caráter 5 -Star: <color\=#EADE10>0.8%</color>\n<sprite\=0 tint\=1>Probabilidade básica de personagem 4 -Star: <color\=#EADE10>6.2%</color>
+모든 방법을 통해(계약, 상점 교환, 시스템 교환 등)\n<sprite\=0 tint\=1><color\=#EADE10>2~7</color>번째로 같은 5성 괴도 획득 시 매번 <color\=#EADE10>해당 괴도의 「의식 파편」</color> <color\=#EADE10>1</color>개로 전환되며, 동시에 <color\=#EADE10>30</color>개의 <color\=#EADE10>「인지 단면」</color>을 부산물로 획득합니다. <color\=#EADE10>8</color>번째 이후에 같은 5성 괴도 획득 시 <color\=#EADE10>75</color>개의 <color\=#EADE10>「인지 단면」</color>을 획득합니다.\n<sprite\=0 tint\=1><color\=#EADE10>2~7</color>번째로 같은 4성 괴도 획득 시 매번 <color\=#EADE10>해당 괴도의 「의식 파편」</color> <color\=#EADE10>1</color>개로 전환되며, 동시에 <color\=#EADE10>6</color>개의 <color\=#EADE10>「인지 단면」</color>을 부산물로 획득합니다. <color\=#EADE10>8</color>번째 이후에 같은 4성 괴도 획득 시 <color\=#EADE10>15</color>개의 <color\=#EADE10>「인지 단면」</color>을 획득합니다.\n<sprite\=0 tint\=1><color\=#EADE10>2</color>회 이상 2성 페르소나 획득 시 매번 해당 페르소나의 <color\=#EADE10>「표식」</color>으로 전환됩니다.\n\n계약을 통해\n<sprite\=0 tint\=1>2성 페르소나를 획득할 시 부산물로 <color\=#EADE10>「인지 파편」</color> <color\=#EADE10>30</color>개를 획득합니다.=Através de qualquer método (contrato, troca de loja, troca de sistema, etc.)\n<sprite\=0 tint\=1><color\=#EADE10>2~7</color>Sempre que adquirires o mesmo Kaiju de 5 estrelas pela segunda vez, receberás <color\=#EADE10>Fragmento de Consciência desse Kaiju</color> <color\=#EADE10>1</color>dos fragmentos de consciência desse monstro, e ao mesmo tempo <color\=#EADE10>30</color>個 <color\=#EADE10>"Secções Cognitivas</color>como um subproduto. <color\=#EADE10>8</color>e aquisições posteriores do mesmo monstro de 5 estrelas <color\=#EADE10>75</color>個 <color\=#EADE10>"Secções Cognitivas</color>para o mesmo Tuber de 5 estrelas.\n<sprite\=0 tint\=1><color\=#EADE10>2~7</color>Cada segunda vez que adquirires o mesmo Kaiju de 4 estrelas, receberás <color\=#EADE10>Fragmento de Consciência desse Kaiju</color> <color\=#EADE10>1</color>dos fragmentos de consciência desse monstro, e ao mesmo tempo <color\=#EADE10>6</color>個 <color\=#EADE10>"Secções Cognitivas</color>como um subproduto. <color\=#EADE10>8</color>quando se adquire o mesmo Monstro de 4 Estrelas após <color\=#EADE10>15</color>個 <color\=#EADE10>"Secções Cognitivas</color>para o mesmo Tuber de 5 estrelas.\n<sprite\=0 tint\=1><color\=#EADE10>2</color>vezes, cada vez que ganhares uma Persona de 2 estrelas, ganharás as "Marcas" dessa Persona. <color\=#EADE10>"Marcador</color>para essa persona de cada vez.\n\nAtravés de um contrato\n<sprite\=0 tint\=1>Ao adquirires uma Persona de 2 estrelas, receberás um subproduto de <color\=#EADE10>"Fragmentos Cognitivos</color> <color\=#EADE10>30</color>Pegue um cachorro.
+「픽업 또는 천장 규칙이 발동하지 않을 시 모든 캐릭터는 기본 획득 확률을 배분받습니다.」\n<sprite\=0 tint\=1><color\=#EADE10>5성 캐릭터</color>\n기본 확률: 0.8%\n사카모토 류지|모르가나|리 야오링|타카마키 안|니시모리 하루나\n\n<sprite\=0 tint\=1><color\=#EADE10>4성 캐릭터</color>\n기본 확률: 6.2%\n카미야마 레오|토미야마 카요|노게 토모코|쿠로타니 키요시|후지카와 유키미|시라토리 세이지|스미 토시야|코토네 몽타뉴|사하라 미유\n\n<sprite\=0 tint\=1><color\=#EADE10>2성 캐릭터</color>\n기본 확률: 93%\n잭 오 랜턴|아가시온|바이콘|모코이|주작|스다마|픽시|이누가미|맨드레이크|마카미|하이픽시|화백|코로포클|콧파텐구|온모라키|잇폰다타라|오로바스|네코마타|아프사라스|코다마|시사|켈피|사키미타마|안드라스|슬라임|니기미타마|쿠시미타마="Todas as personagens têm uma taxa de obtenção de base quando as regras de recolha ou de limite máximo não são activadas."\n<sprite\=0 tint\=1><color\=#EADE10>5 estrelas</color>\nProbabilidade básica: 0,8% Sakamoto Ryuji |\n\n<sprite\=0 tint\=1><color\=#EADE10>Personagem de 4 estrelas</color>\nProbabilidade básica: 6,2% Kamiyama Leo |\n\n<sprite\=0 tint\=1><color\=#EADE10>Personagens de 2 estrelas</color>\nProbabilidades básicas: lanterna de Jack | Ama | |
+한정 의뢰 매일 05:00 초기화=Solicitação de um número limitado de inicialização diária 05:00
+행동력 3포인트 소모(0/3)=Consumo de 3 pontos de comportamento (0/3)
+체력 120포인트 소모(0/120)=120 Consumo de força física (0/120)
+「선택의 궤적」에서 도전 1회 완료=Concluído 1 desafio na viagem da seleção
+게임 로그인=Login de jogo
+돌림판 경품권=Vez
+모든 적에게 공격력 <color\=#FFFC40>57.6%</color>의 화염 속성 대미지를 주고, 2턴 동안 자신의 공격력이 20% 증가한다. <link\="s|113"><u>『몰두』</u></link> 상태에서 2턴 동안 타카마키 안의 공격력을 기반으로 적의 공격력이 8% 감소하고, 자신의 공격력은 해당하는 만큼 추가로 증가한다.\n<b><size\=28><color\=#850101>타오르는 화염은 빠르게 적을 삼키고, 땅에서 거대한 장미가 피어나 자랑스러운 자태를 뽐내며 적에게 막을 수 없는 대미지를 준다.</color></size></b>=Ofensa contra todos os inimigos <color\=#FFFC40>57.6%</color>As propriedades da chama das propriedades da chama e seu poder de ataque aumentam 20% por duas voltas. <link\="s|113"><u>"Imersão</u></link> No estado, o poder de ataque do inimigo diminui em 8% com base no poder de ataque de Takamaki por duas voltas, e seu dano é adicionado ao adicional.\n<b><size\=28><color\=#850101>A chama ardente rapidamente engole o inimigo, uma enorme rosa do chão, mostra uma figura orgulhosa e dá ao inimigo um dano indescritível.</color></size></b>
+『ONE MORE』：1명의 적에게 화염 속성 대미지를 준다.\n『HIGHLIGHT』：모든 적에게 공격력 <color\=#FFFC40>128.0%</color>의 화염 속성 대미지를 주며, 1턴 동안 자신이 주는 화염 대미지가 <color\=#FFFC40>51.2%</color> 증가한다.\n근접 공격：근거리 무기를 사용하여 1명의 적에게 소량의 물리 속성 대미지를 준다.\n총기 사격：총기로 1명의 적을 사격한다. 매번 임의 적에게 3발을 사격하여 총격 속성 대미지를 준다. 총알 개수에 따라 여러 번 사격할 수 있다.=『Mais um』: dá 1 dano inimigo dano.\n『Destaque』: ataque a todos os inimigos <color\=#FFFC40>128.0%</color>Ele causa dano às propriedades da chama da chama, e os danos à chama que você dá para 1 turno <color\=#FFFC40>51.2%</color> Aumentar.\nAtaque corpo a corpo: Usando uma arma curta, uma pequena quantidade de propriedades físicas danos a um inimigo.\nTiro de armas: Um inimigo é disparado com uma arma.\nCada vez, o inimigo tira três tiros para causar danos ao atributo de tiro.\nVocê pode atirar várias vezes, dependendo do número de balas.
+모든 적이 화염 속성 대미지를 받을 때마다 카운트되며, 카운트가 6에 도달하면 『몰두』 상태에 진입한다. 1턴 동안 공격력이 30%/40%/50%(1/50/70레벨) 증가한다. 다음 턴에서는 다시 『몰두』 상태에 진입하지 않는다. 행동 시마다 타카마키 안은 최대 적 4명에 대해 카운트한다.=Todo inimigo é contado toda vez que recebe danos à propriedade da chama e, quando a contagem atinge 6, ele entra no estado de imersão.\nDurante um turno, o dano aumenta em 30%/40%/50%(1/50/70).\nNo próximo turno, você não entrará no status de 『filme』 novamente.\nEm todas as ações, Takamakianan conta para quatro inimigos máximos.
+의식 상세=Consciência
+요염한 몸짓=Gesto fascinante
+<link\="s|113"><u>『몰두』</u></link> 상태일 경우 1턴 동안 모든 동료의 공격력이 17% 증가한다.=<link\="s|113"><u>"Imersão</u></link> No caso de um estado, o poder de ataque de todos os colegas por um turno é aumentado em 17%.
+1명의 적에게 공격력 <color\=#FFFC40>88.0%</color>의 화염 속성 대미지를 주고, 75%의 기본 확률로 적을 <link\="s|102"><u>화상</u></link> 상태에 빠뜨린다. <link\="s|113"><u>『몰두』</u></link> 상태에서 적의 생명이 50% 미만일 경우, 추가로 <color\=#FFFC40>30%</color> 대미지를 준다.\n<b><size\=28><color\=#850101>귀여운 가죽 주머니로 감싸진 포탄이 적에게 날아가 닿는 순간 터지며, 폭발의 불빛은 적에게 큰 대미지를 준다.</color></size></b>=Dano causado a 1 inimigo <color\=#FFFC40>88.0%</color>Dando as propriedades da chama das propriedades da chama e a probabilidade básica de 75% <link\="s|102"><u>Causar Queimadura</u></link> por 2 turnos. <link\="s|113"><u>"Imersão</u></link> Se a vida do inimigo for inferior a 50% no estado, adicional <color\=#FFFC40>30%</color> Dar dano.\n<b><size\=28><color\=#850101>As conchas embrulhadas em um bolso de couro fofo sopra para o inimigo, e as luzes da explosão causam um grande dano ao inimigo.</color></size></b>
+<link\="s|113"><u>『몰두』</u></link> 상태 종료 시 생명 백분율이 가장 낮은 동료가 공격력 <color\=#FFFC40>15.0%</color>의 생명을 회복한다.=<link\="s|113"><u>"Imersão</u></link> No final do status, um colega com a menor porcentagem de vida <color\=#FFFC40>15.0%</color>Restaura a vida de.
+타카마키 안 5성 괴도를 선택하시겠습니까?=Deseja escolher 5 -Starks de Takamaki Anni?
+화려한 여배우=Atriz linda
+일반 계약 횟수=Número de contratos gerais
+모르가나 5성 괴도를 선택하시겠습니까?=Você quer escolher um 5 -Star Mondo?
+캐릭터 일반 계약에서 300회 계약 후 수령할 수 있습니다.=Você pode pegar após 300 contratos no contrato geral do personagem.
+사카모토 류지 5성 괴도를 선택하시겠습니까?=Você gostaria de escolher o 5 -Star Kaito de Sakamoto?
+리 야오링 5성 괴도를 선택하시겠습니까?=Você gostaria de escolher um Crawet de 5 -Star?
+니시모리 하루나 5성 괴도를 선택하시겠습니까?=Você gostaria de escolher um 5 -Star Mondo?
+선택한 물건을 구매하겠어?=Você gostaria de comprar os itens selecionados?
+사용 시 다음 괴도의 5성 무기 중 1개 선택 가능: 모르가나, 사카모토 류지, 타카마키 안, 리 야오링, 니시모리 하루나, 미야시타 미나미, 루페르, 아라이 모토하, 카노 슌, 카미야마 레오, 토미야마 카요, 노게 토모코, 쿠로타니 키요시, 후지카와 유키미, 시라토리 세이지, 스미 토시야, 코토네 몽타뉴, 사하라 미유.=Uma das próximas cinco armas de estrela das cinco armas seguintes: Morgana, Sakamoto Ryuji, Takamaki Anan, Riyoring, Nishimori Haruna, Miyashita Minami, Ruper, Arai Motoha Kayo, Noge Tomoko, Kurotani Kiyyo, FUAGO, FUOMIAGO, KUROTANI KIYAGE, FUAHIAG Sumi Toshiya, Kotone Montta, Sahara Miyu.
+엔젤 하트=coração de anjo
+버블 드림=Sonho de bolha
+겨울의 여왕=Rainha de inverno
+데스 세이지=Sábio da Morte
+계몽의 별=Iluminação
+퍼플 샐베이션=Salvação roxa
+빛의 세례=Batismo
+드림 위버=Dream Weaver
+빈티지 디스코:P=Disco vintage: P
+디스트로이어 MR=Destruidor Sr.
+선구자의 얼음도끼=Pioneiro
+일렉트릭 스타즈=Estrelas elétricas
+소울 글로리=Glória da alma
+스위트 하트=Suíte
+하늘의 일념=Celestial
+선택 패키지=Pacote opcional
+퇴각하면 이번 전투의 보상을\n획득할 수 없어! 퇴각하겠어?=Se você se retirar, não pode receber a recompensa desta batalha!\nVocê vai recuar?
+철수도 일종의 전략이야...\n여기까지 하자.=A retirada é um tipo de estratégia ... vamos fazer isso.
+라인업 조정 후 다시 도전하세요.=Ajuste a programação e desafie novamente.
+추천 속성: =Atributos recomendados: 
+추천 라인업 레벨: =Nível de linha recomendado: 
+동료 <color\=#FFFC40>치료</color>에 능하다. 팀이 위험에 빠졌을 때 미야시타 미나미가 암리타를 획득해 더 많은 치료를 제공할 수 있다.=colega <color\=#FFFC40>terapia</color>Bom para isso.\nQuando a equipe está em perigo, Miyashita Minami pode adquirir Amrita para fornecer mais tratamento.
+괴도단에게 대량의 <color\=#FFFC40>최대 생명</color>을 제공하고 디버프 상태를 <color\=#FFFC40>제거</color>하여 괴도단의 생존 능력을 효과적으로 향상시킨다.=Uma grande quantidade de <color\=#FFFC40>Vida máxima</color>Fornecer e Debuff State <color\=#FFFC40>Remover</color>Assim, melhora efetivamente a sobrevivência da vergonha.
+괴도단에게 <color\=#FFFC40>대미지 보너스</color>를 제공하고 <color\=#FFFC40>축복</color> 효과를 제공한다.=Para o Muddog <color\=#FFFC40>Bónus de dano</color>Fornecer <color\=#FFFC40>Bênção</color> Fornece o efeito.
+누적 12일 로그인(3/12)=12º login cumulativo (3/12)
+누적 7일 로그인(3/7)=Login cumulativo de 7 dias (3/7)
+생명의 찬가=Hino
+태양의 노래=Música do sol
+킬링 스칼렛=Matando escarlate
+수훈의 증명=Prova
+메가 카운터=Mega contador
+불꽃 성정=Chama
+형광의 매혹 D4u=Fascínio do D4U fluorescente
+최강 미늘창 X=Michael Wind X mais forte
+마의 습격=Cânhamo
+죄와 벌=crime e punição
+용암의 불꽃=Lava
+참새짹=Pardal
+만물의 사계=Quatro estações
+미라지 윕=Mirage Whip
+가이아 프레서=Gaia Preser
+샴시르=Xampu
+다음 목록에서 4성 무기 하나를 선택하세요.=Selecione uma arma de quatro estrelas na lista a seguir.
+괴도 레벨 상한 <color\=#FFF000>LV.20</color>로 증가=Limite superior do nível de Kaito <color\=#FFF000>LV.20</color>Aumentar
+잠재력 상세정보=Detalhes potenciais
+최고 레벨을 달성했습니다.=Consegui o nível mais alto.
+주인공 1레벨 시 다음 단계 잠재력 해제=No primeiro nível do personagem principal, o próximo passo é lançado
+주인공 20레벨 시 다음 단계 잠재력 해제=No nível de personagem principal 20, a próxima etapa da versão potencial
+뭔가 각성한 듯=Algo despertado
+신입 괴도=Nova isca
+스킬 배율=Ampliação de habilidades
+레벨=nível
+정렬 채우기용=Para classificar
+스킬 레벨업=Habilidade nivelada
+타카마키 안 70레벨 달성 (20/70)=Takamakian Nível 70 (20/70)
+타카마키 안 50레벨 달성 (20/50)=Takamakian Nível 50 Achievement (20/50)
+타카마키 안 40레벨 달성 (20/40)=Takamakian Nível 40 Achievement (20/40)
+타카마키 안 30레벨 달성 (20/30)=Alcançado Nível 30 Takamakian (20/30)
+타카마키 안 20레벨 달성 (20/20)=Alcançado Takamakian Nível 20 (20/20)
+잠재력 2레벨 달성 시 괴도를 계속 레벨업시킬 수 있습니다=Potenciais 2 níveis podem continuar a subir de nível o desconhecido.
+『화염의 침식』, 『전투 기술』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.=O nível de habilidade da erosissão da chama e a tecnologia de combate aumenta 3 níveis e até 15 níveis.
+아름다운 시작=Belo começo
+<link\="s|113"><u>『몰두』</u></link> 상태에서 적을 공격하면 화염 폭발을 2회 입히고, 임의의 적에게 각각 공격력 66%의 화염 대미지를 준다.=<link\="s|113"><u>"Imersão</u></link> Atacar o inimigo em um estado causa uma explosão de chama duas vezes e dá a qualquer inimigo um dano de 66%.
+붉은 기적=Milagre vermelho
+『만발한 꽃』, 『매화술』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.=O nível de habilidade de 『Flor queimando』 e 『Plum Square』 aumenta 3 níveis e até 15 níveis.
+빛나는 순간=Momento brilhante
+HIGHLIGHT 효과 증가: HIGHLIGHT 스킬 시전 시 자신의 공격력이 1턴 동안 100% 증가한다.=Aumente o efeito de destaque: no elenco de habilidades de destaque, seu poder de ataque aumenta 100% para 1 turno.
+무아지경=Busca
+적 공격 시 60%의 확률로 <link\="s|113"><u>『몰두』</u></link>가 추가 카운트 1을 획득한다. <link\="s|113"><u>『몰두』</u></link> 상태에서는 카운트가 1 추가될 때마다 화염 대미지가 11% 증가하고, 최대 110% 증가한다.=Com 60%de chance de atacar ataques inimigos, <link\="s|113"><u>"Imersão</u></link>Obtenha contagem adicional 1. <link\="s|113"><u>"Imersão</u></link> No estado, o dano da chama aumenta em 11% e até 110% sempre que a contagem é adicionada.
+완벽한 끝=Final perfeito
+『스킬』 설명=『Habilidade』 Descrição
+원더 전용 근거리 무기. 보기만 해도 무서운 모조 대거.=Maravilha -apenas uma arma curta.\nÉ uma imitação assustadora apenas olhando para ela.
+공격력이 <color\=#2899FF>12.0%</color> 증가한다. 공격력이 <color\=#2899FF>6.4%</color> 증가하고, 페르소나를 교체하는 턴에서 공격력이 2배로 증가한다.=Poder de ataque <color\=#2899FF>12.0%</color> Aumentar.\nPoder de ataque <color\=#2899FF>6.4%</color> Aumenta e dobra o poder de ataque na virada da substituição da persona.
+전이 반응=Reação de transferência
+백야=noite clara
+프로필 1회 변경=Alterar 1 perfil
+주도적으로 친구 1명 추가=1 amigo
+주인공 20레벨 달성=Alcançar o nível de personagem principal 20
+30레벨 괴도 3명 보유=Nível 30 Kaito 3
+서브 임무 「사랑과 MUSCLE」  완료=Submissão "amor e músculo" concluídos
+목표Ⅰ 3단계의 모든 임무 완료=Todas as missões no terceiro estágio
+30레벨 괴도 6명 보유=Nível 30, 6 pessoas
+아라이 모토하와 협력자 관계 달성=Realização da relação cooperativa com Aramotoha
+주인공 27레벨 달성=Alcançado o nível 27
+30레벨 무기 4개 보유=4 níveis de 30 armas
+괴도 2명의 2개 비잠재력 스킬 2회 레벨업=Duas habilidades não submersíveis de 2 pessoas de nível 2 vezes subir
+목표Ⅰ 4단계의 모든 임무 완료=Todas as missões no estágio 4
+40레벨 무기 2개 보유=2 armas de nível 40
+괴도 1명의 2개 비잠재력 스킬 3회 레벨업=Duas habilidades não submersíveis de uma pessoa 3 vezes
+40레벨 괴도 4명 보유=4 níveis de nível 40
+토미야마 카요와 협력자 관계 달성=Tomiyama Kayo alcança relacionamentos cooperativos
+주인공 35레벨 달성=Alcançado o nível 35
+목표Ⅰ 7단계의 모든 임무 완료=Todas as missões no estágio 7
+40레벨 3등급 이상 페르소나 2개 보유=Nível 40 Nível 3 Persona 2 Persona
+임의의 협력자 1명 호감도 3레벨 달성=Alcançado o nível 3
+600 영감 포인트 소모=600 consumo de ponto de inspiração
+프리즘 품질의 등급3 페르소나 1개 합체=Classificação da qualidade do prisma 3 Persona 1
+목표 Ⅱ 1단계의 모든 임무 완료=Todas as missões na etapa 1
+주인공 38레벨 달성=Alcançando o nível 38
+괴도 2명의 2개 비잠재력 스킬 3회 레벨업=Dois corpos e duas habilidades não submersíveis 3 vezes de nível
+40레벨 무기 4개 보유=4 armas de nível 40
+40레벨 3등급 이상 페르소나 3개 보유=Nível 40 Nível 3 Persona 3 peças
+다음 목록에서 4성 괴도 하나를 선택하세요.=Selecione uma isca de quatro estrelas na lista a seguir.
+다음의 캐릭터는 일반 계약에서 획득합니다.=Os seguintes caracteres são obtidos de um contrato geral.
+55레벨 4등급 이상 페르소나 2개 보유=Nível 55 Nível 4 ou mais de 2 Persona
+목표 Ⅱ 7단계의 모든 임무 완료=Objetivo ⅱ Todas as missões na etapa 7
+주인공 50레벨 달성=Alcançar o nível 50
+괴도 2명의 2개 비잠재력 스킬 5회 레벨업=Dois corpos e duas habilidades não submersíveis 5 vezes de nível
+50레벨 무기 8개 보유=8 níveis 50 armas
+재스민차=Carro de jasmim
+해바라기씨=Girassol
+데이지 향료=Sabor da margarida
+다이아몬드=Diamante
+필요한 합성 재료가 부족합니다.=Falta de materiais sintéticos.
+유비무환=Ubi Muhwan
+침대에서 휴식해라=Descanse na cama
+침실에서 일어나라=Acorde no quarto
+키우치와 부딪혀 다친 토모코=Tomoko ferido com Kiuchi
+경찰과 대화해라=Fale com a polícia
+강의실 2-C=Sala de palestra 2-C
+2-C 교실로 이동해라=Vá para a sala de aula 2-C
+학교 옥상에서 모토하를 찾아라=Encontre Motoha no telhado da escola
+루페르 20레벨 달성 (9/20)=Alcançou o nível 20 em Lupert (20/9)
+루페르 30레벨 달성 (9/30)=Alcançou o nível 30 em Lupert (30/9)
+루페르 40레벨 달성 (9/40)=Atingiu o nível 40 em Luperc (9/40)
+루페르 50레벨 달성 (9/50)=Alcançou o nível 50 em Lupeer (9/50)
+루페르 70레벨 달성 (9/70)=Alcançou o nível 70 de Lupeir (9/70)
+『타오르는 불길』, 『희망의 빔』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.="Aumenta o nível de habilidade de Chamas Ardentes e Feixe de Esperança em 2 níveis, até um máximo de nível 15.
+떨리는 깃=Penas trémulas
+발톱의 돌격=Carga de garras
+『천사의 연민』, 『전투 기술』 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.="Aumenta a Compaixão Angélica e as Habilidades de Combate em 2 níveis, até um máximo de nível 15.
+<link\="s|115"><u>『별의 불꽃II』</u></link>이 추가 효과를 획득한다. 해당 상태의 동료가 받는 치료 효과가 10% 증가한다.=<link\="s|115"><u>"Fogo das Estrelas II</u></link>Ganha este efeito adicional, aumentando os efeitos de cura de aliados neste estado em 10%.
+사냥감 출현=Cria de presa
+HIGHLIGHT 효과 증가: 1턴 동안 모든 동료가 주는 화염 속성 대미지가 32% 증가한다.=Aumento do efeito de DESTAQUE: aumenta o dano de Fogo causado por todos os aliados em 32% durante 1 turno.
+만선=Mansun
+<link\="s|115"><u>『별의 불꽃II』</u></link> 종료 시 목표에게 『별의 불꽃III』을 부여한다.\n『별의 불꽃III』: 1턴 동안 공격력이 루페르 공격력의 8%만큼 증가하고 화염 대미지는 20% 증가하며, 받는 치료 효과는 10% 증가한다.=<link\="s|115"><u>"Fogo das Estrelas II</u></link> Terminar com Fogo Estelar III: Aumenta o dano causado em 8% do dano de Rupert durante 1 turno, aumenta o dano de Fogo em 20% e aumenta a cura recebida em 10%.
+전투 시작 시 토모코가 <link\="s|131"><u>『푸른 잎』</u></link> 4개를 획득한다. 2턴마다 토모코가 <link\="s|131"><u>『푸른 잎』</u></link> 1개를 회복한다(<link\="s|131"><u>『푸른 잎』</u></link> 최대 5회 중첩 가능).=Tomokoga no início da batalha <link\="s|131"><u>"Folha Verde</u></link> A cada 2 turnos, Tomoko ganha 4 <link\="s|131"><u>"Folha Verde</u></link> (<link\="s|131"><u>"Folha Verde</u></link> pode acumular até 5 vezes).
+『풀피리 찬가』, 『염의 선율』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Hino da Flauta" e "Melodia do Sal" em 2 níveis, até um máximo de nível 15.
+초기 특성의 <link\="s|131"><u>『푸른 잎』</u></link> 회복 효과가 턴마다 1개 회복으로 변경된다.=Características iniciais <link\="s|131"><u>"Folha Verde</u></link> Altera o efeito de cura para 1 cura por turno.
+번성하는 생명=Vida próspera
+『잎소리 단조』를 보유한 동료가 공격력이 가장 높은 괴도일 시 주는 대미지가 20% 증가한다.="Aumenta o dano causado em 20% quando um aliado com Forja do Som da Folha é o monstro de maior ataque.
+꿈의 함정=Armadilha de sonho
+『굿나잇 송』, 『전투 기술』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade da "Canção da Boa Noite" e da "Habilidade de Combate" em 2 níveis, até um máximo de 15 níveis.
+산야의 합주=Harmonia de Sannyas
+HIGHLIGHT 효과 증가: 목표 적이 받는 다음 대미지가 추가로 24% 증가한다.=Efeito de destaque aumentado: O próximo dano do inimigo alvo é aumentado em mais 24%.
+안면의 노래=Canção interior
+동료가 행동 시 자신은 『얼음 결정』 1개를 획득한다. 『얼음 결정』 수량이 10에 도달하면, 자신이 스킬을 사용한 후 『얼음 결정』을 10개 소모해 목표 적에게 공격력 65%의 빙결 속성 <link\="s|100"><u>추가 효과</u></link>를 1회 부여하고, 이번 공격에 반드시 크리티컬이 발동된다.=Quando um aliado actua, ganha 1 Cristal de Gelo. Quando a sua contagem de Cristais de Gelo chega a 10, pode gastar 10 Cristais de Gelo depois de usar uma habilidade para causar 65% de dano como Congelamento a um inimigo alvo. <link\="s|100"><u>Efeito adicional</u></link>O jogador pode causar 65% de dano de Ataque, e este ataque deve ser um Acerto Crítico.
+자연스러움=Naturalidade
+『피어나는 얼음』, 『매서운 겨울』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Gelo Florescente" e "inverno Feroz" em 2 níveis, até um máximo de nível 15.
+약속=Nomeações
+<link\="s|100"><u>추가 효과</u></link>는 공격 목표가 잃은 생명에 따라 스킬 대미지가 증가하며, 최대 50%의 스킬 대미지가 증가한다.=<link\="s|100"><u>Efeito adicional</u></link>causa dano de habilidade aumentado com base na quantidade de vida que o alvo perdeu, até um máximo de 50% de dano de habilidade aumentado.
+전투 시작 시 『얼음 결정』 4개를 획득하고, 『얼음 결정』은 최대 15개까지 획득 가능하다.=Receberás 4 Cristais de Gelo no início da batalha, com um máximo de 15 Cristais de Gelo disponíveis.
+시공간의 법칙=Leis do espaço-tempo
+『차가운 칼날』, 『전투 기술』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Lâmina Fria" e "Técnica de Combate" em 2 níveis, até um máximo de nível 15.
+열정적인 춤=Dançar com paixão
+노게 토모코의 특수 자원, 스킬 시전에 사용한다.=Recurso especial de Noge Tomoko, utilizado para lançar habilidades.
+270° 회전=Rotação de 270
+루페르의 스킬로 해당 상태를 부여해 1턴 동안 동료에게 속성을 제공한다. 『별의 불꽃 I』 효과 종료 시 『별의 불꽃 II』로 레벨업한다. 의식 레벨업 후 『별의 불꽃 II』 효과 종료 시 『별의 불꽃 III』으로 레벨업한다. 『별의 불꽃 II』, 『별의 불꽃 III』은 더 강력한 속성 증가 효과를 보유한다.=A habilidade da Lupe concede este estatuto a um aliado durante 1 turno. Sobe de nível até Fogo Estelar II no fim do Fogo Estelar I. Sobe de nível até Fogo Estelar III no fim do Fogo Estelar II depois de um ritual de nivelamento. O Fogo Estelar II e o Fogo Estelar III têm aumentos de atributos mais fortes.
+특정 조건을 만족하면 발동 가능하다.=Pode ser accionada quando estão reunidas determinadas condições.
+HIGHLIGHT 효과 증가: HIGHLIGHT 스킬 대미지 증가 효과가 최대 60% 증가한다.=Aumento da eficácia da habilidade de DESTAQUE: Aumenta o bónus de dano da tua habilidade de DESTAQUE em até 60%.
+피겨의 스텝=Passos para os números
+받는 실드 효과가 증가하고, 『바다의 수호』 중첩 횟수에 따라 추가 버프가 발동된다.=Aumenta a quantidade de escudo que você recebe e ativa bônus adicionais com base no número de acúmulos de Guardião do Mar.
+시작의 시간=Hora de início
+커튼콜의 부재=Ausência de chamadas de cortina
+<link\="s|144"><u>『바다의 수호』</u></link>의 최대 중첩수가 8회까지 증가하고, 8회에 도달하면 주는 대미지가 20% 증가하는 추가 효과를 획득한다.=<link\="s|144"><u>"Guardião do Mar</u></link>acumula até 8 vezes, e quando chega a 8, ganha um efeito adicional que aumenta o seu dano causado em 20%.
+『태평의 노래』, 『교차의 춤』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Canção da Terra" e "Dança da Encruzilhada" em 2 níveis, até um máximo de nível 15.
+임의의 동료가 HIGHLIGHT 시전 후 사하라 미유가 해당 동료에게 사하라 미유의 방어력 16%+480에 해당하는 실드를 추가한다. 효과는 2턴 동안 지속된다.=Depois de um aliado aleatório usar o efeito de DESTAQUE, Sahara Miyu concede a esse aliado um Escudo equivalente a 16%+480 de Armadura. O efeito dura 2 turnos.
+스포트라이트=Destaque
+『여명의 거품』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Bolha de Muitos" em 2 níveis, até um máximo de nível 15.
+주연의 여유=Estrelando slack
+임의의 동료의 생명이 처음으로 30% 미만이 되면 사하라 미유가 즉시 해당 동료에게 자신의 방어력 28%+660에 해당하는 실드를 추가한다. 효과는 2턴 동안 지속되며 전투마다 1회로 제한된다.=Na primeira vez que um aliado aleatório fica com menos de 30% de Vida, Sahara Miyu adiciona imediatamente um Escudo a esse aliado igual a 28% da sua Armadura + 660. O efeito dura 2 turnos e é limitado a uma vez por batalha.
+글레이즈=Esmalte
+적이 화염 속성 대미지를 받으면 카운트를 진행한다. 카운트가 6회에 도달하면 타카마키 안이 『몰두』 상태에 진입하고, 타카마키 안이 속성 증가와 스킬 강화를 획득한다.=Quando um inimigo recebe dano de Fogo, uma contagem é iniciada. Quando a contagem chega a 6, Takamaki An entra no estado de Imersão, e Takamaki An ganha Aumento de Atributo e Aumento de Habilidade.
+임의의 동료가 대미지를 줄 때마다 스미 토시야의 영감이 발동해 <link\="s|153"><u>『시』</u></link>를 획득한다.\n임의의 14개 <link\="s|153"><u>『시』</u></link>를 획득해 챕터를 완료하면, 현재 공격을 받은 메인 목표에게 공격력 65/98/130%(1/50/70레벨)의 단일 주원 대미지 <link\="s|100"><u>추가 효과</u></link>를 준다.=Sempre que um aliado aleatório causar dano, ativa a Inspiração de Toshiya Sumi <link\="s|153"><u>"Poemas</u></link>sempre que um aliado sofre dano.\n14 aleatórios <link\="s|153"><u>"Poemas</u></link>para completar o capítulo, causa 65/98/130% (1/50/70 níveis) de dano como uma única fonte primária ao alvo principal atualmente atacado. <link\="s|100"><u>Efeito adicional</u></link>no alvo principal atualmente atacado.
+영감 폭발=Explosão de inspiração
+『시』 14개를 수집하면 『운명의 십사행시』를 발동해 1명의 적에게 주원 속성 대미지를 줄 수 있다.="Recolhe 14 Poemas para desencadear "Catorze Actos do Destino", causando dano elementar a 1 inimigo.
+스미 토시야의 의식0의 스킬 효과다.=O efeito de habilidade do Ritual de Sumitoshi Toshiya0.
+『애통한 비극』, 『허황된 희극』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Tragédia lúgubre" e "Farsa vã" em 2 níveis, até um máximo de nível 15.
+<link\="s|154"><u>『운명의 십사행시』</u></link>는 100%의 기본 확률로 적에게 주원 이상 상태를 추가한다.=<link\="s|154"><u>"Catorze Actos do Destino</u></link>tem 100% de hipóteses de adicionar uma Doença Grave a um inimigo.
+죽음의 아리아=Ária da morte
+『낭만적인 정극』, 『전투 기술』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Pináculo Romântico" e "Habilidade de Combate" em 2 níveis, até um máximo de nível 15.
+환각=Alucinações
+HIGHLIGHT 효과 증가: 다음 4회의 <link\="s|154"><u>『운명의 십사행시』</u></link> 대미지가 증가한다.=Aumento do efeito de destaque: Próximo 4 vezes <link\="s|154"><u>"Catorze Actos do Destino</u></link> são aumentados.
+영혼의 찬미가=Louvor com alma
+액티브 스킬 사용 후 다음 턴에 상응하는 <link\="s|153"><u>『시』</u></link>를 2회 추가 발동시킬 수 있다.\n<link\="s|154"><u>『운명의 십사행시』</u></link> 중에 최소 2종류의 특수 <link\="s|153"><u>『시』</u></link>가 있으면 이번 <link\="s|154"><u>『운명의 십사행시』</u></link> 대미지가 67% 증가한다.=No seu próximo turno, depois de usar uma habilidade ativa, o equivalente a uma <link\="s|153"><u>"Poemas</u></link>no teu próximo turno.\n<link\="s|154"><u>"Catorze Actos do Destino</u></link> pelo menos 2 "Poesias" especiais <link\="s|153"><u>"Poemas</u></link>especiais neste <link\="s|154"><u>"Catorze Actos do Destino</u></link> o dano causado é aumentado em 67%.
+불결로 구원한 신명=Deuteronómio salvo pela impureza
+전투가 시작되면 임의의 동료 1명과 『맹세』를 생성한다. 유키미의 턴 종료 시 해당 상태인 동료가 유키미 방어력 24%에 해당하는 실드를 획득하고, 동시에 최대 1명의 동료와 『맹세』를 생성한다.=No início da batalha, cria um Juramento com um aliado aleatório. No final do turno da Yukimi, esse aliado ganha um escudo igual a 24% da P. Def. da Yukimi e cria um Juramento com até 1 aliado ao mesmo tempo.
+『대의자의 판결』, 『올바른 명령』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Julgamento da Cadeira" e "Ordem Correcta" em 2 níveis, até um máximo de nível 15.
+책망의 독실=Câmara de Reprovação
+턴 시작 시마다 <link\="s|121"><u>『맹세』</u></link> 상태인 동료가 <link\="s|111"><u>축복</u></link> 효과를 1중첩 획득한다.=No início de cada turno <link\="s|121"><u>"Juramento</u></link> aliados com <link\="s|111"><u>Bênção</u></link> em 1 pilha.
+규율 준수=Disciplina
+후지카와 유키미 턴 시작 시 임의 동료와 『맹세』하고, 유키미의 턴 종료 시 『맹세』 상태인 동료가 실드를 획득한다.=No início do turno de Yukimi Fujikawa, ela pode "Juramentar" um colega de equipa aleatório, e no final do turno de Yukimi, qualquer colega de equipa que seja "Juramentado" ganha um Escudo.
+2턴 동안 턴마다 최대 생명의 1%를 회복한다.=Cura 1% da sua Vida máxima por turno durante 2 turnos.
+『절대 심판』, 『전투 기술』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Julgamento Absoluto" e "Habilidades de Combate" em 2 níveis, até um máximo de nível 15.
+정의의 언약=Pacto de Justiça
+HIGHLIGHT 효과 증가: HIGHLIGHT 스킬 시전 시 모든 동료가 <link\="s|111"><u>축복</u></link> 효과를 2중첩 획득한다.=Efeito de DESTAQUE aumentado: Quando você lança DESTAQUE, todos os aliados recebem uma <link\="s|111"><u>Bênção</u></link> por 2 acúmulos.
+단절의 억압=Repressão da desconexão
+자신과 <link\="s|121"><u>『맹세』</u></link> 상태인 동료가 10%의 대미지 보너스를 획득한다. 서로의 전체 축복 중첩수에 따라, 매 중첩마다 속성 대미지 보너스 2%를 추가 획득하고, 최대 20%까지 획득할 수 있다.=e <link\="s|121"><u>"Juramento</u></link> Com base no total de bênçãos acumuladas de cada um, cada pilha concede um bónus adicional de 2% de dano aos atributos, até um máximo de 20%.
+인의 용서=Perdão
+스킬을 시전해 매단계 대미지를 줄 시 40%의 고정 확률로 <link\="s|118"><u>『격려』</u></link>를 1중첩 획득한다. 공격력이 7% 증가하고 속도가 4 증가하며, 효과는 2턴 동안 지속된다. <link\="s|118"><u>『격려』</u></link>는 최대 3회 중첩 가능하며, 중첩마다 지속 시간은 독립적으로 계산된다.=40% de hipótese fixa de lançar uma habilidade para causar dano a cada passo do caminho <link\="s|118"><u>"Encorajar</u></link>por 1 acúmulo, aumentando o Dano de Ataque em 7% e a Velocidade em 4, e o efeito dura 2 turnos. <link\="s|118"><u>"Encorajar</u></link>pode ser acumulado até 3 vezes, e cada acúmulo tem uma duração independente.
+시라토리 세이지가 스킬을 시전하면 일정 확률로 획득한다. 시라토리 세이지의 공격력과 속도가 일정량 증가한다.=Shiratori Sage tem uma chance de ganhar uma habilidade quando a conjura. Aumenta o Ataque e a Velocidade de Shiratori Sage em uma certa quantidade.
+<link\="s|118"><u>『격려』</u></link>의 최대 중첩수가 5까지 증가한다.=<link\="s|118"><u>"Encorajar</u></link>aumenta para uma pilha máxima de 5.
+검의 반격=Contra-ataque de espada
+『바람의 속삭임』, 『우아한 풍파』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Sussurro do Vento" e "Ventos Graciosos" em 2 níveis, até um máximo de nível 15.
+임기응변=Improvisação
+적의 공격을 받으면 12%의 고정 확률로 이번 공격을 회피한다.=Quando atacado por um inimigo, tem uma probabilidade fixa de 12% de se esquivar deste ataque.
+가뿐한 발걸음=Passo a passo
+『무영의 찌르기』, 『전투 기술』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Punhalada do Eterno" e "Habilidade de Combate" em 2 níveis, até um máximo de nível 15.
+허점 겨냥=Apontar para a lacuna
+HIGHLIGHT 효과 증가: <link\="s|118"><u>『격려』</u></link>가 3중첩 이상 도달 시 대미지가 1회 추가 증가하고, 100%의 기본 확률로 적을 <link\="s|105"><u>풍습</u></link> 상태에 빠뜨린다.=Aumento do efeito de DESTAQUE: <link\="s|118"><u>"Encorajar</u></link>atinge 3 ou mais acúmulos, causa 1 de dano adicional e tem 100% de chance básica de transformar um inimigo em um <link\="s|105"><u>Costumes</u></link> estado.
+은밀한 진격=Avanço furtivo
+<link\="s|118"><u>『격려』</u></link>를 획득할 초기 고정 확률이 20% 증가한다. <link\="s|118"><u>『격려』</u></link>가 최고 중첩수에 도달하면 스킬 『바람의 속삭임』, 『우아한 풍파』, 『무영의 찌르기』의 대미지 횟수가 1회 증가한다.=<link\="s|118"><u>"Encorajar</u></link>Aumenta a sua hipótese fixa inicial de ganhar um bónus de 20%. <link\="s|118"><u>"Encorajar</u></link>atinge sua pilha máxima, o dano causado por suas habilidades Sussurro do Vento, Ventos Graciosos e Punhalada do Eterno é aumentado em 1.
+일격의 명중=Atingir o objetivo
+적에게 전격 속성 대미지를 준 후, 15%의 기본 확률로 적을 <link\="s|104"><u>감전</u></link> 상태에 빠뜨린다. 자신이 <link\="s|104"><u>감전</u></link> 상태인 적을 공격하면 공격력이 30% 증가한다.=Depois de causar dano de Blitz a um inimigo, existe uma hipótese base de 15% de fazer com que o inimigo <link\="s|104"><u>Eletrochoque</u></link> Se fores <link\="s|104"><u>Eletrochoque</u></link> inimigos enquanto estiveres Atordoado, causa 30% de dano aumentado.
+원소 이상, 2턴 동안 받는 크리티컬 확률이 10% 증가한다.=Elemental ou superior, aumenta a Chance de Crítico recebida em 10% por 2 turnos.
+『천둥의 격노』 단계수가 1단계 증가하며, 동일한 적을 연속 공격해 15%의 대미지를 준다.="Fúria Trovejante aumenta em 1 estágio e causa 15% a mais de dano ao mesmo inimigo ao longo do tempo.
+통제 불능=Fora de controlo
+『천둥의 격노』, 『초고속 전격』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Fúria Trovejante" e "Raio de Luz" em 2 níveis, até um máximo de nível 15.
+전력의 일격=Explosão de poder
+시속의 추적=Velocidade de rastreio
+<link\="s|104"><u>감전</u></link> 상태의 적으로부터 받는 대미지가 20% 감소한다.=<link\="s|104"><u>Eletrochoque</u></link> Reduz em 20% o dano recebido de inimigos com status.
+『전기 상어』, 『전투 기술』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade do "Tubarão Elétrico" e da "Habilidade de Combate" em 2 níveis, até um máximo de nível 15.
+무한 초월=Transcender o infinito
+HIGHLIGHT 효과 증가: 2턴 동안 모든 적이 받는 전격 속성 대미지가 20% 증가한다.=Efeito de DESTAQUE aumentado: Durante 2 turnos, todos os inimigos recebem 20% de dano Blitz aumentado.
+득점!=Pontuação!
+필드 내 <link\="s|104"><u>감전</u></link> 상태의 적이 받는 전격 속성 대미지가 20% 증가한다.=No campo <link\="s|104"><u>Eletrochoque</u></link> Os inimigos no campo recebem 20% de dano Blitz aumentado.
+승리의 결실=Os frutos da vitória
+카노 슌이 적의 공격을 받을 확률이 높아지고, 공격을 받은 후 『황야의 구세주』를 획득한다.\n카노 슌의 턴 종료 시 『황야의 구세주』를 소모하고 자신이 손실한 생명의 30%를 회복한다.=Aumenta a probabilidade de Kano Shun ser atacado por inimigos, e ganha Salvador da Terra Selvagem depois de ser atacado. No final do turno de Kano Shun, gasta Salvador da Terra Selvagem e recupera 30% da sua Vida perdida.
+카노 슌이 <link\="s|151"><u>『황야의 구세주』</u></link> 상태에서 적을 공격할 경우, 카노 슌의 최대 생명 10%에 해당하는 대미지를 추가로 주고 같은 양의 생명을 회복한다.=Shunyi Kano <link\="s|151"><u>『Salvador do deserto』</u></link> Enquanto estiver no modo de salvador da região selvagem, causa um dano adicional igual a 10% da Vida máxima de Kano Shun e cura uma quantidade igual de Vida.
+승리자의 영광=Glória da vitória
+카노 슌이 <link\="s|151"><u>『황야의 구세주』</u></link> 상태일 경우 받는 대미지가 8% 감소한다.=Shunyi Kano <link\="s|151"><u>『Salvador do deserto』</u></link> recebe 8% menos dano.
+하전서=Ficha de carga
+『흔들리는 빙산』, 『선봉 돌격』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Sacudir Iceberg" e "Carga de Vanguarda" em 2 níveis, até um máximo de nível 15.
+위험한 대치=Confronto perigoso
+카노 슌의 생명이 50% 미만일 경우 받는 치료 효과가 25% 증가한다.=Quando Kano Shun está com menos de 50% de vida, ele recebe 25% de aumento nos efeitos de cura.
+열혈 초연=Estreias Feverish
+『0도 치유』, 『전투 기술』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Cura de Grau 0" e "Habilidade de Combate" em 2 níveis, até um máximo de 15 níveis.
+한판의 승부=A luta
+HIGHLIGHT 효과 증가: 모든 동료의 받는 대미지가 2턴 동안 16% 감소한다.=Efeito de DESTAQUE aumentado: todos os aliados sofrem 16% de dano reduzido durante 2 turnos.
+폭력 처단=Lidar com a violência
+토미야마 카요가 서포트 스킬을 사용하면 임의 수량의 『리듬』을 획득한다. 『리듬』 수량이 4개에 도달하면 토미야마 카요가 『리듬』 4개를 소모해 <link\="s|100"><u>추가 효과</u></link> 『열렬한 가무』를 시전한다.\n『열렬한 가무』: 모든 동료가 버프를 획득해(1/50/70레벨 달성 시 변화) 공격력이 10%/15%/20%, 방어력이 10%/15%/20%, 효과 명중이 5%/7.5%/10% 증가한다(최대 3회 중첩 가능). 효과는 2턴 동안 지속된다.=Quando Kayo Tomiyama usa uma Habilidade de Suporte, ela ganha uma quantidade aleatória de Ritmo. Quando a quantidade de Ritmo chega a 4, Kayo Tomiyama consome 4 Ritmo. <link\="s|100"><u>Efeito adicional</u></link> Lança o 『Fervoroso Kamu』. 『Fervoroso Kamu』: Todos os aliados ganham reforços (muda nos níveis 1/50/70), aumentando o Ataque em 10%/15%/20%, a Defesa em 10%/15%/20% e a Eficácia em 5%/7,5%/10% (acumula até 3 vezes). O efeito dura 2 turnos.
+전투 시작 시 토미야마 카요가 <link\="s|141"><u>『리듬』</u></link>을 2개 획득한다.=Tomiyama Kayoga no início da batalha <link\="s|141"><u>"Rituais</u></link>2 Ritmo.
+토미야마 카요가 <link\="s|142"><u>『열렬한 가무』</u></link> 시전 시 25%의 고정 확률로 『앙코르』가 발동되며, <link\="s|142"><u>『열렬한 가무』</u></link>를 1회 추가 시전한다. 추가 시전한 <link\="s|142"><u>『열렬한 가무』</u></link>는 『앙코르』가 발동하지 않는다.=Kayoga Tomiyama <link\="s|142"><u>"Kamu Apaixonado"</u></link> Tem 25% de hipóteses fixas de ativar o Encore quando lançado, <link\="s|142"><u>"Kamu Apaixonado"</u></link>por 1 vez adicional. O elenco extra <link\="s|142"><u>"Kamu Apaixonado"</u></link>não ativa o Encore.
+뜨거운 음악♪앙코르=Música quente♪ Angkor
+『리듬』 수량이 4개가 되면 『열렬한 가무』를 시전해 모든 동료의 공격력, 방어력, 효과 명중이 증가한다.="Quando atingires 4 de Ritmo, lança Kamu Fervoroso para aumentar o Ataque, a Armadura e a Eficácia de todos os aliados.
+스킬 사용 후 토미야마 카요가 다양한 수량의 『리듬』을 획득한다. 『리듬』 수량이 4개가 되면 『열렬한 가무』를 시전해 모든 동료의 다양한 속성을 증가시킨다.=Depois de usar a habilidade, Kayo Tomiyama ganha uma quantidade variável de Ritmo e, quando atinge 4 Ritmo, pode lançar Kamu Zeloso para aumentar vários atributos de todos os aliados.
+『즐거운 파티』, 『화려한 흔들림』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Festa Divertida" e "Sacudidela Colorida" em 2 níveis, até um máximo de nível 15.
+찬란한 색채♪그리기=Cores brilhantes♪Desenho
+토미야마 카요가 <link\="s|142"><u>『열렬한 가무』</u></link> 시전 시 20%의 고정 확률로 <link\="s|141"><u>『리듬』</u></link> 1개를 반환한다.=Kayoga Tomiyama <link\="s|142"><u>"Kamu Apaixonado"</u></link> 20% de chance fixa de lançar <link\="s|141"><u>"Rituais</u></link> 1 Ritmo.
+흔들리는♪조명=Luzes Wiggly♪
+『화끈한 변주곡』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Variações Ardentes" em 2 níveis, até um máximo de nível 15.
+온도♪충돌=Temperatura♪Colisão
+임의의 동료가 HIGHLIGHT 스킬 시전 시 토미야마 카요는 67%의 고정 확률로 <link\="s|141"><u>『리듬』</u></link> 1개를 획득한다.=Quando um aliado aleatório lança o efeito de ALTO, Kayo Tomiyama tem 67% de hipótese fixa de <link\="s|141"><u>"Rituais</u></link> Pegue um.
+무대의 여왕♪으로 변신=Transforme-se na rainha do palco
+턴 시작 시 자신이 잃은 생명에 따라 류지의 공격력이 증가하고, 최저 10% 증가한다. 자신의 생명이 20% 미만일 경우 최고로 공격력이 40% 증가한다. 자신의 생명이 60% 이하인 경우 『리바운드』 효과를 추가 획득한다. 『리바운드』: 다음 페르소나 스킬이 주는 대미지가 30% 증가한다.=Aumenta o Dano de Ataque de Ryuji com base na quantidade de Vida que ele perdeu no início do turno, com um mínimo de 10%. Se ele tiver menos de 20% de Vida, seu Dano de Ataque é aumentado em 40%. Se ele tiver 60% ou menos de Vida, ele ganha o efeito adicional de "Ricochete". "Ricochete": Aumenta o dano causado por sua próxima habilidade de Persona em 30%.
+『차지 일격』 스킬의 차지 기간 동안 받는 대미지가 20% 감소한다.="Reduz o dano recebido pelo Golpe Carregado em 20% durante o período de carga.
+맹호의 포효=Rugido feroz
+『차지 일격』, 『전투 기술』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Golpe de Carga" e "Técnica de Combate" em 3 níveis, até um máximo de 15 níveis.
+승천의 나선 망치=Martelo em espiral da Ascensão
+스킬을 시전하여 크리티컬 발생 시 적의 방어력 20%를 무시한다.=Lança uma habilidade para ignorar 20% da Armadura de um inimigo durante um Acerto Crítico.
+쾌도난마=Gyudonanma
+『폭발 충돌』, 『전격의 징계』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Colisão Explosiva" e "Disciplina de Batalha" em 3 níveis, até um máximo de 15 níveis.
+환영의 연타=Golpe de boas-vindas
+HIGHLIGHT 효과 증가: 다음 스킬이 주는 대미지가 30% 증가하고, 크리티컬 효과는 75% 증가한다.=Efeito de Destaque Aumentado: A tua próxima habilidade causa 30% mais dano e 75% mais Dano Crítico.
+무적의 파풍참=Pendente Onda Invencível
+『차지 일격』 스킬을 시전하여 적에게 대미지를 줄 경우 목표에게 『두려움』 효과 1개를 부여한다. 『두려움』: 류지의 다음 스킬 시전 시 해당 적에게 주는 대미지가 60% 증가한다.="Quando lançares Golpe de Carga para causar dano a um inimigo, inflige 1 efeito de Medo ao alvo. Medo: A próxima habilidade de Ryuji causa 60% de dano aumentado a esse inimigo.
+초신절살=Fatias superfrescas
+<link\="s|130"><u>『리바운드』</u></link> 효과 발동 후, 자신의 공격력 <color\=#FFFC40>10.0%</color>에 해당하는 생명을 회복한다.=<link\="s|130"><u>"Rebote</u></link> Depois de o efeito ser ativado, o seu Ataque <color\=#FFFC40>10.0%</color>do seu Ataque como Vida.
+원소 이상, 2턴 동안 방어력이 12% 감소한다.=Elemental ou superior, reduz a Armadura em 12% por 2 turnos.
+동료가 적을 공격할 때, 임의의 동료의 생명이 70% 미만이면 모르가나가 광역 치료 효과를 1회 시전한다.=Quando um aliado ataca um inimigo, se um aliado aleatório estiver com menos de 70% de vida, Morgana lança Cura em área uma vez.
+화상, 빙결, 감전, 풍습 위 4가지 상태는 원소 이상에 속한다.=As queimaduras, o congelamento, a eletrocussão e o vento são quatro das anomalias elementares.
+자신의 턴 시작 시 자신의 생명이 60% 미만일 경우 해당 효과를 획득하고, 다음 스킬로 인한 대미지가 증가한다.=Se estiveres com menos de 60% de Vida no início do teu turno, ganhas o efeito e causas mais dano com a tua próxima habilidade.
+이전 턴과 다른 스킬을 사용할 때마다 『직감』을 1회 획득한다(3회 중첩 가능).\n『직감』: 동료가 스킬을 사용해 적 공격 시 임의의 동료 HP가 70% 미만일 경우, 모르가나가 <link\="s|100"><u>추가 효과</u></link>를 부여해 즉시 모든 동료의 공격력 10%+150/225/300(1/50/70레벨)의 생명을 회복시킨다.=Cada vez que usar uma habilidade diferente do turno anterior, ganha Intuição (acumula 3 vezes). Intuição: Se um aliado aleatório tiver menos de 70% de PV quando usar uma habilidade para atacar um inimigo, Morgana <link\="s|100"><u>Efeito adicional</u></link>para curar instantaneamente todos os aliados em 10% de Ofensa + 150/225/300 (1/50/70 níveis) de Vida.
+<link\="s|150"><u>『직감』</u></link> 효과는 생명 50% 이하의 동료에게 공격력 30%의 추가 치료를 부여한다.=<link\="s|150"><u>"Intuição</u></link> O efeito concede 30% de cura adicional a aliados com menos de 50% de vida.
+왕성한 힘=Vigor
+『치유술』, 『전투 기술』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.="Aumenta o nível de habilidade de Artes de Cura e Artes de Combate em 3 níveis, até um máximo de 15 níveis.
+살랑대는 꼬리=Cauda esvoaçante
+『치료술』은 메인 목표에 대한 치료량이 33% 증가한다.="A cura aumenta a quantidade de cura do objetivo principal em 33%.
+방해 금지=Não incomodar
+『질풍 강습』, 『미라클 펀치』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Golpe Vendaval" e "Soco Milagroso" em 3 níveis, até um máximo de nível 15.
+민첩한 반격=Contra-ataque ágil
+HIGHLIGHT 효과 증가: 동료 부활 시 공격력 60.0%+800의 생명을 추가로 회복한다.=Aumento do efeito de DESTAQUE: Revive aliados com 60.0% de Dano de Ataque adicional + 800 de Vida.
+사냥감 이동=Presas em movimento
+『미라클 펀치』의 명중률이 더 낮아지지 않고, 크리티컬 발생 후 적이 받는 대미지가 15% 증가한다. 효과는 2턴 동안 지속된다.="Soco Milagroso" não acerta mais forte e aumenta o dano causado por inimigos em 15% após um Acerto Crítico. O efeito dura 2 turnos.
+호기심쟁이=O Curioso
+자신의 턴 종료 시, 필드에 생명이 50% 미만인 적이 있는 경우, 적 1명당 『살기』 1개를 획득한다. 『살기』 3개를 획득할 때마다 조커는 추가로 1턴을 획득하고, 추가 턴 종료 후 『살기』는 제거된다. 모든 적은 각 전투에서 조커에게 1개의 『살기』만 줄 수 있다.=No final do teu turno, se houver inimigos no campo com menos de 50% de vida, ganha 1 vida por cada inimigo. Por cada 3 vidas ganhas, o Joker ganha mais 1 turno, e a vida é removida após o fim do turno adicional. Todos os inimigos só podem dar ao Joker 1 vida em cada batalha.
+액티브 스킬이 메인 목표에게 주는 대미지가 30% 증가한다.=As habilidades activas causam 30% de dano aumentado a alvos primários.
+춤추는 패=Mãos que dançam
+리소스 확인 중=Verificação dos recursos
+본 게임은 만 16세 이상 사용자에게 적합합니다.=O jogo é adequado para utilizadores com idade igual ou superior a 16 anos.
+건강한 게임을 위한 조언=Dicas para um jogo saudável
+서버=Servidor
+사용자명: =Nome de utilizador: 
+비밀번호: =Palavra-passe: 
+본 게임은 만 16세 이상 사용자에게 적합합니다. 건강을 위해 게임 시간을 잘 조절하시기 바랍니다.=Este jogo é adequado para utilizadores com idade igual ou superior a 16 anos. Para sua saúde e segurança, controle o tempo de jogo.
+부정한 게임을 배척하고, 해적판 게임을 거부하세요. 스스로를 보호하고, 속지 않도록 조심하십시오. 적당한 게임은 뇌에 이롭지만, 중독은 몸에 해롭습니다. 시간을 합리적으로 사용하여 건강한 생활을 누리세요.=Rejeite a batota e os jogos piratas. Proteja-se, não se deixe enganar. O jogo moderado é bom para o cérebro, mas a dependência é má para o corpo. Utilize o seu tempo de forma racional para viver uma vida saudável.
+현재 친구 신청이 없습니다.=Atualmente, não existem pedidos de amizade.
+셰이더 퀄리티=Qualidade do sombreador
+빛과 그림자 디테일=Detalhes de luz e sombra
+화질=Qualidade da imagem
+음영 품질 등급=Classificação da qualidade do sombreamento
+음성 자동 재생=Reprodução automática de voz
+더빙 언어=Línguas de dobragem
+푸시 메시지 허용=Permitir mensagens push
+파티 신청 차단=Bloqueio de pedidos de festas
+일반 공격 간소화=Simplificar ataques comuns
+상호 교류 물품/대화=Itens de interação/conversas
+퍼펙트월드 게임즈=Jogos Perfect World
+일본어 더빙=Dobragem japonesa
+첫 충전 시 2배 획득, 금액마다 1회 한정=2x no primeiro carregamento, limitado a 1x por montante
+적당하게 즐기고 이성적으로 소비하세요.=Apreciar com moderação e consumir de forma sensata.
+체력이 가득 찼습니다.=A tua resistência está completa.
+주일=Domingo
+알림 나가기=Ignorar notificações
+도전 보상=Prémios do desafio
+『액운의 추격』, 『전투 기술』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Perseguição da Fortuna" e "Habilidade de Combate" em 3 níveis, até um máximo de nível 15.
+비밀의 속임수=Truques secretos
+추가 턴에서 스킬로 소모하는 SP가 60% 감소한다. SP가 80% 이상이면 공격력이 50% 증가한다.=Reduz o custo de SP das habilidades em 60% por um turno adicional. Aumenta o dano causado em 50% se o SP for 80% ou superior.
+신비로움=Mistério
+『두려움 없는 억압』, 『불길한 징조』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.="Aumenta o nível de habilidade de Opressão Destemida e Presságio Agourento em 3 níveis, até um máximo de nível 15.
+단꿈의 짜임=Tecido do sapato
+HIGHLIGHT 효과 증가: 『살기』 3개를 획득한다.=Aumento do efeito de DESTAQUE: Ganha 3 de Vida.
+무중생유=Leite não pasteurizado
+필드에 생명이 10% 미만인 적이 존재할 경우 바로 해당 적을 참살한다. 효과 상한은 조커 공격력의 250%이다. 적마다 각 전투에서 최대 1회 발동 가능하다.=Se um inimigo estiver no campo com menos de 10% de vida, decapita-o instantaneamente. A eficácia é limitada a 250% do Dano de Ataque do Joker. Pode ser ativado uma vez por inimigo e por batalha.
+기묘한 결말=Finais bizarros
+자신의 턴 종료 시 생명이 50% 미만인 적이 있는 경우, 적 1명당 조커에게 『살기』를 1개를 준다. 3개를 모으면 추가로 1턴을 획득한다.=Se algum inimigo estiver com menos de 50% de Vida no final do teu turno, dá ao Joker 1 de Vida por cada inimigo. Junta 3 para ganhares mais 1 turno.
+전투 시작 시 <link\="s|169"><u>암리타</u></link> 효과를 1중첩 획득한다. 턴 시작 시 임의의 괴도의 생명이 70% 미만이면 자신이 100%의 고정 확률로 <link\="s|169"><u>암리타</u></link> 효과를 1중첩 획득한다. <link\="s|169"><u>암리타</u></link> 효과는 최대 2중첩 보유할 수 있다.=No início da batalha <link\="s|169"><u>Amrita</u></link> Se um Kaiju aleatório tiver menos de 70% de vida no início do turno, há 100% de hipóteses fixas de teres uma <link\="s|169"><u>Amrita</u></link> efeito em ti próprio. <link\="s|169"><u>Amrita</u></link> pode ter um máximo de 2 acúmulos.
+<color\=#66ccff>『암리타』</color>=<color\=#66ccff>"Amrita</color>
+중첩마다 미야시타 미나미에게 15%의 최대 생명 증가를 제공하고 모든 『암리타』 중첩수를 소모해서 『봄의 은혜』의 스킬 효과를 강화할 수 있다.=Cada pilha concede a Minami Miyashita 15% de Vida Máxima e consome todas as pilhas de Amrita para aumentar o efeito da habilidade Graça da primavera.
+치료량 초과 시 2턴 동안 괴도가 관통 20%를 획득한다.=Cura excessiva concede 20% de Penetração por 2 turnos.
+통증 관리=Gestão da dor
+『치유의 축복』, 『전투 기술』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.="Aumenta o nível de habilidade de Bênção de Cura e Habilidade de Combate em 3 níveis, até um máximo de 15 níveis.
+관리 계획=Planos de gestão
+『치유의 축복』이 동료 1명을 추가 치료하고 생명이 50% 미만인 괴도가 받는 해당 스킬의 치료 효과가 20% 증가한다.="Bênção de Cura cura 1 aliado adicional e aumenta o efeito de cura da habilidade em 20% para Goblins com menos de 50% de vida.
+관리 진단=Diagnóstico de gestão
+『은방울꽃 계시』, 『봄의 은혜』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.="Aumenta o nível de habilidade de Revelação do Lírio do Vale e Graça da primavera em 3 níveis, até um máximo de nível 15.
+관리 관여=Participação dos gestores
+HIGHLIGHT 효과 증가: HIGHLIGHT 스킬이 부여하는 생명 회복 효과와 최대 생명 증가 효과 지속 시간이 1턴 연장된다.=Aumento do efeito de DESTAQUE: Aumenta a duração da restauração de vida e o ganho máximo de vida das habilidades de DESTAQUE em 1 turno.
+수술 후 관리=Cuidados pós-operatórios
+동료가 사망하면 즉시 부활시키고 미야시타 미나미의 최대 생명 40%+1,200의 생명을 회복시킨다. 전투마다 1회 발동된다.=Quando um aliado morre, revive-o imediatamente e restaura 40% da Vida máxima de Minami Miyashita + 1.200 de Vida. É ativado uma vez por batalha.
+양심 부활=Reavivar a sua consciência
+<nobr>임의의 괴도가 페르소나 스킬을 시전해 대미지를 주면, YUI가 35%의 고정 확률로 즉시 스킬의 메인 목표를 추격해 공격력 80%의 전격 속성 대미지를 준다. 해당 추격은 <link\="s|100"><u>추가 효과</u></link>로 간주한다. 또한 해당 적이 받는 다음 전격 속성 대미지가 15% 증가하고 2턴 동안 지속된다.=<nobr>Quando um Goblin aleatório lança uma habilidade de Persona e causa dano, YUI tem 35% de hipóteses fixas de perseguir instantaneamente o alvo principal da habilidade, causando 80% de dano de ataque como um Ataque Blitz. <link\="s|100"><u>Efeito adicional</u></link>Além disso, o próximo dano de Blitz causado por esse inimigo é aumentado em 15% e dura 2 turnos.
+YUI의 추격 크리티컬 확률이 20% 증가한다. 감전 상태인 적 추격 시 크리티컬 확률이 10% 증가한다.=YUI tem 20% de aumento na Chance de Crítico de Perseguição. 10% de aumento na Chance de Crítico ao perseguir inimigos atordoados.
+★파종하는 날★=Dia da sementeira★★ Dia da sementeira
+『초희귀 보상』, 『전투 기술』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade da "Recompensa Super Rara" e da "Habilidade de Combate" em 3 níveis, até um máximo de 15 níveis.
+★빨리 싹트는 주문★=Feitiço de germinação rápida★★.
+적에게 추격을 시전한 후, 2턴 동안 자신의 공격력이 10% 증가한다(3회 중첩 가능).=Depois de lançar Perseguição num inimigo, aumenta o seu dano em 10% durante 2 turnos (acumula 3 vezes).
+★무지개 제조기★=Criador de arco-íris★ ★ Criador de névoa
+『타닥 깜짝상자』, 『폭발 벽돌』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade da "Caixa Surpresa Tadak" e do "Tijolo Explosivo" em 3 níveis, até um máximo de nível 15.
+★벌레에게 선전포고★=Declaração de guerra aos insectos
+HIGHLIGHT 효과 증가: 2턴 동안 추격 크리티컬 효과가 40% 증가한다.=Aumento da eficácia de DESTAQUE: Aumenta a eficácia do Golpe Crítico de Perseguição em 40% durante 2 turnos.
+★영악한 풀숲춤★=Dança da relva sorrateira
+필드에 적이 1명만 있을 시 YUI의 추격 기본 스킬 배율이 공격력의 110%까지 증가한다. YUI의 추격으로 다른 모든 적에게 25%의 스퍼터링 대미지를 준다. =O multiplicador de habilidade base da Perseguição de YUI é aumentado para 110% de dano quando há apenas 1 inimigo no campo. A Perseguição de YUI causa 25% de dano de vibração a todos os outros inimigos. 
+★즐거운 풍작★=Colheita deliciosa
+니시모리 하루나가 스킬 사용 시 모든 『동심』을 소모해 모든 동료의 공격력을 증가시킨다.=Haruna Nishimori consome toda a sua Concentricidade para aumentar o Ataque de todos os aliados quando usa esta habilidade.
+『총애』 상태인 동료가 스킬을 시용해 대미지를 주면 니시모리 하루나가 『동심』을 획득한다.=Quando um colega de equipa em estado de "Afeição Total" lança uma habilidade e causa dano, Haruna Nishimori recebe "Concentração".
+니시모리가 페르소나 스킬 사용 시 모든 <link\="s|164"><u>『동심』</u></link>을 소모한다. <link\="s|164"><u>『동심』</u></link>을 1중첩 소모할 때마다 모든 동료의 공격력이 8% 증가하며, 2턴 동안 지속된다(<link\="s|164"><u>『동심』</u></link> 최대 5회 중첩).=Quando Nishimori usa uma habilidade de persona, todos os <link\="s|164"><u>"Concentricidade</u></link>quando Nishimori usa uma habilidade de Persona. <link\="s|164"><u>"Concentricidade</u></link>consumido aumenta o Dano de Ataque de todos os aliados em 8%, com duração de 2 turnos (<link\="s|164"><u>"Concentricidade</u></link> acumula até 5 vezes).
+동료가 스킬을 사용해 대미지를 주면 니시모리의 공격력이 20% 증가한다(3회 중첩 가능). 다음 턴에 스킬을 사용한 후 해당 효과가 사라진다.=Quando um aliado usa uma habilidade para causar dano, o dano de Nishimori é aumentado em 20% (acumula 3 vezes). O efeito desaparece após a habilidade ser usada no próximo turno.
+갈림길! 선택!=Cruzamento! Escolha!
+『왕성한 동심』, 『전투 기술』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível das habilidades "Concentração Planetária" e "Habilidade de Combate" em 3 níveis, até um máximo de nível 15.
+경험치! 획득!=Experiência, ganha!
+『의문 추적』을 통해 <link\="s|164"><u>『동심』</u></link>을 획득하는 고정 확률이 20% 증가한다. 『왕성한 동심』 스킬 사용 시 <link\="s|164"><u>『동심』</u></link> 중첩수가 최대인 경우 모든 동료의 공격력이 18% 추가 증가한다.="Através do rastreio de perguntas <link\="s|164"><u>"Concentricidade</u></link>Ao usar a habilidade "Concentricidade Planetária", você tem uma chance fixa de ganhar <link\="s|164"><u>"Concentricidade</u></link> no máximo de acúmulos, todos os aliados causam 18% de dano adicional.
+조수! 레벨업!=Ajudante! Sobe de nível!
+『멍청한 조수』, 『똑똑한 탐험가』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.="Aumenta o nível de habilidade do Ajudante Mudo e do Explorador Inteligente em 3 níveis, até um máximo de 15 níveis.
+장비! 강화!=Equipar! Melhorar!
+HIGHLIGHT 효과 증가: 대미지 증가 효과가 2턴으로 연장된다.=Aumento do efeito de DESTAQUE: Aumenta o bónus de dano para 2 turnos.
+몬스터! 처치!=Monstro! Mata!
+<link\="s|164"><u>『동심』</u></link>을 5회 획득할 때마다 『호기심 폭발』을 획득한다. 적을 목표로 페르소나 스킬 사용 시 주는 대미지가 75% 증가하고, 대미지를 준 후 사라진다.=<link\="s|164"><u>"Concentricidade</u></link>a cada 5 vezes, ganha Explosão de Curiosidade, que aumenta o dano causado em 75% quando usa as suas habilidades de Persona num inimigo e desaparece depois de causar dano.
+수수께끼! 풀기!=Adivinha! Resolvido!
+자신의 턴 시작 시 속도 10포인트마다 『추억』 1포인트를 획득한다. 이 방식으로 턴마다 『추억』을 최대 18포인트 획득한다. 『추억』 40포인트 도달 시 자신은 모든 『추억』을 소모해 <link\="s|127"><u>『맹파탕』</u></link>을 획득한다. 스킬 시전 시 자신이 <link\="s|127"><u>『맹파탕』</u></link>을 보유하고 있으면 일부 스킬이 강화된다. 또한 1턴 동안 50%의 기본 확률로 스킬 메인 목표를 <link\="s|108"><u>망각</u></link> 상태에 빠뜨린다.=No início do teu turno, ganha 1 ponto de Memórias por cada 10 pontos de Velocidade. Podes ganhar até 18 pontos de Memórias por turno desta forma. Quando atingires 40 pontos de Memórias, gastas todas as tuas Memórias. <link\="s|127"><u>『Maeun-tang』</u></link>Quando jogas uma habilidade, ganhas <link\="s|127"><u>『Maeun-tang』</u></link>Quando conjuras uma habilidade, algumas habilidades são melhoradas. Além disso, durante 1 turno, tens 50% de probabilidade de mudar o alvo principal da habilidade para <link\="s|108"><u>Esquecer</u></link> estado.
+다음에 시전하는 액티브 스킬에 일정 확률로 망각 효과가 추가되고, 일부 스킬이 강화된다.=A tua próxima habilidade ativa tem uma hipótese de adicionar Oblivion à tua próxima habilidade ativa, e algumas habilidades são melhoradas.
+전투 시작 시 <link\="s|127"><u>『맹파탕』</u></link>을 획득한다.=No início da batalha <link\="s|127"><u>『Maeun-tang』</u></link>no início da batalha.
+돌이킬 수 없는 슬픔=Luto irreversível
+『사자놀이』, 『전투 기술』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Jogo do Leão" e "Habilidades de Combate" em 3 níveis, até um máximo de 15 níveis.
+적적한 다리=A perna direita
+목표물 1명에게 디버프를 1개 부여할 때마다 리 야오링의 공격력이 2턴 동안 10% 증가한다(5회 중첩 가능).=Por cada 1 penalidade infligida a 1 alvo, aumenta o dano de Li Yao Ling em 10% durante 2 turnos (acumula 5 vezes).
+잔잔한 이별=Separação suave
+『나룻배 사공』, 『피안의 덤불』의 스킬 레벨이 3레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Barqueiro" e "Arvoredo de Fianna" em 3 níveis, até um máximo de nível 15.
+진한 맹파탕=Meng Pao Tang espesso
+HIGHLIGHT 효과 증가: 적이 받는 대미지가 20% 추가 증가하고, 모든 적이 <link\="s|112"><u>주원</u></link> 효과를 1개 획득한다.=Efeito de destaque aumentado: Os inimigos recebem 20% de dano adicional, e todos os inimigos se tornam <link\="s|112"><u>Suporte</u></link> efeito em todos os inimigos.
+안개같은 지난 일=Passado nebuloso
+2턴 동안 턴마다 최대 생명 1%에 상당하는 대미지를 받는다.=Recebe dano equivalente a 1% da sua Vida máxima por turno durante 2 turnos.
+스킬을 사용해 <link\="s|127"><u>『맹파탕』</u></link>을 소모한 후, 60%의 고정 확률로 <link\="s|127"><u>『맹파탕』</u></link>을 반환한다. 해당 효과의 쿨타임은 1턴이다.=Utilizar competências <link\="s|127"><u>『Maeun-tang』</u></link>e tem 60% de chance fixa de conceder um <link\="s|127"><u>『Maeun-tang』</u></link>Este efeito tem um tempo de espera de 1 turno.
+붉은 만주=Manchurian vermelho
+임의의 동료의 생명이 60% 이하일 경우, 해당 동료는 <link\="s|128"><u>『활성』</u></link>을 획득하여 카미야마 레오 공격력의 6%만큼 공격력이 증가한다(1/50/70레벨 시 최대 120/180/240 공격력 증가). 효과는 1턴 동안 지속되며 <link\="s|128"><u>『활성』</u></link>은 최대 2회 중첩된다.=Se um colega aleatório tiver 60% ou menos de saúde, esse colega é <link\="s|128"><u>"Ativo</u></link>para aumentar o Dano de Ataque de Kamiyama Leo em 6% (até 120/180/240 de Dano de Ataque aumentado nos níveis 1/50/70). O efeito dura 1 turno e pode ser ativado com a opção <link\="s|128"><u>"Ativo</u></link>pode ser acumulado até 2 vezes.
+임의의 동료의 생명이 60% 이하일 경우 『활성』을 획득하고 공격력이 증가한다.=Se um aliado aleatório tiver 60% ou menos de vida, ganha [Ativo] e aumenta o Ataque.
+『활성』을 지닌 동료의 방어력이 10% 증가한다.="Aliados com [Ativo] ganham 10% de aumento de Armadura.
+『핵열의 환상』, 『생명 추출』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Ilusão de Calor Central" e "Extração de Vida" em 2 níveis, até um máximo de nível 15.
+하! 사생결단=Bastardização
+동료를 목표로 페르소나 스킬 시전 시 자신의 공격력이 25% 증가한다.=Recebe 25% de dano aumentado ao lançar habilidades de Persona contra aliados.
+변방의 구세주=Salvadores à margem
+『에너지 변환』, 『전투 기술』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.="Aumenta o nível de habilidade de Conversão de Energia e Habilidades de Combate em 2 níveis, até um máximo de 15 níveis.
+성장과 속박=Crescimento e escravatura
+HIGHLIGHT 효과 증가: 2턴 동안 목표 동료의 크리티컬 효과가 25% 증가한다.=Efeito de DESTAQUE aumentado: aumenta o Dano Crítico do aliado alvo em 25% por 2 turnos.
+영웅의 귀로=Para os ouvidos dos heróis
+동료를 목표로 페르소나 스킬 시전 시 생명이 60% 이하일 경우 1턴 동안 크리티컬 효과가 25% 증가한다.=Ao lançar habilidades de Persona contra aliados, se eles estiverem com menos de 60% de vida, recebe 25% de aumento de Dano Crítico por 1 turno.
+끝나지 않는 세상=Um mundo que nunca acaba
+스킬 시전 시 쿠로타니 키요시가 『헌제자』 상태 1중첩을 획득한다.\n『헌제자』: 모든 동료가 주는 화염 속성 대미지가 5% 증가하고, 스킬을 사용할 때 쿠로타니 키요시는 현재 생명의 4%를 잃는다. 2턴 동안 지속되며 최대 5회 중첩 가능하다. 『헌제자』 상태의 각 중첩 지속 시간은 독립적으로 계산된다.=Ao usar uma habilidade, Kurotani Kiyoshi recebe 1 acúmulo de estado Consagrado. Consagrado: Todos os aliados causam 5% a mais de dano de Fogo e Kurotani Kiyoshi perde 4% de sua Vida atual ao usar uma habilidade. Dura 2 turnos e pode acumular até 5 vezes. Cada acúmulo de estado Consagrado é contado independentemente.
+자신의 턴 시작 시 <link\="s|135"><u>『헌제자』</u></link> 1중첩마다 12%의 고정 확률로 임의의 1명의 적을 <link\="s|102"><u>화상</u></link> 상태에 빠뜨린다.=No início da tua vez <link\="s|135"><u>"O Consagrado</u></link> Tem 12% de hipótese fixa por pilha de <link\="s|102"><u>Causar Queimadura</u></link> estado.
+겹겹이 쌓인 공포=Terror em camadas
+쿠로타니 키요시가 스킬 시전 시 『헌제자』 상태를 획득한다. 중첩마다 모든 동료가 주는 화염 대미지가 증가하지만, 쿠로타니 키요시가 스킬을 시전할 때 현재 생명의 일정량을 잃는다(최대 5회 중첩 가능).=Kurotani Kiyoshi ganha o estatuto de Consagrado ao lançar uma habilidade. Cada acumulação aumenta o dano de fogo causado por todos os aliados, mas Kurotani Kiyoshi perde uma percentagem da sua saúde atual ao lançar a habilidade (pode acumular até 5 vezes).
+원소 이상, 2턴 동안 턴마다 생명 5%를 잃는다.=Elemental ou superior, perde 5% de Vida por turno durante 2 turnos.
+『폭염』, 『화염의 정화』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Tempestade de Fogo" e "Purificação de Fogo" em 2 níveis, até um máximo de nível 15.
+참회하라, 죄인이여=Arrepende-te, pecador
+자신의 턴 시작 시 <link\="s|102"><u>화상</u></link> 상태인 적 1명마다 주는 화염 속성 대미지가 8% 증가한다. 1턴 동안 지속되며 최대 3명의 적까지 가능하다.=No início da tua vez <link\="s|102"><u>Causar Queimadura</u></link> aumenta o teu dano de Fogo em 8% por cada inimigo com o estado, com duração de 1 turno e até 3 inimigos.
+심령 사건=Incidentes psíquicos
+『촛불의 빛』, 『전투 기술』의 스킬 레벨이 2레벨 증가하고, 최대 15레벨까지 증가한다.=Aumenta o nível de habilidade de "Luz de Vela" e "Habilidade de Combate" em 2 níveis, até um máximo de nível 15.
+악마 몰아내기=Exorcizar os demónios
+HIGHLIGHT 효과 증가: 목표가 받는 화염 대미지 증가 효과가 추가로 23.3% 증가한다.=Aumento do Efeito de Destaque: Aumenta o bónus de dano de Fogo recebido pelo alvo em mais 23,3%.
+신성한 스토리=Histórias Sagradas
+<link\="s|135"><u>『헌제자』</u></link>를 10중첩 획득할 때마다 2턴 동안 모든 동료가 주는 화염 속성 대미지가 30% 증가한다.=<link\="s|135"><u>"O Consagrado</u></link>por 10 aplicações aumenta o dano de Fogo causado por todos os aliados em 30% por 2 turnos.
+카노 슌이 공격을 받은 후 획득한다. 자신의 턴 종료 시 『황야의 구세주』를 소모해 자신의 생명을 일정량 회복한다.=Obtido depois de Kano Shun ser atacado. No final do teu turno, gasta Salvador da Terra Selvagem para restaurar uma certa quantidade de vida para ti.
+원소 이상, 2턴 동안 공격력이 12% 감소한다.=Elemental ou superior, causa 12% de dano reduzido por 2 turnos.
+후지카와 유키미, 그리고 『맹세』 상태인 동료가 축복 효과를 획득할 시 『에너지 충전』을 획득하며, 『절대 심판』 스킬로 주는 대미지가 증가한다.=Fujikawa Yukimi e aliados com Juramento ganham "Carga de Energia" quando recebem um efeito de Bênção, aumentando o dano causado pela habilidade "Julgamento Absoluto".
+특수 『시』, 『운명의 십사행시』에 치료 효과를 추가한다.=Adiciona um efeito de cura ao Poema especial e aos Catorze Actos do Destino.
+특수 『시』, 『운명의 십사행시』에 주원 효과를 추가한다.=Adiciona um efeito primário aos especiais "Poema" e "Catorze Actos do Destino".
+특수 『시』, 『운명의 십사행시』에 만능 대미지를 추가한다.=Aumenta o dano total do Poema especial e dos Catorze Actos do Destino.
+코토네 몽타뉴 고유의 특수 전투 자원인 『얼음 결정』이 일정 수량에 도달한 후 자신의 턴 종료 시 『칼끝의 댄서』가 발동된다.=O recurso combinado exclusivo de Kotone Montta, "Ice Crystal", atinge uma certa quantidade, e o dançarino no final de sua vez é desencadeado no final de sua vez.
+정신 이상, 행동할 수 없고 턴마다 생명 5%와 SP 5%를 회복한다. 대미지를 받은 후 제거된다.=Insano, incapaz de agir, cura 5% de Vida e 5% de SP por turno, removido após sofrer dano.
+현기증, 망각, 수면, 광노, 절망, 공포, 혼란, 세뇌 위 8가지 상태는 정신 이상에 속한다.=Tonturas, esquecimento, sono, raiva, desespero, medo, confusão e lavagem cerebral são os oito estados de espírito.
+도전 배지.\n업적 「희망을 좇는 여정」 1단계 달성=Crachá de Desafio - Conquista "Viagem à Esperança" Fase 1
+도전 배지.\n업적 「희망을 좇는 여정」 2단계 달성=Crachá de conquista "Viagem à Esperança" Fase 2
+도전 배지.\n업적 「희망을 좇는 여정」 3단계 달성=Crachá de conquista "Viagem à Esperança" Fase 3
+도전 배지.\n업적 「독보적인 무투파」 1단계 달성=Crachá de conquista. Conquista "Mutufa sem rival" Fase 1
+도전 배지.\n업적 「독보적인 무투파」 2단계 달성=Crachá de conquista. Conquista "Mutufa sem rival" Fase 2
+도전 배지.\n업적 「독보적인 무투파」 3단계 달성=Distintivo de conquista. Conquista "Mutupa Incomparável" Fase 3
+도전 배지.\n업적 「인연의 통신록」 1단계 달성=Crachá de conquista. Conquista "Correspondência do Destino" Fase 1
+도전 배지.\n업적 「인연의 통신록」 2단계 달성=Crachá de conquista. Conquista "Correspondência do Destino" Fase 2
+도전 배지.\n업적 「인연의 통신록」 3단계 달성=Distintivo de conquista "Correspondência do Destino" Fase 3
+도전 배지.\n업적 「페르소나의 초대장」 3단계 달성=Crachá da Conquista "Convite de Perséfone" Fase 3
+도전 배지.\n업적 「페르소나의 초대장」 2단계 달성=Crachá da Conquista "O Convite de Perséfone" Fase 2
+도전 배지.\n업적 「페르소나의 초대장」 1단계 달성=Crachá da Conquista "O Convite de Perséfone" Fase 1
+도전 배지.\n업적 「도시 유람」 3단계 달성=Crachá da conquista "City Tour" Etapa 3
+도전 배지.\n업적 「도시 유람」 2단계 달성=Crachá de Conquista: Conquista "City Tour" Fase 2
+도전 배지.\n업적 「도시 유람」 1단계 달성=Conquistou a conquista "Passeio pela cidade" Etapa 1
+토모코의 일이 모토하를 힘들게 할 게 분명하다. 학교 옥상으로 가서 도움이 될 일이 있는지 알아보자.=O trabalho da Tomoko deve estar a tornar as coisas difíceis para a Motoha, por isso vamos até ao telhado da escola para ver se há alguma coisa que possamos fazer para ajudar.
+시모키타자와  코카츠 고교=Escola Secundária de Shimokitazawa Kokatsu
+7일 전=7 dias atrás
+레이피어=Arpão
+히트 윕=Chicote de calor
+타카마키 안 전용 근거리 무기. 화상 능력이 있는 모조 채찍.=Arma de curto alcance exclusiva de Takamakian. Uma imitação de chicote com a habilidade de queimar.
+유연=Flexível
+미유의 지식 조각=O conhecimento de Miyu
+이세계에 남아있는 사하라 미유의 일말의 의식. 캐릭터를 중복 획득할 시 전환되며, 의식을 진화하는 데 사용한다.=Um resquício da consciência de Sahara Miyu no Outro Mundo. É trocado quando se obtém uma personagem duplicada e pode ser usado para evoluir a consciência.
+괴도의 전기가 소량 실린 조각. 더 많은 괴도의 전설을 알게 되었다.=Um pequeno artigo biográfico sobre Gödö. Fiquei a saber mais sobre a lenda de Gödö.
+온화한 향기에 도전해 획득=Ganhou ao desafiar o aroma suave
+사랑의 사자라고 불리는 붓꽃 향기가 메인 노트로, 다양한 재료가 어우러져 관능적이고 열정적인 분위기를 선사하는 향수.=A nota principal é o aroma da íris, conhecida como a mensageira do amor, e os vários ingredientes combinam-se para criar uma atmosfera sensual e apaixonada.
+영적 깨달음에 도전해 획득=Desafiar e conquistar a iluminação espiritual
+진귀한 침향목 에센스를 추출하여 만든 것으로, 향이 처음에는 진했다가 나중에는 부드러워진다. 그윽해진 향은 점차 두각을 드러낸다.=Feito a partir da essência da preciosa madeira de cedro, o aroma é forte no início, depois suaviza-se e a fragrância torna-se gradualmente mais pronunciada.
+각종 기기와 장치를 호환할 수 있는 대형 범용 부품.=Grandes peças universais que são compatíveis com uma vasta gama de aparelhos e dispositivos.
+모든 페르소나 존재의 흔적. 더 많은 힘을 각성시킨다.=Vestígios de todos os seres da persona. Desperta mais poder.
+서로 얽매여 있던 존재들이 「인지의 구현화」 속에서 다시 드러날 때 떨어뜨린 조각.=Um fragmento deixado cair quando seres que antes estavam ligados uns aos outros reaparecem na Encarnação da Cognição.
+아연을 주요 합금 원소로 하는 구리 합금.=Uma liga de cobre com zinco como principal elemento de liga.
+일반적인 제작 재료. 작업대에서 잠입 아이템인 『흉몽의 주문』·『황금빛 행운의 주문』을 제작할 수 있다.=Um material de fabrico comum que pode ser usado para fabricar os itens furtivos Feitiço do Pesadelo e Feitiço da Fortuna Dourada na bancada de trabalho.
+은빛이 나는 액체 금속. 신중하게 사용할 아이템 재료가 필요하다.=Metal líquido de cor prateada que requer uma utilização cuidadosa dos materiais.
+일반적인 제작 재료. 작업대에서 잠입 아이템인 『키 픽』·『파괴 폭죽』·『천라지망 주문』을 제작할 수 있다.=Materiais de fabrico comuns. A bancada de trabalho pode ser usada para fabricar os itens furtivos Palheta de Chaves, Foguete Destrutivo e Feitiço do Telescópio Celestial.
+잭 오 랜턴 처치 시 확률 획득=Ganhar a possibilidade de matar Jack o' Lanterns
+눈에 잘 띄지 않는 끈. 잘 활용하면 가지 못할 것 같은 곳도 도약해서 갈 수 있다.=Um cordão discreto que lhe permite saltar e ir onde pensa que não pode ir.
+잠입 아이템=Artigos sorrateiros
